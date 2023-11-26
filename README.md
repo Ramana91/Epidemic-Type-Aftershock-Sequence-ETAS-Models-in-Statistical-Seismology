@@ -28,6 +28,6 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
 ### Reproduce the analysis
 
-The following steps 
+The following steps are used
 
 
