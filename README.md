@@ -32,7 +32,16 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
 ### Run the analysis for the ETAS Model (Model 1)
 
-Given the two separate models that were run, slight variations in datasets are required. This is for the first ETAS model, that does not utilise the forward likelihood predictive approach for non-parametric estimation.
+Given the two separate models that were run, slight variations in datasets are required. This is for the first ETAS model, that does not utilise the forward likelihood predictive approach for non-parametric estimation. The data obtained from USGS is first transformed prior to loading into R. First, only the headers relating to columns time, latitude, longitude, depth and magnitude are retained, with the rest being removed from the dataset. The next step was to separate out the time column into two separate columns, one representing the date the earthquake occurred, and the next column representing the time of the earthquake. It is important for the analysis that the date is represented in format “yyyy/mm/dd”. The data was then loaded into R 3.6.1, utilising the ETAS package to develop this version of the model. 
+
+Nine models were devleoped, each with a different threshold for the magnitude of earthquakes to be included within the model as required for this model. In addition to this, starting parameters were required to be used which are summarised in the model below.
+
+| Parameter       | μ1    | A1    | c1    | α1  | p1    | D1     | q1    | γ1  |
+|-----------------|-------|-------|-------|-----|-------|--------|-------|-----|
+| Initial Estimate| 1.025 | 1.18  | 0.02  | 0.1 | 1.08  | 0.0018 | 1.22  | 0.5 |
+
+
+The necessary R code to run this is summarised below. Note that 
 
 * Use the following command line to set the working directory to the relevant repository, load in the necessary files and run load the libraries highlighted above. 
   ```sh
@@ -44,7 +53,11 @@ Given the two separate models that were run, slight variations in datasets are r
 
   # Load the ETAS package
   library(ETAS)
-  dat <- read.csv(file="C:/Users/raman/OneDrive/STAT 825 - Research Project/2000 - 2019/bametas.csv")
+
+  # Load in the file csv file for this model referenced above 
+  dat <- read.csv(file="bametas.csv")
+
+  # Renaming of columns so they can be loaded into the model.
   dat <- dat[, c(1, 2, 4, 3, 6)]
   names(dat) <- c('date', 'time', 'long', 'lat', 'mag')
 
@@ -53,41 +66,28 @@ Given the two separate models that were run, slight variations in datasets are r
   cat7
 
 
-Table 1 .4 – Method 1 Model Comparisons
-Model	Model 1	Model 2	Model 3	Model 4	Model 5	Model 6	Model 7	Model 8	Model 9
-Threshold	3.0	3.5	3.9	4.0	4.1	4.2	4.3	4.4	4.5
-Observations	1002	945	924	785	684	582	486	407	323.00
-AIC	6969.03	6803.62	6181.44	5991.68	5482.55	4920.94	4328.58	3765.28	3260.79
-# of Iterations	8	8	8	8	8	8	8	6	7
-Time Taken	25 mins	19 mins	19 mins	20 mins	22 mins	18 mins	7 mins	5 mins	6 mins
-Significant Parameters	4	4	5	5	5	4	4	5	4
-μ_1	Estimate	0.87	0.87	0.85	0.85	0.84	0.84	0.84	0.86	0.88
-	St Error	0.02	0.02	0.02	0.02	0.02	0.02	0.02	0.03	0.03
-	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-A_1	Estimate	1.17	1.18	1.21	1.17	1.18	1.19	1.31	1.40	2.49
-	St Error	0.04	0.04	0.04	0.05	0.05	0.06	0.07	0.09	0.26
-	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-α_1	Estimate	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
-	St Error	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
-	Significant	No	No	No	No	No	No	No	No	No
-c_1	Estimate	0.01	0.01	0.02	0.01	0.02	0.02	0.02	0.01	0.01
-	St Error	0.07	0.07	0.08	0.08	0.09	0.09	0.10	0.11	0.15
-	Significant	No	No	No	No	No	No	No	No	No
-p_1	Estimate	1.09	1.09	1.09	1.09	1.09	1.08	1.08	1.07	1.03
-	St Error	0.00	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01
-	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-γ_1	Estimate	0.22	0.11	0.77	0.51	0.61	0.19	0.35	0.79	0.34
-	St Error	0.35	0.85	0.15	0.23	0.22	0.82	0.52	0.25	0.63
-	Significant	No	No	Yes	Yes	Yes	No	No	Yes	No
-D_1	Estimate	0.002	0.002	0.001	0.002	0.002	0.003	0.002	0.002	0.003
-	St Error	0.12	0.10	0.10	0.09	0.10	0.10	0.12	0.12	0.14
-	Significant	No	No	No	No	No	No	No	No	No
-q_1	Estimate	1.23	1.20	1.18	1.21	1.20	1.22	1.17	1.17	1.18
-	St Error	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.02
-	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+| Model             | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 | Model 6 | Model 7 | Model 8 | Model 9 |
+|-------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Threshold         | 3.0     | 3.5     | 3.9     | 4.0     | 4.1     | 4.2     | 4.3     | 4.4     | 4.5     |
+| Observations      | 1002    | 945     | 924     | 785     | 684     | 582     | 486     | 407     | 323.00  |
+| AIC               | 6969.03 | 6803.62 | 6181.44 | 5991.68 | 5482.55 | 4920.94 | 4328.58 | 3765.28 | 3260.79 |
+| # of Iterations   | 8       | 8       | 8       | 8       | 8       | 8       | 8       | 6       | 7       |
+| Time Taken        | 25 mins | 19 mins | 19 mins | 20 mins | 22 mins | 18 mins | 7 mins  | 5 mins  | 6 mins  |
+| Significant Parameters | 4       | 4       | 5       | 5       | 5       | 4       | 4       | 5       | 4       |
+| μ_1 Estimate      | 0.87    | 0.87    | 0.85    | 0.85    | 0.84    | 0.84    | 0.84    | 0.86    | 0.88    |
+| μ_1 St Error      | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.03    | 0.03    |
+| μ_1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+| A_1 Estimate      | 1.17    | 1.18    | 1.21    | 1.17    | 1.18    | 1.19    | 1.31    | 1.40    | 2.49    |
+| A_1 St Error      | 0.04    | 0.04    | 0.04    | 0.05    | 0.05    | 0.06    | 0.07    | 0.09    | 0.26    |
+| A_1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+| α_1 Estimate      | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    |
+| α_1 St Error      | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     |
+| α_1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
+| c_1 Estimate      | 0.01    | 0.01    | 0.02    | 0.01    | 0.02    | 0.02    | 0.02    | 0.01    | 0.01    |
+| c_1 St Error      | 0.07    | 0.07    | 0.08    | 0.08    | 0.09    | 0.09    | 0.10    | 0.11    | 0.15    |
+| c_1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
+| p_1 Estimate      | 
 
-
-  
   
   
 
