@@ -18,8 +18,8 @@ The project concludes with the second variation of the ETAS model being more app
 
 ### Software Utilised and Prerequisites
 
-This project was run utilising [R](https://cran.r-project.org/bin/windows/base/), with the corresponding IDE [RStudio ](https://posit.co/download/rstudio-desktop/) being used. After downloading and installing these programs, a 
+This project was run utilising [R](https://cran.r-project.org/bin/windows/base/), with the corresponding IDE [RStudio ](https://posit.co/download/rstudio-desktop/) being used. After downloading and installing these programs, a few library's were installed, one for each of the models ([etas](https://cran.r-project.org/web/packages/ETAS/index.html) and [etasflp](https://cran.r-project.org/web/packages/etasFLP/index.html)) and another for basic data transformation [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
 
-* npm
+* Steps to install required Libraries
   ```sh
   npm install npm@la
