@@ -22,4 +22,7 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
 * Steps to install required Libraries
   ```sh
-  npm install npm@la
+  > install.packages("ETAS")
+  > install.packages("etasFLP")
+  > install.packages("dplyr")
+
