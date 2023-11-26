@@ -1,0 +1,1111 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-09-16T20:03:22.415Z,27.5961,56.3791,10,4.3,mb,,112,2.644,1.25,us,us70005h8e,2019-09-24T18:02:20.040Z,"46km NNE of Bandar 'Abbas, Iran",earthquake,8.4,1.9,0.083,41,reviewed,us,us
+2019-09-16T16:55:41.986Z,27.6148,56.3437,10,4.5,mb,,105,2.661,0.93,us,us70005h57,2019-09-24T19:48:49.040Z,"47km N of Bandar 'Abbas, Iran",earthquake,7.4,1.9,0.094,33,reviewed,us,us
+2019-09-08T19:13:49.235Z,26.9847,55.5638,34.36,4.4,mb,,87,2.111,1.26,us,us70005h4r,2019-10-07T14:23:58.040Z,"70km W of Qeshm, Iran",earthquake,9.8,6.3,0.13,17,reviewed,us,us
+2019-09-08T10:53:27.902Z,26.9094,55.608,10,4.6,mb,,82,2.028,0.64,us,us70005de5,2019-10-02T06:26:55.040Z,"66km W of Qeshm, Iran",earthquake,4.1,1.9,0.077,50,reviewed,us,us
+2019-09-03T18:47:03.587Z,27.1568,59.6836,35.24,4.9,mb,,76,3.826,1.09,us,us70005bl4,2019-10-04T21:50:31.040Z,"99km W of Iranshahr, Iran",earthquake,7.6,5.7,0.053,118,reviewed,us,us
+2019-08-27T20:05:30.346Z,27.946,56.6744,10,4.2,mb,,76,3.018,0.78,us,us700058wf,2019-09-27T18:57:57.040Z,"92km NNE of Bandar 'Abbas, Iran",earthquake,7.4,1.9,0.103,32,reviewed,us,us
+2019-07-26T11:45:12.224Z,31.9141,55.6066,10,4.3,mb,,49,6.963,0.73,us,us60004vua,2019-08-27T10:30:29.040Z,"38km NNE of Bafq, Iran",earthquake,6.6,1.9,0.089,36,reviewed,us,us
+2019-07-22T22:59:02.026Z,26.759,55.0084,10,5,mww,,69,2.103,0.7,us,us70004qwn,2019-10-04T16:37:39.040Z,"25km NNE of Bandar-e Lengeh, Iran",earthquake,7.7,1.8,0.086,13,reviewed,us,us
+2019-07-16T18:15:26.144Z,28.4389,56.8105,10,4.3,mb,,78,3.521,0.96,us,us70004llj,2019-10-04T16:37:03.040Z,"92km S of Kuh Sefid, Iran",earthquake,4.4,1.9,0.079,50,reviewed,us,us
+2019-07-16T16:21:04.552Z,28.4173,56.761,10,4.5,mb,,73,3.493,0.88,us,us70004lh0,2019-10-04T16:37:03.040Z,"95km S of Kuh Sefid, Iran",earthquake,6.3,1.8,0.061,80,reviewed,us,us
+2019-06-20T10:20:29.630Z,33.5304,59.6126,10,4.5,mb,,64,7.893,0.88,us,us600043m8,2019-09-11T15:19:20.040Z,"45km ESE of Qayen, Iran",earthquake,7.8,1.9,0.064,72,reviewed,us,us
+2019-06-17T13:32:26.307Z,27.6334,55.8904,10,4.7,mb,,86,2.691,0.85,us,us600041r7,2019-09-06T14:25:17.040Z,"62km NW of Bandar 'Abbas, Iran",earthquake,7.7,1.9,0.067,68,reviewed,us,us
+2019-06-15T07:08:28.032Z,31.0541,56.7123,10,4.3,mb,,69,5.724,0.89,us,us6000412d,2019-09-06T14:25:08.040Z,"25km SSW of Ravar, Iran",earthquake,7.2,1.9,0.105,26,reviewed,us,us
+2019-06-14T22:09:29.107Z,26.0485,59.832,16.03,4,mb,,122,3.003,0.63,us,us600043rx,2019-09-06T14:25:23.040Z,"116km NW of Chah Bahar, Iran",earthquake,9,5.2,0.299,3,reviewed,us,us
+2019-06-02T01:16:58.778Z,27.6941,59.2935,61.79,4.4,mb,,70,3.896,0.85,us,us70003u9t,2019-08-24T21:17:46.040Z,"147km WNW of Iranshahr, Iran",earthquake,6.2,6.3,0.087,38,reviewed,us,us
+2019-05-30T23:09:12.213Z,29.1951,56.2983,10,4.1,mb,,128,4.233,1.21,us,us70003tgq,2019-08-24T21:17:38.040Z,"49km W of Kuh Sefid, Iran",earthquake,7,1.9,0.114,21,reviewed,us,us
+2019-05-13T08:09:10.812Z,26.8401,55.2477,35,4.3,mb,,72,2.074,0.83,us,us70003k9a,2019-08-01T17:15:16.040Z,"48km NE of Bandar-e Lengeh, Iran",earthquake,6.9,2,0.093,33,reviewed,us,us
+2019-05-10T02:41:56.702Z,27.495,56.0641,35,4.1,mb,,102,2.542,1.17,us,us70003j5j,2019-08-01T17:15:08.040Z,"40km NNW of Bandar 'Abbas, Iran",earthquake,5.1,2,0.14,16,reviewed,us,us
+2019-04-25T15:03:16.500Z,30.6962,57.3128,10,4.4,mb,,40,5.556,0.97,us,us70003byn,2019-07-13T18:42:39.040Z,"50km NNE of Kerman, Iran",earthquake,8,1.9,0.067,64,reviewed,us,us
+2019-04-20T02:41:06.243Z,27.2213,55.8008,10,4.7,mb,,45,2.295,0.72,us,us700039hi,2019-06-26T20:54:58.040Z,"47km W of Bandar 'Abbas, Iran",earthquake,7.3,1.9,0.047,139,reviewed,us,us
+2019-04-16T22:43:50.059Z,30.8446,57.2132,10,4,mb,,81,5.521,0.28,us,us70003c07,2019-06-26T20:54:45.040Z,"60km SE of Ravar, Iran",earthquake,9.7,2,0.15,12,reviewed,us,us
+2019-03-27T06:19:30.440Z,27.536,56.564,10,4.2,mb,,108,2.6,0.49,us,us1000jm9p,2019-06-08T20:51:15.040Z,"47km NE of Bandar 'Abbas, Iran",earthquake,4.5,1.9,0.113,22,reviewed,us,us
+2019-03-27T04:52:10.722Z,28.2317,56.1775,10,4.3,mb,,94,3.273,0.66,us,us1000jm8v,2019-06-08T20:51:15.040Z,"116km N of Bandar 'Abbas, Iran",earthquake,8.6,1.6,0.093,33,reviewed,us,us
+2019-03-02T10:04:48.400Z,30.7342,57.3024,10,4.3,mb,,73,5.537,0.68,us,us1000j9u4,2019-05-14T18:36:16.040Z,"54km NNE of Kerman, Iran",earthquake,7.9,1.9,0.096,31,reviewed,us,us
+2019-02-14T08:00:45.630Z,28.123,55.7877,10,4.2,mb,,91,3.186,0.71,us,us2000jhtf,2019-05-01T22:00:42.040Z,"114km NNW of Bandar 'Abbas, Iran",earthquake,8.2,1.9,0.136,15,reviewed,us,us
+2019-02-11T04:12:31.330Z,27.0666,55.6283,10,4.5,mb,,59,2.175,0.83,us,us2000jg6x,2019-04-25T15:32:06.040Z,"64km W of Qeshm, Iran",earthquake,7.2,1.8,0.074,53,reviewed,us,us
+2019-02-10T14:56:38.050Z,27.0121,55.5816,10,4.3,mb,,87,2.133,0.47,us,us2000jni3,2019-04-25T15:32:04.040Z,"68km W of Qeshm, Iran",earthquake,5.3,1.9,0.103,27,reviewed,us,us
+2019-02-10T10:54:48.300Z,27.0899,55.5458,10,5.4,mww,,28,2.216,0.65,us,us2000jfx7,2019-04-25T15:32:03.040Z,"73km W of Bandar 'Abbas, Iran",earthquake,7.3,1.8,0.059,28,reviewed,us,us
+2019-02-09T07:19:46.900Z,27.9816,56.6045,10,4.1,mb,,94,3.045,0.88,us,us2000jng6,2019-04-25T15:31:58.040Z,"93km NNE of Bandar 'Abbas, Iran",earthquake,9.1,1.9,0.123,18,reviewed,us,us
+2019-01-14T01:27:14.710Z,29.1458,58.2239,10,4,mb,,91,4.554,0.85,us,us1000is46,2019-04-02T20:51:09.040Z,"13km WNW of Bam, Iran",earthquake,8.4,1.9,0.196,7,reviewed,us,us
+2018-12-31T06:44:14.190Z,28.1897,56.5665,10,4.3,mb,,94,3.247,0.82,us,us2000izdu,2019-03-05T17:46:40.040Z,"114km NNE of Bandar 'Abbas, Iran",earthquake,5.9,1.8,0.085,39,reviewed,us,us
+2018-12-29T23:16:39.580Z,28.1781,55.5133,10,4.2,mb,,86,3.278,1.01,us,us2000iz1x,2019-03-05T17:46:38.040Z,"114km ESE of Darab, Iran",earthquake,8.7,1.9,0.086,38,reviewed,us,us
+2018-12-24T23:16:47.310Z,30.8021,57.1969,10,4.2,mb,,84,5.559,0.54,us,us2000j30q,2019-03-05T17:46:32.040Z,"58km N of Kerman, Iran",earthquake,10.3,2,0.199,7,reviewed,us,us
+2018-12-05T20:12:37.630Z,27.4715,56.2079,10,4.3,mb,,70,2.515,1,us,us1000i317,2019-02-16T19:52:24.040Z,"32km NNW of Bandar 'Abbas, Iran",earthquake,8.6,1.9,0.105,26,reviewed,us,us
+2018-11-16T20:16:57.670Z,28.2663,58.2083,10,4.9,mb,,42,3.762,1.13,us,us1000hsxh,2019-01-30T18:36:20.040Z,"94km S of Bam, Iran",earthquake,7.2,1.8,0.054,116,reviewed,us,us
+2018-11-06T04:14:42.910Z,28.1886,57.0433,10,4.4,mb,,110,3.316,0.74,us,us2000i7an,2019-01-21T16:42:56.040Z,"115km N of Minab, Iran",earthquake,8.6,1.8,0.083,42,reviewed,us,us
+2018-10-04T17:26:07.970Z,29.18,57.1159,10,4.1,mb,,99,4.295,1.22,us,us1000hajx,2018-12-14T20:32:46.040Z,"32km ESE of Kuh Sefid, Iran",earthquake,11.1,1.9,0.112,22,reviewed,us,us
+2018-10-03T23:53:02.240Z,30.7004,57.2754,10,4.3,mb,,63,5.577,0.85,us,us1000h6pj,2018-12-14T20:32:40.040Z,"49km NNE of Kerman, Iran",earthquake,6.3,1.8,0.096,31,reviewed,us,us
+2018-09-30T13:23:27.740Z,28.9267,57.4876,10,4.7,mb,,129,4.127,0.63,us,us1000h4n3,2018-12-01T16:43:38.040Z,"77km ESE of Kuh Sefid, Iran",earthquake,4.7,1.9,0.108,26,reviewed,us,us
+2018-09-27T00:14:08.420Z,27.0518,57.4244,10,4.1,mb,,127,2.367,0.82,us,us1000h327,2018-12-01T16:42:27.040Z,"35km ESE of Minab, Iran",earthquake,6.6,1.9,0.136,15,reviewed,us,us
+2018-09-13T23:49:04.000Z,30.818,57.2739,10,4.3,mb,,72,5.499,0.79,us,us2000hed2,2018-11-21T18:19:10.040Z,"62km NNE of Kerman, Iran",earthquake,7.4,1.9,0.078,47,reviewed,us,us
+2018-09-07T06:38:41.600Z,28.1691,59.4499,10,4.3,mb,,105,4.33,0.71,us,us2000hgmr,2018-11-14T17:40:17.040Z,"148km SE of Bam, Iran",earthquake,7.2,1.9,0.133,16,reviewed,us,us
+2018-09-07T06:23:38.660Z,28.3261,59.3199,10,5.6,mww,,49,4.371,0.84,us,us2000ha5b,2018-11-14T17:40:17.040Z,"127km SE of Bam, Iran",earthquake,5.6,1.8,0.117,7,reviewed,us,us
+2018-08-23T05:19:02.580Z,29.3346,56.815,86.9,4.6,mb,,35,0.82,0.86,us,us1000gfwd,2018-11-01T17:50:55.040Z,"6km NNE of Kuh Sefid, Iran",earthquake,7.2,6,0.062,79,reviewed,us,us
+2018-08-04T09:35:58.400Z,29.1954,57.1893,10,4.4,mb,,75,4.323,0.9,us,us1000g3dj,2018-10-16T15:34:11.040Z,"38km ESE of Kuh Sefid, Iran",earthquake,6,1.8,0.066,66,reviewed,us,us
+2018-07-30T10:38:55.540Z,28.2298,56.9732,10,4.3,mb,,102,3.342,1.41,us,us2000gh4j,2018-10-16T15:34:10.040Z,"117km S of Kuh Sefid, Iran",earthquake,8.9,1.9,0.102,27,reviewed,us,us
+2018-07-22T20:39:17.390Z,30.4313,57.4531,10,5.6,mww,,61,16.388,0.89,us,us2000gbea,2018-10-04T14:15:30.040Z,"39km ENE of Kerman, Iran",earthquake,10.1,1.9,0.062,25,reviewed,us,us
+2018-07-15T11:48:23.680Z,28.1362,57.6267,10,4.5,mb,,89,3.423,1.39,us,us2000g5l3,2018-10-02T16:40:42.040Z,"122km NNE of Minab, Iran",earthquake,9.7,1.9,0.086,40,reviewed,us,us
+2018-07-15T01:51:58.630Z,26.6492,58.8271,10,4.6,mb,,103,2.91,0.49,us,us2000g5b1,2018-10-02T16:40:41.040Z,"182km ESE of Minab, Iran",earthquake,5.7,1.7,0.061,81,reviewed,us,us
+2018-07-13T09:03:22.690Z,28.1088,57.2458,10,4.7,mb,,53,3.286,0.97,us,us2000g3u3,2018-10-02T16:40:37.040Z,"107km N of Minab, Iran",earthquake,7.8,1.9,0.043,163,reviewed,us,us
+2018-07-04T00:57:42.170Z,27.9135,56.7946,10,4.3,mb,,96,3.003,0.88,us,us2000fwev,2018-09-27T14:03:39.040Z,"89km NNW of Minab, Iran",earthquake,6.5,1.9,0.084,40,reviewed,us,us
+2018-06-27T23:46:32.450Z,27.5926,57.2231,10,4.3,mb,,81,2.79,0.82,us,us2000fpp4,2018-09-21T16:25:55.040Z,"51km NNE of Minab, Iran",earthquake,8,1.9,0.08,44,reviewed,us,us
+2018-06-24T13:24:33.050Z,30.5901,56.9416,10,4.4,mb,,120,5.661,0.72,us,us2000frb8,2018-09-19T15:16:01.040Z,"36km NNW of Kerman, Iran",earthquake,8.9,1.9,0.241,5,reviewed,us,us
+2018-06-13T16:47:25.210Z,31.4953,57.6508,10,4.6,mb,,56,4.818,0.91,us,us1000eq1h,2018-09-07T17:47:02.040Z,"84km ENE of Ravar, Iran",earthquake,7.7,1.9,0.06,81,reviewed,us,us
+2018-06-02T02:40:53.240Z,27.6063,55.7726,10,3.9,mb,,77,2.678,0.84,us,us1000eh8q,2018-08-28T16:30:06.040Z,"68km NW of Bandar 'Abbas, Iran",earthquake,7.4,1.9,0.107,23,reviewed,us,us
+2018-05-17T19:46:51.160Z,32.3614,58.9592,10,4.4,mb,,195,3.41,0.61,us,us1000e7hm,2018-08-15T19:46:56.040Z,"61km SSW of Birjand, Iran",earthquake,10.6,2,0.103,27,reviewed,us,us
+2018-05-08T18:27:31.930Z,27.8837,57.7004,10,4.5,mb,,75,3.219,0.83,us,us1000e0uh,2018-08-08T15:19:38.040Z,"102km NE of Minab, Iran",earthquake,5.9,1.9,0.057,92,reviewed,us,us
+2018-05-05T18:13:56.910Z,26.986,55.8186,10,4.3,mb,,85,2.061,0.55,us,us1000dyx2,2018-07-27T20:20:29.040Z,"45km W of Qeshm, Iran",earthquake,7,1.8,0.069,59,reviewed,us,us
+2018-04-26T17:36:04.290Z,29.2152,55.7573,16.38,4.2,mb,,119,4.271,1.04,us,us1000dsup,2018-07-25T21:37:03.040Z,"27km SSE of Sirjan, Iran",earthquake,8.5,5.8,0.115,21,reviewed,us,us
+2018-04-24T14:59:16.990Z,28.0516,57.2679,10,4.2,mb,,82,3.237,0.73,us,us1000dr9p,2018-07-25T21:36:24.040Z,"101km N of Minab, Iran",earthquake,9.2,1.9,0.147,13,reviewed,us,us
+2018-04-22T23:44:26.260Z,31.4267,56.3093,10,4.3,mb,,67,5.798,0.88,us,us1000dqfc,2018-07-17T02:05:36.040Z,"50km WNW of Ravar, Iran",earthquake,6,1.9,0.075,50,reviewed,us,us
+2018-04-22T12:35:46.220Z,31.3316,56.3354,10,4.4,mb,,84,5.83,0.68,us,us1000dqa6,2018-07-17T02:05:35.040Z,"45km W of Ravar, Iran",earthquake,5.8,1.9,0.066,66,reviewed,us,us
+2018-04-21T20:03:52.600Z,31.3369,56.269,10,4.5,mb,,67,5.875,0.64,us,us1000dq0t,2018-07-17T02:05:34.040Z,"51km W of Ravar, Iran",earthquake,5,1.8,0.066,68,reviewed,us,us
+2018-04-18T01:11:27.200Z,27.5734,56.6541,10,4.3,mb,,109,2.648,0.94,us,us2000e1xy,2018-07-17T02:05:29.040Z,"56km NE of Bandar 'Abbas, Iran",earthquake,8.2,1.9,0.072,54,reviewed,us,us
+2018-04-11T17:04:06.550Z,30.7952,57.1329,10,4.1,mb,,94,5.605,1.1,us,us2000dy62,2018-07-07T02:25:18.040Z,"54km E of Zarand, Iran",earthquake,5.6,2,0.123,18,reviewed,us,us
+2018-03-30T12:45:15.090Z,30.6379,57.2685,10,4.4,mb,,53,5.623,0.85,us,us1000dbdh,2018-06-22T21:32:16.040Z,"43km NNE of Kerman, Iran",earthquake,8.5,1.9,0.083,42,reviewed,us,us
+2018-03-21T22:26:01.990Z,27.6181,56.6133,10,4.1,mb,,109,2.687,0.67,us,us1000d79q,2018-06-19T01:35:47.040Z,"58km NE of Bandar 'Abbas, Iran",earthquake,6.7,1.9,0.105,25,reviewed,us,us
+2018-03-21T20:41:19.850Z,27.5785,56.6061,10,5,mb,,43,2.647,0.6,us,us1000d764,2018-06-19T01:35:46.040Z,"54km NE of Bandar 'Abbas, Iran",earthquake,5.5,1.9,0.045,156,reviewed,us,us
+2018-03-21T12:33:09.960Z,27.6073,56.6414,10,4.7,mb,,58,2.68,0.59,us,us1000d71c,2018-06-19T01:35:46.040Z,"58km NE of Bandar 'Abbas, Iran",earthquake,5.9,1.8,0.062,80,reviewed,us,us
+2018-03-16T07:24:18.560Z,31.8677,56.7334,10,4.6,mb,,69,5.261,0.98,us,us1000d54q,2018-06-11T21:53:47.040Z,"67km N of Ravar, Iran",earthquake,7.6,1.9,0.076,51,reviewed,us,us
+2018-03-12T07:35:32.240Z,28.1387,57.3942,10,4.9,mb,,50,3.354,1.25,us,us1000d3ay,2018-06-11T21:53:41.040Z,"114km NNE of Minab, Iran",earthquake,7.4,1.9,0.047,140,reviewed,us,us
+2018-03-07T14:50:19.720Z,27.8892,57.5886,35,4.8,mb,,55,3.183,1.33,us,us1000d4tg,2018-06-08T05:12:13.040Z,"96km NNE of Minab, Iran",earthquake,7.3,2,0.071,61,reviewed,us,us
+2018-03-07T14:46:13.050Z,28.0261,57.6064,35.46,5.2,mww,,67,3.315,0.93,us,us2000ddrw,2018-06-08T05:12:13.040Z,"110km NNE of Minab, Iran",earthquake,7.6,6.1,0.075,17,reviewed,us,us
+2018-02-25T20:15:45.690Z,27.6649,56.5507,10,4.6,mb,,93,2.726,0.76,us,us2000d7s8,2018-05-22T02:00:27.040Z,"59km NNE of Bandar 'Abbas, Iran",earthquake,6.5,1.9,0.062,78,reviewed,us,us
+2018-02-19T13:56:46.060Z,30.7687,57.2832,10,4.4,mb,,108,5.526,0.69,us,us2000d9nc,2018-05-22T02:00:17.040Z,"57km NNE of Kerman, Iran",earthquake,9,1.9,0.13,17,reviewed,us,us
+2018-02-09T05:08:40.660Z,30.664,57.2224,10,4.1,mb,,97,5.635,1.04,us,us2000czbz,2018-05-03T22:15:05.040Z,"44km NNE of Kerman, Iran",earthquake,6,1.8,0.124,18,reviewed,us,us
+2018-02-05T23:49:41.970Z,30.7167,57.2282,10,4.4,mb,,52,5.596,0.73,us,us1000cgsk,2018-05-03T22:14:58.040Z,"50km NNE of Kerman, Iran",earthquake,7.3,1.9,0.066,67,reviewed,us,us
+2018-02-05T14:16:39.220Z,30.7545,57.1558,10,4.1,mb,,121,5.617,0.76,us,us2000d2q2,2018-05-03T22:14:58.040Z,"52km N of Kerman, Iran",earthquake,7.2,1.8,0.197,7,reviewed,us,us
+2018-01-25T17:17:35.760Z,27.3526,57.3794,10,4.2,mb,,82,2.619,1.23,us,us2000cpcm,2018-04-20T07:05:23.040Z,"37km NE of Minab, Iran",earthquake,6,1.8,0.121,19,reviewed,us,us
+2018-01-12T03:03:35.370Z,30.6837,57.2632,10,4.2,mb,,94,5.596,0.58,us,us2000ciq0,2018-04-03T01:40:27.040Z,"47km NNE of Kerman, Iran",earthquake,5.5,1.9,0.137,15,reviewed,us,us
+2018-01-11T13:35:33.530Z,30.7018,57.2571,10,4.9,mb,,118,5.587,0.98,us,us2000ci9b,2018-04-03T01:40:26.040Z,"49km NNE of Kerman, Iran",earthquake,7.5,1.8,0.055,104,reviewed,us,us
+2018-01-11T03:18:30.200Z,30.7268,57.3359,10,5,mb,,37,5.521,0.69,us,us2000ci2b,2018-04-03T01:40:25.040Z,"55km NNE of Kerman, Iran",earthquake,3.3,1.8,0.043,178,reviewed,us,us
+2018-01-03T20:42:32.460Z,31.6357,56.157,10,4,mb,,76,5.802,1.39,us,us1000c0xy,2018-03-23T23:16:49.040Z,"70km E of Bafq, Iran",earthquake,7.5,1.9,0.108,23,reviewed,us,us
+2018-01-03T04:13:12.610Z,30.7725,57.3872,10,4.6,mb,,76,5.457,0.83,us,us1000bz89,2018-03-23T23:16:49.040Z,"61km NNE of Kerman, Iran",earthquake,8.4,1.9,0.071,60,reviewed,us,us
+2017-12-27T18:01:15.090Z,30.8057,57.2499,10,5,mb,,61,5.523,1.04,us,us1000bws4,2018-03-17T01:54:36.040Z,"60km NNE of Kerman, Iran",earthquake,7.4,1.9,0.041,187,reviewed,us,us
+2017-12-25T05:25:38.270Z,31.2826,56.2676,10,4.6,mb,,82,5.905,0.66,us,us1000bvux,2018-03-17T01:54:34.040Z,"51km W of Ravar, Iran",earthquake,4.3,1.9,0.084,42,reviewed,us,us
+2017-12-25T05:15:10.020Z,31.3402,56.1979,10,4.3,mb,,88,5.924,0.83,us,us1000bvuu,2018-03-17T01:54:34.040Z,"58km W of Ravar, Iran",earthquake,4.8,1.9,0.106,25,reviewed,us,us
+2017-12-25T03:34:15.930Z,30.8107,57.32,10,4.4,mb,,105,5.474,0.81,us,us1000bvu0,2018-03-17T01:54:34.040Z,"62km NNE of Kerman, Iran",earthquake,4.9,1.9,0.099,29,reviewed,us,us
+2017-12-23T22:58:14.490Z,28.1534,57.1581,10,4.5,mb,,52,3.307,0.62,us,us1000bvh9,2018-03-14T00:58:28.040Z,"111km N of Minab, Iran",earthquake,5.8,1.9,0.076,51,reviewed,us,us
+2017-12-21T18:33:43.290Z,31.3653,56.1798,10,4.3,mb,,119,5.924,0.69,us,us1000bull,2018-03-14T00:58:25.040Z,"60km W of Ravar, Iran",earthquake,11.4,1.9,0.113,22,reviewed,us,us
+2017-12-21T17:04:46.580Z,31.3839,56.2594,10,5.2,mww,,43,5.856,1.12,us,us1000buiv,2018-03-14T00:58:25.040Z,"53km WNW of Ravar, Iran",earthquake,6.9,1.8,0.065,23,reviewed,us,us
+2017-12-19T13:02:32.880Z,30.8083,57.254,10,4.5,mb,,76,5.914,0.79,us,us1000bt1k,2018-03-14T00:58:22.040Z,"60km NNE of Kerman, Iran",earthquake,10.1,1.9,0.108,28,reviewed,us,us
+2017-12-16T10:26:56.140Z,30.7189,57.1682,10,4.1,mb,,104,5.633,0.42,us,us1000bv0b,2018-03-06T00:49:44.040Z,"49km N of Kerman, Iran",earthquake,8.4,1.9,0.158,11,reviewed,us,us
+2017-12-16T02:20:31.360Z,30.7735,57.2763,10,4.4,mb,,72,5.527,0.78,us,us2000c55u,2018-03-06T00:49:43.040Z,"57km NNE of Kerman, Iran",earthquake,8.3,1.9,0.084,41,reviewed,us,us
+2017-12-13T09:51:56.810Z,30.7842,57.2052,10,4.3,mb,,72,5.566,0.67,us,us2000c3sh,2018-03-06T00:49:39.040Z,"56km NNE of Kerman, Iran",earthquake,6.4,1.9,0.085,39,reviewed,us,us
+2017-12-13T04:03:15.680Z,30.774,57.2233,10,4.3,mb,,94,5.561,0.7,us,us2000c3qx,2018-03-06T00:49:39.040Z,"56km NNE of Kerman, Iran",earthquake,9.3,1.9,0.116,21,reviewed,us,us
+2017-12-13T00:08:01.420Z,30.775,57.231,10,4.3,mb,,75,5.555,0.64,us,us2000c3p8,2018-03-06T00:49:38.040Z,"56km NNE of Kerman, Iran",earthquake,8.3,1.9,0.107,25,reviewed,us,us
+2017-12-12T23:27:37.160Z,30.7658,57.2802,10,4.5,mb,,54,5.53,0.83,us,us2000c3nu,2018-03-06T00:49:38.040Z,"56km NNE of Kerman, Iran",earthquake,8,1.9,0.071,59,reviewed,us,us
+2017-12-12T22:36:05.220Z,30.7772,57.2138,10,4.1,mb,,119,5.565,0.43,us,us1000bt5j,2018-03-06T00:49:38.040Z,"56km NNE of Kerman, Iran",earthquake,7.8,1.8,0.13,16,reviewed,us,us
+2017-12-12T21:55:47.240Z,30.7875,57.2996,10,4.1,mb,,140,5.503,1.11,us,us1000bt5i,2018-03-06T00:49:38.040Z,"59km NNE of Kerman, Iran",earthquake,7.4,1.9,0.145,13,reviewed,us,us
+2017-12-12T21:49:41.590Z,30.8681,57.2454,10,5,mb,,38,5.485,0.61,us,us2000c3ms,2018-03-06T00:49:38.040Z,"60km SE of Ravar, Iran",earthquake,8.4,1.9,0.071,63,reviewed,us,us
+2017-12-12T21:46:41.440Z,30.796,57.2894,10,4.8,mb,,133,5.504,0.85,us,us1000bt5k,2018-03-06T00:49:38.040Z,"60km NNE of Kerman, Iran",earthquake,10.2,1.9,0.116,23,reviewed,us,us
+2017-12-12T21:41:31.140Z,30.8275,57.2982,8,6,mww,,24,5.477,0.78,us,us2000c3mi,2018-03-06T00:49:38.040Z,"63km NNE of Kerman, Iran",earthquake,7.2,1.8,0.05,38,reviewed,us,us
+2017-12-12T16:50:21.560Z,30.8132,57.3725,10,4.5,mb,,73,5.439,1,us,us2000c3er,2018-03-06T00:49:38.040Z,"65km NNE of Kerman, Iran",earthquake,8.2,1.9,0.083,42,reviewed,us,us
+2017-12-12T13:22:39.280Z,30.6696,57.2864,10,4.4,mb,,114,5.591,0.47,us,us1000bt4z,2018-03-06T00:49:38.040Z,"47km NNE of Kerman, Iran",earthquake,6.4,1.9,0.155,12,reviewed,us,us
+2017-12-12T09:50:29.690Z,30.6551,57.4472,10,4.4,mb,,121,5.5,1.06,us,us1000bt4r,2018-03-06T00:49:37.040Z,"54km NE of Kerman, Iran",earthquake,8.3,1.9,0.105,26,reviewed,us,us
+2017-12-12T09:42:19.950Z,31.0501,57.2259,10,4.4,mb,,85,6.148,1.21,us,us2000c3b0,2018-03-06T00:49:37.040Z,"46km ESE of Ravar, Iran",earthquake,9.8,1.9,0.095,32,reviewed,us,us
+2017-12-12T08:43:18.320Z,30.7372,57.2795,12,6,mww,,49,5.549,0.79,us,us2000c3ag,2018-03-06T00:49:37.040Z,"53km NNE of Kerman, Iran",earthquake,7.3,1.8,0.052,35,reviewed,us,us
+2017-12-08T12:38:29.620Z,30.7512,57.2633,10,4.2,mb,,74,5.55,0.82,us,us2000c205,2018-02-28T02:32:33.040Z,"54km NNE of Kerman, Iran",earthquake,7,1.8,0.124,18,reviewed,us,us
+2017-12-06T01:29:52.150Z,30.7074,57.2415,10,4.1,mb,,114,5.594,0.53,us,us2000c3uw,2018-02-28T02:32:28.040Z,"49km NNE of Kerman, Iran",earthquake,9.5,1.9,0.15,12,reviewed,us,us
+2017-12-05T09:23:43.470Z,30.7157,57.279,8.44,4.3,mb,,61,0.686,0.97,us,us2000c3h7,2018-02-28T02:32:26.040Z,"51km NNE of Kerman, Iran",earthquake,3.1,5.1,0.099,29,reviewed,us,us
+2017-12-03T02:47:26.630Z,30.7947,57.2935,10,4.3,mb,,76,5.502,1.04,us,us1000bkgh,2018-02-28T02:32:23.040Z,"60km NNE of Kerman, Iran",earthquake,9,1.9,0.104,26,reviewed,us,us
+2017-12-02T10:47:04.040Z,30.7254,57.3614,10,5.2,mww,,38,5.505,0.66,us,us1000bk9a,2018-02-20T09:06:12.040Z,"56km NNE of Kerman, Iran",earthquake,7.4,1.8,0.086,13,reviewed,us,us
+2017-12-01T23:23:15.960Z,30.6818,57.4003,10,4.4,mb,,51,5.511,0.87,us,us1000bk5v,2018-02-20T09:06:11.040Z,"53km NE of Kerman, Iran",earthquake,6.5,1.9,0.086,39,reviewed,us,us
+2017-12-01T07:29:35.020Z,30.7025,57.3126,10,4.2,mb,,105,5.552,0.76,us,us1000bjs9,2018-02-20T09:06:10.040Z,"51km NNE of Kerman, Iran",earthquake,9.3,1.9,0.136,15,reviewed,us,us
+2017-12-01T03:35:01.840Z,30.7151,57.385,10,5.4,mww,,46,5.498,0.82,us,us1000bjq8,2018-02-20T09:06:10.040Z,"56km NNE of Kerman, Iran",earthquake,7.4,1.8,0.075,17,reviewed,us,us
+2017-12-01T02:43:27.200Z,30.6973,57.4397,10,5.1,mb,,49,5.475,0.96,us,us1000bjp3,2018-02-20T09:06:09.040Z,"57km NE of Kerman, Iran",earthquake,4.1,1.8,0.056,105,reviewed,us,us
+2017-12-01T02:32:46.040Z,30.7464,57.307,9,6.1,mww,,23,5.526,0.89,us,us1000bjnz,2018-02-20T09:06:09.040Z,"55km NNE of Kerman, Iran",earthquake,7.1,1.7,0.06,27,reviewed,us,us
+2017-11-23T02:47:21.810Z,28.0121,55.4169,10,4,mb,,122,3.134,0.96,us,us2000btdu,2018-02-14T02:01:11.040Z,"111km ENE of Lar, Iran",earthquake,9.6,2,0.134,15,reviewed,us,us
+2017-11-14T19:48:11.430Z,32.9038,59.4679,10,4.4,mb,,76,2.747,0.98,us,us2000bnh2,2018-02-06T02:45:34.040Z,"23km E of Birjand, Iran",earthquake,4.3,1.9,0.072,59,reviewed,us,us
+2017-11-11T02:06:19.620Z,27.4673,56.5657,10,4.3,mb,,51,2.532,1.28,us,us2000blvp,2018-01-31T03:04:48.040Z,"41km NE of Bandar 'Abbas, Iran",earthquake,7.6,1.9,0.101,28,reviewed,us,us
+2017-11-11T00:37:01.640Z,27.5505,56.6715,10,4,mb,,97,2.628,0.69,us,us2000bluh,2018-01-31T03:04:47.040Z,"55km NE of Bandar 'Abbas, Iran",earthquake,3.4,2,0.116,20,reviewed,us,us
+2017-10-23T00:24:13.830Z,27.9254,57.0544,10,5.3,mww,,39,3.064,1.21,us,us1000avsx,2018-01-17T21:50:30.040Z,"86km N of Minab, Iran",earthquake,7.4,1.8,0.098,10,reviewed,us,us
+2017-09-30T04:12:50.660Z,27.8864,56.8156,10,4.2,mb,,105,2.98,0.99,us,us2000ax2z,2017-12-22T21:56:29.040Z,"86km NNW of Minab, Iran",earthquake,5.7,1.9,0.121,19,reviewed,us,us
+2017-09-29T06:58:15.300Z,28.2394,55.3052,10,4.2,mb,,90,3.378,0.46,us,us2000awej,2017-12-22T21:56:28.040Z,"93km SE of Darab, Iran",earthquake,4.9,1.9,0.152,12,reviewed,us,us
+2017-09-21T19:28:40.170Z,30.7124,57.4099,10,4.5,mb,,73,5.484,0.89,us,us2000asq8,2017-12-19T01:54:10.040Z,"57km NNE of Kerman, Iran",earthquake,8.3,1.9,0.084,41,reviewed,us,us
+2017-09-20T06:30:56.110Z,27.9241,56.8128,24.32,4.4,mb,,99,3.016,0.8,us,us2000arhi,2017-12-19T01:54:07.040Z,"90km NNW of Minab, Iran",earthquake,7.7,4.4,0.109,24,reviewed,us,us
+2017-09-20T00:08:15.740Z,30.7208,57.4066,10,5,mb,,48,5.48,0.66,us,us2000ardv,2017-12-19T01:54:07.040Z,"57km NNE of Kerman, Iran",earthquake,7.6,1.8,0.05,126,reviewed,us,us
+2017-09-05T22:20:35.160Z,32.6746,59.1001,10,4.7,mb,,81,3.132,0.56,us,us2000agdr,2017-12-07T20:00:14.040Z,"24km SSW of Birjand, Iran",earthquake,7.4,1.9,0.073,56,reviewed,us,us
+2017-09-01T06:10:43.020Z,27.8651,57.1309,10,4,mb,,100,3.024,0.59,us,us2000arl2,2017-11-28T18:33:56.040Z,"79km N of Minab, Iran",earthquake,9.3,2,0.138,14,reviewed,us,us
+2017-08-31T03:08:41.050Z,27.847,57.0542,10,4.4,mb,,118,2.988,0.65,us,us2000addb,2017-11-28T18:33:54.040Z,"77km N of Minab, Iran",earthquake,6.6,1.9,0.093,33,reviewed,us,us
+2017-08-31T01:30:27.560Z,27.902,56.9464,10,5.2,mb,,78,3.018,1.05,us,us2000add3,2017-11-28T18:33:54.040Z,"84km N of Minab, Iran",earthquake,6.5,1.7,0.053,116,reviewed,us,us
+2017-08-26T17:11:16.890Z,31.5362,56.1725,10,4,mb,,104,5.84,1.45,us,us2000ac2v,2017-11-22T03:43:34.040Z,"67km WNW of Ravar, Iran",earthquake,8.4,1.9,0.113,22,reviewed,us,us
+2017-08-14T11:14:09.980Z,27.4725,56.9824,10,4.5,mb,,82,2.612,1.5,us,us2000a80f,2017-11-14T01:42:07.040Z,"37km NNW of Minab, Iran",earthquake,9.3,1.9,0.131,17,reviewed,us,us
+2017-08-13T09:34:45.130Z,27.4086,56.2313,10,4.5,mb,,136,2.453,0.96,us,us2000a92i,2017-11-14T01:42:05.040Z,"25km N of Bandar 'Abbas, Iran",earthquake,9.4,1.9,0.108,25,reviewed,us,us
+2017-08-06T09:24:39.360Z,26.6317,55.428,10,3.9,mb,,113,1.819,1.17,us,us2000a6va,2017-10-25T00:38:00.040Z,"55km E of Bandar-e Lengeh, Iran",earthquake,10.6,1.9,0.17,9,reviewed,us,us
+2017-07-23T17:32:14.200Z,30.1823,57.6157,10,5.2,mww,,76,5.365,0.98,us,us2000a03u,2017-10-14T00:19:36.040Z,"52km ESE of Kerman, Iran",earthquake,5.1,1.8,0.069,20,reviewed,us,us
+2017-07-15T18:18:15.760Z,28.8924,57.7056,10,4,mb,,126,4.153,1.05,us,us20009yf6,2017-10-06T23:56:20.040Z,"67km WSW of Bam, Iran",earthquake,8.3,1.8,0.13,16,reviewed,us,us
+2017-07-13T01:04:19.770Z,26.6418,57.946,10,4.1,mb,,111,2.306,0.98,us,us20009vv2,2017-10-06T23:56:16.040Z,"102km ESE of Minab, Iran",earthquake,7.2,1.9,0.135,15,reviewed,us,us
+2017-06-14T10:14:46.340Z,26.8932,55.8048,10,4,mb,,91,1.972,0.64,us,us20009mef,2017-08-18T23:13:27.040Z,"46km W of Qeshm, Iran",earthquake,8.7,1.9,0.13,16,reviewed,us,us
+2017-06-09T10:22:35.770Z,27.6107,55.2718,10,4.4,mb,,99,2.783,0.8,us,us20009mqz,2017-08-16T02:42:21.040Z,"91km E of Lar, Iran",earthquake,8.7,1.9,0.203,7,reviewed,us,us
+2017-05-23T01:31:32.640Z,27.5651,55.8112,10,4.2,mb,,104,2.632,0.73,us,us10008u8x,2017-08-10T01:33:58.040Z,"62km NW of Bandar 'Abbas, Iran",earthquake,9.1,1.9,0.125,18,reviewed,us,us
+2017-04-11T05:16:24.740Z,30.806,56.6074,10,4.1,mb,,114,5.849,0.68,us,us10008gg7,2017-07-05T18:09:56.040Z,"4km E of Zarand, Iran",earthquake,10.8,2,0.198,7,reviewed,us,us
+2017-04-01T19:59:49.280Z,29.4447,56.775,99.29,4.2,mb,,117,0.202,0.69,us,us10008dud,2017-06-16T23:08:06.040Z,"18km N of Kuh Sefid, Iran",earthquake,6.4,4.6,0.1,28,reviewed,us,us
+2017-03-25T07:38:37.020Z,28.2712,57.0927,10,4.5,mb,,64,3.406,0.86,us,us20008uiy,2017-06-12T19:46:56.040Z,"114km SSE of Kuh Sefid, Iran",earthquake,9.3,1.9,0.077,49,reviewed,us,us
+2017-01-28T00:18:26.420Z,29.2466,56.2697,10,4.1,mb,,112,4.284,0.65,us,us10007vvh,2017-04-19T18:31:02.040Z,"51km W of Kuh Sefid, Iran",earthquake,7,1.9,0.117,20,reviewed,us,us
+2017-01-25T05:41:41.730Z,28.5733,56.8983,10,4.9,mb,,128,3.666,1.41,us,us10007vau,2017-04-19T18:30:59.040Z,"78km S of Kuh Sefid, Iran",earthquake,9.7,1.9,0.065,74,reviewed,us,us
+2017-01-21T08:23:16.790Z,29.2091,56.5135,54.21,4.5,mb,,44,1.105,1.03,us,us10007ulj,2017-04-12T02:29:03.040Z,"28km WSW of Kuh Sefid, Iran",earthquake,5.1,5.9,0.082,44,reviewed,us,us
+2016-12-27T12:42:58.930Z,28.1988,57.3713,10,4.4,mb,,90,0.387,0.79,us,us10007t59,2017-03-23T22:52:04.040Z,"120km NNE of Minab, Iran",earthquake,4.8,1.9,0.138,15,reviewed,us,us
+2016-12-27T12:41:25.950Z,28.0815,57.2281,10,4.6,mb,,35,0.442,0.84,us,us10007n0q,2017-03-23T22:52:04.040Z,"104km N of Minab, Iran",earthquake,6.7,1.9,0.06,84,reviewed,us,us
+2016-12-27T12:26:36.360Z,28.1225,57.2505,10,4.4,mb,,64,0.438,1.19,us,us10007n0l,2017-03-23T22:52:04.040Z,"109km N of Minab, Iran",earthquake,2.2,1.9,0.079,46,reviewed,us,us
+2016-12-10T17:07:53.390Z,28.313,57.0158,2.04,4.2,mb,,55,0.709,1.31,us,us200081ku,2017-03-09T02:14:26.040Z,"108km S of Kuh Sefid, Iran",earthquake,5.7,6.8,0.124,18,reviewed,us,us
+2016-12-05T14:24:52.540Z,27.7028,59.1943,62.42,5.1,mb,,53,1.34,0.93,us,us10007ez0,2017-03-03T07:06:03.040Z,"157km WNW of Iranshahr, Iran",earthquake,5.3,5.3,0.052,120,reviewed,us,us
+2016-12-01T09:21:44.050Z,30.3313,57.6002,10,4.7,mb,,85,5.506,0.94,us,us10007e0a,2017-02-23T00:11:55.040Z,"50km E of Kerman, Iran",earthquake,4.6,1.9,0.09,37,reviewed,us,us
+2016-11-09T01:15:21.640Z,28.2167,57.3619,10,4.5,mb,,46,0.405,1.44,us,us100076dp,2017-02-02T02:21:04.040Z,"121km NNE of Minab, Iran",earthquake,4.1,1.9,0.07,59,reviewed,us,us
+2016-11-09T01:05:30.670Z,28.1942,57.3139,10,4,mb,,57,0.424,1.41,us,us100078sg,2017-02-02T02:21:04.040Z,"118km N of Minab, Iran",earthquake,6.3,2,0.366,2,reviewed,us,us
+2016-10-31T13:44:01.950Z,30.7332,56.5087,10,4.3,mb,,71,6.058,0.73,us,us1000738s,2017-01-24T02:02:12.040Z,"10km SSW of Zarand, Iran",earthquake,7.2,1.9,0.111,23,reviewed,us,us
+2016-10-28T14:02:28.100Z,30.6891,56.3947,17.67,4.8,mb,,139,6.162,0.7,us,us100072nk,2017-01-24T02:02:07.040Z,"21km SW of Zarand, Iran",earthquake,9.1,5.6,0.078,51,reviewed,us,us
+2016-10-20T15:10:31.020Z,30.7819,56.519,10,4.8,mb,,68,0.406,0.93,us,us20007fm8,2017-01-15T01:13:55.040Z,"5km SW of Zarand, Iran",earthquake,4.9,1.9,0.065,74,reviewed,us,us
+2016-09-21T07:41:12.820Z,27.0043,59.7705,10,4.5,mb,,139,3.808,0.86,us,us10006raw,2016-12-12T23:01:34.040Z,"93km WSW of Iranshahr, Iran",earthquake,5.9,1.8,0.116,22,reviewed,us,us
+2016-07-24T13:26:33.220Z,28.155,57.429,10,4.5,mb,,72,3.379,1.03,us,us1000680p,2016-09-24T22:47:18.040Z,"116km NNE of Minab, Iran",earthquake,10.6,1.9,0.118,21,reviewed,us,us
+2016-07-14T16:17:59.780Z,27.6492,56.462,26.64,4.4,mb,,70,0.357,0.91,us,us20006g4d,2016-09-08T01:50:31.040Z,"54km NNE of Bandar 'Abbas, Iran",earthquake,6.4,7.6,0.203,8,reviewed,us,us
+2016-07-06T23:58:26.600Z,27.657,56.429,16.4,5.1,mb,,,,0.57,us,us100061gt,2016-09-02T21:36:40.040Z,"54km NNE of Bandar 'Abbas, Iran",earthquake,4.5,3.3,0.047,147,reviewed,teh,us
+2016-06-26T05:38:55.000Z,28.54,57.16,14,4.3,mb,,,,1.29,us,us200066wc,2016-08-31T03:08:16.040Z,"88km SSE of Kuh Sefid, Iran",earthquake,4.3,4.8,0.113,22,reviewed,teh,us
+2016-06-17T10:03:47.120Z,30.1856,57.5551,10,4.4,mb,,58,0.323,1.3,us,us20006512,2016-08-27T02:15:26.040Z,"47km ESE of Kerman, Iran",earthquake,4.2,1.9,0.076,50,reviewed,us,us
+2016-06-04T09:54:13.000Z,30.06,57.61,8,4.3,mb,,,,0.77,us,us2000620x,2016-08-18T00:36:30.040Z,"56km ESE of Kerman, Iran",earthquake,6.6,5.1,0.093,33,reviewed,teh,us
+2016-05-29T17:18:33.140Z,27.9025,55.1466,37.82,4.5,mb,,65,3.094,0.61,us,us20005z1m,2016-08-10T22:30:26.040Z,"82km ENE of Lar, Iran",earthquake,10.4,7.9,0.115,22,reviewed,us,us
+2016-05-20T11:59:15.300Z,28.291,58.563,98.9,4.4,mb,,,,1.21,us,us10005isk,2016-08-03T22:33:39.040Z,"92km SSE of Bam, Iran",earthquake,6.7,5.9,0.069,61,reviewed,teh,us
+2016-05-03T10:40:59.800Z,28.021,56.345,10,4.3,mb,,,,1.18,us,us10005gk7,2016-07-19T20:03:11.040Z,"92km N of Bandar 'Abbas, Iran",earthquake,4.6,5.4,0.178,9,reviewed,teh,us
+2016-04-24T15:18:13.550Z,27.8307,55.1131,10,4.6,mb,,77,3.035,0.56,us,us20005let,2016-07-08T02:49:20.040Z,"77km ENE of Lar, Iran",earthquake,8.1,1.8,0.059,86,reviewed,us,us
+2016-02-01T13:46:33.680Z,32.4299,55.533,10,4.3,mb,,64,5.88,1.11,us,us20004w9w,2016-04-14T22:51:39.040Z,"91km N of Bafq, Iran",earthquake,6.3,1.8,0.116,21,reviewed,us,us
+2016-01-22T20:51:46.560Z,28.3453,55.2943,19.54,5.1,mww,,19,1.055,0.9,us,us10004ghe,2017-10-11T21:20:38.154Z,"86km ESE of Darab, Iran",earthquake,5.3,3.1,,,reviewed,us,us
+2016-01-11T15:53:36.120Z,27.7612,57.3575,10,4.4,mb,,68,2.989,1.11,us,us10004diy,2016-03-30T02:27:54.040Z,"73km NNE of Minab, Iran",earthquake,7.2,1.9,0.096,31,reviewed,us,us
+2016-01-04T03:05:48.070Z,26.6051,55.4464,10,4.4,mb,,42,0.834,0.98,us,us10004b41,2016-03-28T22:09:35.040Z,"56km E of Bandar-e Lengeh, Iran",earthquake,3.5,1.9,0.084,41,reviewed,us,us
+2016-01-01T23:17:29.490Z,26.5711,55.1188,10,4.3,mb,,107,1.891,0.54,us,us10004ddg,2016-03-28T22:09:32.040Z,"23km E of Bandar-e Lengeh, Iran",earthquake,10.7,2,0.154,12,reviewed,us,us
+2015-12-31T03:50:30.000Z,31.09,57.08,8,3.9,mb,,,,0.89,us,us10004bum,2016-03-18T01:13:09.040Z,"32km SE of Ravar, Iran",earthquake,4.4,5,0.182,8,reviewed,teh,us
+2015-12-27T01:52:00.710Z,27.8162,57.9299,10,4.1,mb,,135,1.613,1.22,us,us10004bj1,2016-03-18T01:13:02.040Z,"112km NE of Minab, Iran",earthquake,4.1,1.9,0.166,10,reviewed,us,us
+2015-10-29T15:48:20.900Z,32.0055,56.1417,15.24,4.4,mb,,66,1.118,0.89,us,us200040gw,2016-01-30T02:10:55.040Z,"81km ENE of Bafq, Iran",earthquake,2.9,4.2,0.096,31,reviewed,us,us
+2015-10-22T05:14:57.400Z,32.01,56.11,9,4.2,mb,,,,1.06,us,us10003qlv,2016-01-22T23:41:09.040Z,"79km NE of Bafq, Iran",earthquake,9,3.3,0.141,17,reviewed,teh,us
+2015-09-11T02:41:35.690Z,27.4713,56.5586,10,4.1,mb,,91,0.35,1.21,us,us20003iqi,2015-12-12T00:42:46.040Z,"41km NE of Bandar 'Abbas, Iran",earthquake,5.2,1.9,0.117,20,reviewed,us,us
+2015-09-11T02:38:18.320Z,27.4589,56.6124,10.51,4.2,mb,,73,0.395,1.21,us,us20003iqh,2015-12-12T00:42:46.040Z,"44km NE of Bandar 'Abbas, Iran",earthquake,5.5,4.8,0.102,27,reviewed,us,us
+2015-09-08T01:18:28.100Z,28.584,57.237,10,4,mb,,,,1.03,us,us20003le1,2015-12-05T01:40:35.040Z,"87km SSE of Kuh Sefid, Iran",earthquake,4.8,4.9,0.116,20,reviewed,teh,us
+2015-08-27T00:24:22.000Z,26.541,55.877,11,4.2,mb,,,,1.38,us,us10003573,2015-12-01T00:35:57.040Z,"53km NW of Dib Dibba, Oman",earthquake,4.6,3.6,0.14,14,reviewed,teh,us
+2015-08-21T01:21:16.100Z,30.042,57.643,8,3.9,mb,,,,1.33,us,us100033v8,2015-11-24T02:09:26.040Z,"60km ESE of Kerman, Iran",earthquake,4.3,7.3,0.515,1,reviewed,teh,us
+2015-07-31T10:06:31.380Z,30.0391,57.5809,11,5.2,mwb,,55,0.181,0.74,us,us10002wtx,2015-10-30T02:47:39.040Z,"55km ESE of Kerman, Iran",earthquake,4.4,1.8,0.068,21,reviewed,us,us
+2015-07-25T16:10:40.750Z,30.0856,57.6938,4.08,4.8,mb,,98,0.26,1.1,us,us20003033,2015-10-22T20:04:58.040Z,"63km ESE of Kerman, Iran",earthquake,3.2,4.7,0.072,60,reviewed,us,us
+2015-07-01T06:43:28.730Z,28.1277,57.4498,50.38,4.4,mb,,51,3.36,1.21,us,us10002mr7,2015-09-02T22:37:26.040Z,"114km NNE of Minab, Iran",earthquake,8.8,8,0.102,28,reviewed,us,us
+2015-06-12T06:57:52.100Z,28.253,57.211,8,4.5,mb,,,,0.87,us,us20002p99,2015-08-20T00:43:55.040Z,"120km SSE of Kuh Sefid, Iran",earthquake,5.9,4.2,0.073,55,reviewed,teh,us
+2015-06-07T23:56:04.140Z,27.7988,55.1304,10,4,mb,,85,3,0.86,us,us20002qqf,2015-08-10T13:08:24.040Z,"78km E of Lar, Iran",earthquake,6.3,1.9,0.088,35,reviewed,us,us
+2015-05-13T20:27:17.400Z,27.8642,57.5417,10,4.3,mb,,54,3.144,1.35,us,us100028tj,2015-07-17T07:06:15.040Z,"91km NNE of Minab, Iran",earthquake,6.3,1.9,0.095,31,reviewed,us,us
+2015-05-08T03:27:01.000Z,32.145,55.827,5.9,4.1,mb,,,,1.32,us,us100029g7,2015-07-17T07:05:58.040Z,"70km NNE of Bafq, Iran",earthquake,5.5,5.5,0.37,2,reviewed,teh,us
+2015-04-20T20:37:32.600Z,28.509,57.185,10,4.2,mb,,,,1.03,us,us200029u6,2015-06-26T23:15:59.040Z,"92km SSE of Kuh Sefid, Iran",earthquake,11,4.4,0.235,5,reviewed,teh,us
+2015-04-01T16:59:02.560Z,29.2003,59.6857,10,4.7,mb,,51,1.034,1.06,us,us10001su5,2015-06-12T01:53:34.040Z,"118km WSW of Zahedan, Iran",earthquake,4.8,1.9,0.07,62,reviewed,us,us
+2015-03-30T07:04:03.800Z,32.138,55.807,8,4.3,mb,,,,1.29,us,us10001vdj,2015-06-12T01:53:29.040Z,"69km NNE of Bafq, Iran",earthquake,4.9,5.1,0.16,11,reviewed,teh,us
+2015-03-29T04:16:18.500Z,27.024,57.638,14.2,4.9,mb,,,,0.89,us,us10001rqc,2015-06-12T01:53:27.040Z,"56km ESE of Minab, Iran",earthquake,5.9,4.3,0.064,81,reviewed,teh,us
+2015-03-10T21:32:29.100Z,26.475,58.108,20.5,4.1,mb,,,,1.26,us,us10001m48,2015-05-28T00:48:41.040Z,"126km SE of Minab, Iran",earthquake,6.2,6.4,0.174,10,reviewed,teh,us
+2015-03-08T18:43:32.000Z,30.03,56.53,12,3.9,mb,,,,1.37,us,us10001lkz,2015-05-28T00:48:38.040Z,"12km NNW of Bardsir, Iran",earthquake,10.6,6.3,0.256,4,reviewed,teh,us
+2015-03-05T22:54:48.550Z,28.0428,56.8139,10,5.2,mb,,44,3.132,0.72,us,usc000tvdv,2015-05-28T00:48:34.040Z,"102km NNW of Minab, Iran",earthquake,7.2,1.8,0.046,162,reviewed,us,us
+2015-03-05T19:31:12.300Z,27.5409,56.1407,10,4,mb,,87,2.585,0.67,us,usc000tvbi,2015-05-28T00:48:33.040Z,"41km NNW of Bandar 'Abbas, Iran",earthquake,6.1,1.9,0.122,18,reviewed,us,us
+2015-02-18T17:28:52.600Z,27.417,56.253,10,4.1,mb,,,,1.12,us,usb000tqd2,2015-05-11T23:20:23.040Z,"25km N of Bandar 'Abbas, Iran",earthquake,9.8,3.8,0.151,12,reviewed,teh,us
+2015-02-17T13:41:38.020Z,30.0389,57.6596,10,4.5,mb,,95,5.235,0.94,us,usb000tq1k,2015-05-11T23:20:21.040Z,"62km ESE of Kerman, Iran",earthquake,6.1,1.9,0.089,40,reviewed,us,us
+2015-02-13T01:00:44.300Z,30.178,57.584,10,3.9,mb,,,,1.18,us,usb000tnw0,2015-05-11T23:20:10.040Z,"50km ESE of Kerman, Iran",earthquake,5.8,5.8,0.163,11,reviewed,teh,us
+2015-02-02T14:07:40.190Z,27.4635,56.1742,10,4.3,mb,,62,2.508,0.91,us,usc000tkzf,2015-05-02T14:07:24.040Z,"32km NNW of Bandar 'Abbas, Iran",earthquake,10.7,1.9,0.153,16,reviewed,us,us
+2015-01-27T21:07:24.400Z,27.464,56.19,10,4.3,mb,,,,0.58,us,usb000tiqi,2015-04-24T16:54:43.040Z,"32km NNW of Bandar 'Abbas, Iran",earthquake,5.1,4.5,0.1,30,reviewed,teh,us
+2015-01-25T20:11:19.000Z,27.46,56.19,9,5,mb,,,,0.96,us,usc000tiyn,2015-04-24T16:55:32.040Z,"31km NNW of Bandar 'Abbas, Iran",earthquake,8,4.3,0.067,75,reviewed,teh,us
+2014-12-08T22:34:04.900Z,28.145,56.955,12,4,mb,,,,1.46,us,usc000t9f1,2015-02-28T02:16:14.040Z,"111km N of Minab, Iran",earthquake,5.7,4,0.3,3,reviewed,teh,us
+2014-12-08T06:38:17.600Z,27.506,56.209,14.2,4.3,mb,,,,1.33,us,usc000t4if,2015-02-28T02:16:13.040Z,"36km NNW of Bandar 'Abbas, Iran",earthquake,5,4.2,0.114,23,reviewed,teh,us
+2014-12-05T00:20:27.030Z,28.409,57.0677,10,4.2,mb,,60,3.535,1.12,us,usc000t3w8,2015-02-28T02:16:08.040Z,"99km SSE of Kuh Sefid, Iran",earthquake,8.5,1.9,0.088,36,reviewed,us,us
+2014-12-03T21:22:04.400Z,28.337,55.553,14.3,4.1,mb,,,,0.87,us,usc000t7d6,2015-02-28T02:16:06.040Z,"108km ESE of Darab, Iran",earthquake,5.1,4.2,0.157,11,reviewed,teh,us
+2014-11-23T13:17:59.900Z,26.47,56.59,16,4.9,mb,,,,0.92,us,usb000szau,2015-02-18T03:30:55.040Z,"44km NE of Dib Dibba, Oman",earthquake,4.5,3.4,0.047,145,reviewed,thr,us
+2014-11-16T05:13:04.500Z,28.339,56.518,10,4.7,mb,,,,1.7,us,usc000sxrm,2015-02-12T01:42:50.040Z,"107km SSW of Kuh Sefid, Iran",earthquake,5.3,1.8,0.073,62,reviewed,teh,us
+2014-11-15T19:56:21.000Z,28.239,55.381,15,4.7,mb,,,,0.91,us,usc000sxnp,2015-02-12T01:42:49.040Z,"99km SE of Darab, Iran",earthquake,5.4,3.9,0.06,89,reviewed,teh,us
+2014-11-11T10:05:42.500Z,27.897,55.937,8,5,mb,,,,0.8,us,usc000sw7u,2015-01-31T02:50:17.040Z,"85km NNW of Bandar 'Abbas, Iran",earthquake,5.3,3.1,0.047,151,reviewed,teh,us
+2014-11-10T13:52:37.380Z,27.9023,55.857,10,5.4,mb,,37,2.961,0.65,us,usc000sw08,2015-01-31T02:50:15.040Z,"89km NNW of Bandar 'Abbas, Iran",earthquake,7.1,1.7,0.038,241,reviewed,us,us
+2014-11-06T18:43:30.000Z,27.064,55.123,1.5,4.8,mb,,,,0.77,us,usc000sv3v,2015-01-31T02:50:05.040Z,"61km NNE of Bandar-e Lengeh, Iran",earthquake,6.7,3.9,0.048,142,reviewed,teh,us
+2014-10-24T12:38:56.300Z,27.772,57.4,23.8,5.3,mb,,,,1.02,us,usb000sqam,2015-01-17T01:25:35.040Z,"76km NNE of Minab, Iran",earthquake,5,3.7,0.046,161,reviewed,teh,us
+2014-10-21T22:47:02.900Z,27.543,57.465,24.6,4.3,mb,,,,0.68,us,usb000spmm,2015-01-15T20:03:37.040Z,"58km NE of Minab, Iran",earthquake,5,3.8,0.084,43,reviewed,teh,us
+2014-10-15T21:31:43.600Z,28.262,55.408,8.3,4.4,mb,,,,0.9,us,usb000smm2,2015-01-15T20:03:26.040Z,"100km ESE of Darab, Iran",earthquake,4,3.9,0.071,61,reviewed,teh,us
+2014-09-24T18:44:10.700Z,27.729,57.649,9.6,4.3,mb,,,,1.26,us,usb000sj8p,2014-12-20T00:53:56.040Z,"85km NE of Minab, Iran",earthquake,10.3,2.4,0.239,6,reviewed,teh,us
+2014-09-24T14:25:44.930Z,26.867,55.7885,10,4.6,mb,,56,1.95,0.8,us,usb000sj8g,2014-12-20T00:53:56.040Z,"49km WSW of Qeshm, Iran",earthquake,8.8,1.9,0.157,16,reviewed,us,us
+2014-09-24T14:22:21.810Z,26.8919,55.7594,10,4.1,mb,,104,1.979,0.28,us,usb000sj8x,2014-12-20T00:53:56.040Z,"51km W of Qeshm, Iran",earthquake,7.5,1.9,0.262,5,reviewed,us,us
+2014-09-22T06:26:07.490Z,30.6864,57.0986,20.12,3.8,mb,,121,0.619,0.81,us,usb000shsi,2014-12-19T00:05:25.040Z,"44km N of Kerman, Iran",earthquake,6.4,2.4,0.208,7,reviewed,us,us
+2014-09-13T19:42:44.100Z,32.305,55.825,5,4.2,mb,,,,1.15,us,usb000sc5p,2014-12-08T23:30:59.040Z,"86km NNE of Bafq, Iran",earthquake,5.3,5.7,0.152,13,reviewed,teh,us
+2014-09-05T01:13:58.800Z,27.672,56.768,13.3,4,mb,,,,1.57,us,usb000sd03,2014-12-05T23:36:32.040Z,"65km NNW of Minab, Iran",earthquake,7.1,4.9,0.183,12,reviewed,teh,us
+2014-08-31T12:14:41.720Z,27.704,57.6986,10,4.4,mb,,78,0.242,1.42,us,usb000sbcw,2014-11-29T00:09:22.000Z,"86km NE of Minab, Iran",earthquake,3.2,1.8,0.24,7,reviewed,us,us
+2014-07-26T10:48:39.700Z,26.724,57.192,9,3.8,mb,,,,0.72,us,usb000s0ry,2014-10-25T01:49:38.000Z,"48km SSE of Minab, Iran",earthquake,,5.4,0.208,9,reviewed,teh,us
+2014-07-22T15:22:39.160Z,27.6039,57.3339,10,5.1,mb,,43,2.835,0.61,us,usb000rw57,2014-10-17T21:12:14.000Z,"56km NNE of Minab, Iran",earthquake,,1.7,0.053,132,reviewed,us,us
+2014-07-05T03:11:48.300Z,28.35,55.06,14,4.7,mb,,,,0.9,us,usc000rqqn,2014-10-04T19:59:55.000Z,"67km SE of Darab, Iran",earthquake,,3.7,0.052,120,reviewed,thr,us
+2014-07-03T04:20:00.800Z,26.857,55.338,9,4.1,mb,,,,1.11,us,usb000rvxi,2014-10-04T19:59:51.000Z,"56km NE of Bandar-e Lengeh, Iran",earthquake,,4.7,0.145,13,reviewed,teh,us
+2014-06-30T03:48:46.000Z,32.183,58.978,9.5,4.2,mb,,,,1.36,us,usc000rnpr,2014-09-26T11:49:49.000Z,"79km SSW of Birjand, Iran",earthquake,,4.6,0.11,23,reviewed,teh,us
+2014-06-28T18:45:40.490Z,32.0932,58.9991,10.27,4.4,mb,,64,3.553,0.98,us,usc000rnci,2014-09-26T11:49:42.000Z,"88km SSW of Birjand, Iran",earthquake,,4.1,0.07,59,reviewed,us,us
+2014-06-18T00:29:42.000Z,29.038,58.332,19.1,3.7,mb,,,,1.33,us,usc000rp3r,2014-09-19T17:23:50.000Z,"7km SSW of Bam, Iran",earthquake,,3.6,0.29,6,reviewed,teh,us
+2014-06-11T06:06:34.500Z,28.427,57.044,8,3.9,mb,,,,1.32,us,usc000re0v,2014-09-12T15:47:14.000Z,"97km SSE of Kuh Sefid, Iran",earthquake,,5,0.363,4,reviewed,teh,us
+2014-06-02T22:51:16.500Z,27.76,57.22,14,4.9,mb,,,,1.11,us,usc000raa4,2014-08-26T01:21:10.000Z,"69km NNE of Minab, Iran",earthquake,,3.3,0.054,105,reviewed,thr,us
+2014-05-27T05:44:29.700Z,26.543,55.905,14.3,5.1,mb,,,,1.23,us,usb000r505,2015-01-28T17:14:38.440Z,"51km NW of Dib Dibba, Oman",earthquake,,3.3,0.052,123,reviewed,teh,us
+2014-05-12T16:42:23.710Z,28.2929,58.183,10,4.1,mb,,71,3.775,0.59,us,usc000r932,2014-08-06T00:55:33.000Z,"91km S of Bam, Iran",earthquake,,1.9,0.214,6,reviewed,us,us
+2014-05-09T06:17:25.500Z,27.92,57.47,14.1,4.2,mb,,,,1.95,us,usb000qf7l,2014-08-06T00:55:28.000Z,"93km NNE of Minab, Iran",earthquake,,3.6,0.108,24,reviewed,thr,us
+2014-05-09T00:08:45.100Z,27.903,57.52,20,4.6,mb,,,,0.91,us,usb000qezz,2014-08-06T00:55:27.000Z,"84km NNE of Minab, Iran",earthquake,,1.7,0.056,94,reviewed,teh,us
+2014-04-05T12:16:31.300Z,30.921,56.597,14,4.1,mb,,,,1.11,us,usc000p6g9,2014-06-11T06:06:09.000Z,"12km NNE of Zarand, Iran",earthquake,,5.8,0.135,16,reviewed,teh,us
+2014-04-01T06:40:19.400Z,28.295,57.82,10,4.2,mb,,,,1.34,us,usb000pmjw,2014-05-29T23:32:11.000Z,"104km SSW of Bam, Iran",earthquake,,5.6,0.264,5,reviewed,teh,us
+2014-04-01T06:37:19.600Z,28.1307,57.7307,10,4.4,mb,,56,3.454,1.01,us,usc000nydv,2014-05-29T23:32:11.000Z,"124km SSW of Bam, Iran",earthquake,,1.9,0.092,34,reviewed,us,us
+2014-03-16T14:34:40.460Z,28.1882,57.6362,10,4.5,mb,,52,3.474,0.76,us,usc000ndgq,2014-05-16T21:51:43.000Z,"123km SW of Bam, Iran",earthquake,,1.9,0.091,40,reviewed,us,us
+2014-03-12T20:21:59.200Z,28.336,57.069,10,4.3,mb,,,,1.5,us,usc000n9kl,2014-05-16T21:51:38.000Z,"107km SSE of Kuh Sefid, Iran",earthquake,,5.7,0.106,26,reviewed,teh,us
+2014-02-26T08:08:05.200Z,27.645,58.147,36,3.9,mb,,,,1.2,us,usc000n4yw,2014-05-13T21:36:42.000Z,"119km ENE of Minab, Iran",earthquake,,7.6,0.364,2,reviewed,teh,us
+2014-02-22T17:29:10.200Z,28.176,56.898,15,4.3,mb,,,,1.32,us,usc000mwiq,2014-05-07T00:03:07.000Z,"115km N of Minab, Iran",earthquake,,4.8,0.082,42,reviewed,teh,us
+2014-02-07T19:43:30.880Z,26.5274,57.6187,10.02,4.2,mb,,53,2.027,0.89,us,usc000mkh2,2014-04-22T18:30:08.000Z,"87km SE of Minab, Iran",earthquake,,2.3,0.083,44,reviewed,us,us
+2014-02-03T19:00:29.100Z,26.722,57.78,12.2,4.3,mb,,,,1.01,us,usc000mgbq,2014-04-08T01:43:26.000Z,"83km SE of Minab, Iran",earthquake,,4.1,0.119,23,reviewed,teh,us
+2014-02-02T18:15:45.000Z,28.28,57.09,16,4.3,mb,,,,1.49,us,usc000mfqz,2014-04-08T01:43:23.000Z,"113km SSE of Kuh Sefid, Iran",earthquake,,4.5,0.119,25,reviewed,teh,us
+2014-02-02T14:46:41.770Z,26.4447,57.3909,10,4,mb,,123,1.837,1.08,us,usc000msqe,2014-04-08T01:43:23.000Z,"83km SSE of Minab, Iran",earthquake,,1.9,0.3,5,reviewed,us,us
+2014-02-02T14:46:11.350Z,26.5921,57.5129,10,4,mb,,104,2.02,0.68,us,usc000msqf,2014-04-08T01:43:23.000Z,"75km SE of Minab, Iran",earthquake,,2,0.299,8,reviewed,us,us
+2014-02-02T14:26:45.510Z,26.5886,57.7412,10,5.3,mb,,49,2.144,0.73,us,usc000mfp8,2014-04-08T01:43:23.000Z,"90km SE of Minab, Iran",earthquake,,1.8,0.046,162,reviewed,us,us
+2013-12-26T00:44:26.600Z,30.3,57.47,18,3.8,mb,,,,1.9,us,usc000lrkg,2014-02-28T08:44:08.000Z,"37km E of Kerman, Iran",earthquake,,4.8,0.192,,reviewed,thr,us
+2013-11-27T07:25:42.530Z,26.8555,56.936,10.72,4.5,mb,,52,2.013,0.83,us,usb000l76n,2014-02-12T01:08:34.000Z,"35km SSW of Minab, Iran",earthquake,,2.7,0.087,,reviewed,us,us
+2013-11-20T08:20:21.400Z,27.406,56.167,17.3,4.3,mb,,,,1.24,us,usb000l2p7,2014-02-11T02:18:52.000Z,"26km NNW of Bandar 'Abbas, Iran",earthquake,,4.9,0.189,,reviewed,teh,us
+2013-11-07T23:38:52.000Z,26.55,57.5,12,4.1,mb,,,,0.93,us,usb000kuea,2014-01-17T00:29:11.000Z,"78km SSE of Minab, Iran",earthquake,,6.1,0.174,,reviewed,teh,us
+2013-10-08T02:52:08.000Z,27.195,55.92,10,4.8,mb,,,,1.03,us,usb000k8cv,2013-12-24T01:42:56.000Z,"35km W of Bandar 'Abbas, Iran",earthquake,,3.6,0.05,,reviewed,teh,us
+2013-10-04T18:17:28.520Z,32.9945,58.9102,19.33,4.8,mb,,32,3.106,0.8,us,usb000k6rk,2013-12-19T02:51:34.000Z,"32km WNW of Birjand, Iran",earthquake,,2.1,0.049,,reviewed,us,us
+2013-09-26T01:16:23.210Z,31.111,59.6699,10.29,4.3,mb,,72,1.426,1.29,us,usb000jzzr,2013-12-13T09:00:33.000Z,"175km W of Zabol, Iran",earthquake,,3.4,0.095,,reviewed,us,us
+2013-09-25T16:18:37.000Z,27.74,57.57,21,4.5,mb,,,,0.71,us,usb000k2dd,2013-12-13T09:00:33.000Z,"81km NE of Minab, Iran",earthquake,,2.7,0.172,,reviewed,teh,us
+2013-09-21T06:27:46.000Z,28.47,57.15,12,4.1,mb,,,,1.8,us,usb000jx2j,2013-12-09T21:11:10.000Z,"95km SSE of Kuh Sefid, Iran",earthquake,,1.9,0.103,,reviewed,teh,us
+2013-09-17T16:19:40.710Z,26.5581,55.7239,10,4.2,mb,,113,4.229,1.02,us,usb000jyf7,2013-12-09T21:11:07.000Z,"66km NW of Khasab, Oman",earthquake,,1.8,0.176,,reviewed,us,us
+2013-08-27T22:00:41.600Z,32.758,56.499,8,4.7,mb,,,,1.03,us,usb000jceq,2013-11-06T01:33:31.000Z,"101km SSW of Tabas, Iran",earthquake,,3.5,0.083,,reviewed,us_teh,us
+2013-08-25T13:56:33.360Z,30.5909,57.0748,10,4.3,mb,,55,5.778,0.75,us,usb000jbmy,2013-10-25T20:10:06.000Z,"34km N of Kerman, Iran",earthquake,,1.9,0.111,,reviewed,us,us
+2013-08-15T20:08:40.800Z,32.904,56.241,7.7,4.1,mb,,,,1.45,us,usb000j47x,2013-10-19T02:41:44.000Z,"99km SW of Tabas, Iran",earthquake,,6.2,0.131,,reviewed,us_teh,us
+2013-08-10T12:08:00.000Z,33.8,56.67,11,4.4,mb,,,,0.94,us,usb000j086,2013-10-12T21:32:34.000Z,"32km NW of Tabas, Iran",earthquake,,1.9,0.107,,reviewed,us_teh,us
+2013-07-31T22:09:05.290Z,26.76,57.72,14.1,4,mb,17,100,,,us,usb000isw9,2014-11-07T01:51:21.925Z,"76km SE of Minab, Iran",earthquake,,,,12,reviewed,thr,us
+2013-07-18T04:55:27.400Z,26.792,57.884,14.9,4,mb,34,100,,,us,usp000k241,2014-11-07T01:51:17.816Z,"southern Iran",earthquake,,,,16,reviewed,thr,us
+2013-07-17T11:55:29.090Z,26.741,57.939,17.3,4.2,mb,33,100,,,us,usb000ifyn,2014-11-07T01:51:17.442Z,"99km SE of Minab, Iran",earthquake,,,,13,reviewed,thr,us
+2013-07-13T00:52:58.900Z,27.368,55.172,14.1,4.3,mb,24,100,,,us,usb000idjz,2014-11-07T01:51:15.800Z,"65km ESE of Lar, Iran",earthquake,,,,36,reviewed,thr,us
+2013-07-09T17:05:12.090Z,28.168,55.993,10,4,mb,31,100,,,us,usp000k1v7,2014-11-07T01:51:14.691Z,"southern Iran",earthquake,,,,13,reviewed,teh,us
+2013-07-03T12:05:47.790Z,27.247,55.003,14.9,4.4,mb,44,100,,,us,usb000i5sh,2014-11-07T01:51:12.838Z,"77km N of Bandar-e Lengeh, Iran",earthquake,,,,31,reviewed,thr,us
+2013-07-02T11:18:33.000Z,27.28,55.02,12,5,mb,150,100,,,us,usb000i4s4,2014-11-07T01:51:11.940Z,"74km ESE of Lar, Iran",earthquake,,,,116,reviewed,teh,us
+2013-07-02T01:33:42.900Z,28.289,57.608,30.8,4.3,mb,54,100,,,us,usp000k1my,2014-11-07T01:51:11.403Z,"southern Iran",earthquake,,,,29,reviewed,teh,us
+2013-07-01T19:03:55.500Z,28.208,57.429,10,4.2,mb,36,100,,,us,usp000k1mq,2014-11-07T01:51:11.208Z,"southern Iran",earthquake,,,,19,reviewed,teh,us
+2013-06-30T16:25:32.150Z,26.609,57.924,10,4.3,mb,33,57,,1.05,us,usb000i3sy,2014-11-07T01:51:08.414Z,"111km ESE of Minab, Iran",earthquake,,1.9,,19,reviewed,us,us
+2013-06-19T20:05:24.180Z,26.522,57.487,25.6,4,mblg,14,123,,1.21,us,usp000k1c4,2014-11-07T01:51:06.101Z,"southern Iran",earthquake,,3.7,,,reviewed,us,teh
+2013-06-19T16:26:58.140Z,27.012,59.991,10.5,4.2,mb,28,80,,0.82,us,usc000hv26,2014-11-07T01:51:06.056Z,"68km WSW of Iranshahr, Iran",earthquake,,4.5,,13,reviewed,us,us
+2013-06-05T05:34:39.400Z,26.702,57.955,7,4.2,mb,25,100,,,us,usp000k13t,2014-11-07T01:51:01.052Z,"southern Iran",earthquake,,,,11,reviewed,teh,us
+2013-05-31T05:20:02.000Z,26.62,57.66,14.1,4.6,mb,71,100,,,us,usb000ha6n,2014-11-07T01:50:55.860Z,"82km SE of Minab, Iran",earthquake,,,,56,reviewed,thr,us
+2013-05-30T19:15:28.500Z,26.725,57.882,6.2,4.2,mb,39,100,,,us,usp000k11f,2014-11-07T01:50:55.770Z,"southern Iran",earthquake,,,,25,reviewed,teh,us
+2013-05-30T17:18:27.090Z,26.69,57.775,15.9,4,mb,19,100,,,us,usp000k11c,2014-11-07T01:50:55.748Z,"southern Iran",earthquake,,,,7,reviewed,teh,us
+2013-05-21T23:38:46.290Z,26.737,57.884,6.2,4.6,mb,125,51.7,,,us,usb000h1hd,2014-11-07T01:50:53.050Z,"91km ESE of Minab, Iran",earthquake,,,,64,reviewed,teh,us
+2013-05-20T20:33:45.400Z,26.714,57.74,11.9,4.1,mblg,43,119.1,,,us,usp000k0ud,2014-11-07T01:50:51.359Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-20T09:16:30.060Z,26.539,57.706,24.2,4.6,mb,49,55,,1.21,us,us2013qkfp,2014-11-07T01:50:51.113Z,"91km SE of Minab, Iran",earthquake,,4.8,,70,reviewed,us,us
+2013-05-20T07:02:26.900Z,26.7,57.46,15,4.6,mb,106,100,,,us,usb000gzjd,2014-11-07T01:50:51.074Z,"81km ESE of Minab, Iran",earthquake,,,,77,reviewed,thr,us
+2013-05-18T15:10:40.000Z,26.77,57.87,6,4.2,mb,23,126.1,,,us,usp000k0rx,2014-11-07T01:50:49.878Z,"southern Iran",earthquake,,,,13,reviewed,teh,us
+2013-05-18T12:09:43.790Z,26.73,57.87,15,4.5,mb,68,100,,,us,usb000gy9t,2014-11-07T01:50:49.859Z,"91km ESE of Minab, Iran",earthquake,,,,46,reviewed,teh,us
+2013-05-18T10:57:47.090Z,26.502,57.712,15,5.4,mwb,133,100,,,us,usb000gy95,2017-10-11T20:33:07.772Z,"95km SE of Minab, Iran",earthquake,,,,,reviewed,thr,us
+2013-05-18T10:03:16.290Z,26.606,57.785,15,5.5,mwb,242,51.5,,,us,usb000gy8m,2017-10-11T20:32:55.328Z,"92km SE of Minab, Iran",earthquake,,,,,reviewed,thr,us
+2013-05-17T14:45:20.000Z,26.52,57.48,22,4.4,mb,28,100,,,us,usp000k0rp,2014-11-07T01:50:49.379Z,"southern Iran",earthquake,,,,21,reviewed,teh,us
+2013-05-15T18:51:17.150Z,26.591,58.076,10,4,mb,40,73.1,,1.43,us,usp000k0q6,2014-11-07T01:50:48.683Z,"southeastern Iran",earthquake,,,,16,reviewed,us,us
+2013-05-15T16:09:02.900Z,26.72,57.78,15,4.5,mb,59,99.8,,,us,us2013qfa2,2014-11-07T01:50:48.660Z,"84km SE of Minab, Iran",earthquake,,,,32,reviewed,thr,us
+2013-05-14T13:43:00.640Z,26.529,57.431,10,4,mb,22,102.5,,1.2,us,us2013qecz,2014-11-07T01:50:48.252Z,"76km SSE of Minab, Iran",earthquake,,0,,4,reviewed,us,us
+2013-05-14T10:02:38.200Z,26.56,57.817,15,4.2,mblg,19,100,,,us,usp000k0pr,2014-11-07T01:50:48.206Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-13T05:44:25.000Z,26.5,57.75,11,4,mb,36,100,,,us,usp000k0p8,2014-11-07T01:50:47.957Z,"southern Iran",earthquake,,,,17,reviewed,teh,us
+2013-05-13T01:42:59.550Z,26.487,57.857,10,4.2,mb,47,61.8,,1.23,us,us2013qdbq,2014-11-07T01:50:47.928Z,"106km SE of Minab, Iran",earthquake,,,,13,reviewed,us,us
+2013-05-12T22:15:34.100Z,26.482,57.614,14.1,4.1,ml,22,103.4,,,us,us2013qced,2014-11-07T01:50:47.843Z,"90km SE of Minab, Iran",earthquake,,,,,reviewed,thr,thr
+2013-05-12T20:18:32.000Z,26.48,57.7,13,4.4,mb,34,102.1,,,us,usp000k0p3,2014-11-07T01:50:47.833Z,"southern Iran",earthquake,,,,15,reviewed,teh,us
+2013-05-12T18:12:01.000Z,26.29,57.68,20,4.1,mblg,33,106.1,,,us,usp000k0p1,2014-11-07T01:50:47.769Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-12T17:50:36.000Z,26.49,57.61,25,4.4,mb,17,105.3,,,us,usp000k0nz,2014-11-07T01:50:47.759Z,"southern Iran",earthquake,,,,3,reviewed,teh,us
+2013-05-12T12:48:07.290Z,26.619,57.551,25.8,4.4,mb,69,100,,,us,usc000guql,2014-11-07T01:50:47.670Z,"74km SE of Minab, Iran",earthquake,,,,44,reviewed,teh,us
+2013-05-12T11:56:30.700Z,26.529,57.71,9.9,4.1,mb,45,100,,,us,usc000guq7,2014-11-07T01:50:47.656Z,"92km SE of Minab, Iran",earthquake,,,,24,reviewed,teh,us
+2013-05-12T11:00:14.400Z,26.604,57.613,19.3,4.7,mb,56,100,,,us,us2013qcen,2014-11-07T01:50:47.649Z,"80km SE of Minab, Iran",earthquake,,,,30,reviewed,teh,us
+2013-05-12T10:54:48.640Z,26.716,57.765,14,5.5,mwb,165,49.9,,0.99,us,usc000gup1,2017-10-11T20:32:34.156Z,"83km SE of Minab, Iran",earthquake,,,,,reviewed,us,us
+2013-05-12T09:02:20.090Z,26.47,57.67,15,4.5,mb,73,100,,,us,usc000gumv,2014-11-07T01:50:47.561Z,"95km SE of Minab, Iran",earthquake,,,,47,reviewed,thr,us
+2013-05-12T06:13:14.400Z,26.6,57.92,8,4.1,mb,52,57.4,,,us,usc000guki,2014-11-07T01:50:47.461Z,"103km SE of Minab, Iran",earthquake,,,,28,reviewed,teh,us
+2013-05-12T04:23:03.400Z,26.573,57.695,20.4,4.4,mb,76,53.4,,,us,usc000guj1,2014-11-07T01:50:47.449Z,"88km SE of Minab, Iran",earthquake,,,,39,reviewed,teh,us
+2013-05-12T02:50:04.800Z,26.835,57.649,28,4.4,mb,64,59.5,,,us,usc000gui3,2014-11-07T01:50:47.434Z,"66km ESE of Minab, Iran",earthquake,,,,24,reviewed,teh,us
+2013-05-12T01:57:22.100Z,26.55,57.779,17.7,4.1,mblg,46,100.6,,,us,us2013qcer,2014-11-07T01:50:47.423Z,"95km SE of Minab, Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-12T01:08:21.350Z,26.563,57.781,10,4.5,mb,61,59.4,,0.9,us,usc000guhq,2014-11-07T01:50:47.418Z,"95km SE of Minab, Iran",earthquake,,,,33,reviewed,us,us
+2013-05-12T01:06:23.500Z,26.6,57.724,15.4,4.4,mb,81,59.9,,,us,usc000guhp,2014-11-07T01:50:47.411Z,"88km SE of Minab, Iran",earthquake,,,,36,reviewed,teh,us
+2013-05-12T00:24:56.000Z,26.581,57.483,14.6,4.2,mb,46,51.6,,,us,us2013qce6,2014-11-07T01:50:47.406Z,"90km SE of Minab, Iran",earthquake,,,,12,reviewed,thr,us
+2013-05-12T00:06:59.800Z,26.404,57.522,17.6,5.5,mwb,298,29.2,,,us,usc000guh1,2017-10-11T20:32:09.013Z,"93km SSE of Minab, Iran",earthquake,,,,,reviewed,thr,us
+2013-05-11T22:28:08.500Z,26.691,57.465,14.3,4.5,mb,67,52.9,,,us,usc000gufv,2014-11-07T01:50:47.370Z,"63km SE of Minab, Iran",earthquake,,,,40,reviewed,thr,us
+2013-05-11T22:25:21.000Z,26.47,57.68,12,4.4,mb,35,72.9,,,us,us2013qbej,2014-11-07T01:50:47.366Z,"90km SE of Minab, Iran",earthquake,,,,6,reviewed,teh,us
+2013-05-11T22:23:05.800Z,26.749,57.581,14.2,4.9,mb,120,47.5,,,us,usc000gufu,2014-11-07T01:50:47.357Z,"66km SE of Minab, Iran",earthquake,,,,78,reviewed,thr,us
+2013-05-11T21:51:31.100Z,26.72,57.619,14.1,4.9,mb,125,46.9,,,us,us2013qbbl,2014-11-07T01:50:47.348Z,"71km SE of Minab, Iran",earthquake,,,,88,reviewed,thr,us
+2013-05-11T18:06:13.890Z,26.599,57.932,25,4.7,mb,115,57,,1.06,us,usc000gu8k,2014-11-07T01:50:47.266Z,"104km SE of Minab, Iran",earthquake,,4.3,,106,reviewed,us,us
+2013-05-11T14:23:17.000Z,26.56,57.72,25,4.3,mb,43,101.4,,,us,usp000k0nn,2014-11-07T01:50:47.238Z,"southern Iran",earthquake,,,,29,reviewed,teh,us
+2013-05-11T10:25:33.790Z,26.789,57.57,14.2,4.3,mb,35,100,,,us,usc000gu1e,2014-11-07T01:50:47.196Z,"62km SE of Minab, Iran",earthquake,,,,56,reviewed,thr,us
+2013-05-11T10:03:04.900Z,26.788,57.641,14.1,4.6,mb,100,100,,,us,usc000gu19,2014-11-07T01:50:47.187Z,"68km SE of Minab, Iran",earthquake,,,,98,reviewed,thr,us
+2013-05-11T08:42:34.290Z,26.52,57.67,15,5,mb,125,100,,,us,usc000gu0m,2014-11-07T01:50:47.173Z,"96km SE of Minab, Iran",earthquake,,,,93,reviewed,thr,us
+2013-05-11T08:38:27.000Z,26.57,57.7,15,4.1,mb,21,100,,,us,us2013qbd2,2014-11-07T01:50:47.171Z,"91km SSE of Minab, Iran",earthquake,,,,9,reviewed,thr,us
+2013-05-11T07:58:38.290Z,26.442,57.785,15.2,4.2,mblg,29,101,,,us,us2013qbd1,2014-11-07T01:50:47.167Z,"104km SE of Minab, Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-11T05:59:34.900Z,26.606,57.914,15.5,4.3,mb,45,100,,,us,usc000gtyk,2014-11-07T01:50:47.157Z,"102km SE of Minab, Iran",earthquake,,,,21,reviewed,teh,us
+2013-05-11T05:45:29.000Z,26.52,57.57,14.1,4.2,mb,20,100,,,us,usc000gu25,2014-11-07T01:50:47.155Z,"91km SE of Minab, Iran",earthquake,,,,6,reviewed,thr,us
+2013-05-11T05:34:14.500Z,26.649,57.755,11.3,4.4,mb,65,100,,,us,usc000gtya,2014-11-07T01:50:47.150Z,"86km SE of Minab, Iran",earthquake,,,,35,reviewed,teh,us
+2013-05-11T05:21:28.700Z,26.683,57.666,20.7,4,mb,39,100,,,us,us2013qbdz,2014-11-07T01:50:47.144Z,"77km SE of Minab, Iran",earthquake,,,,13,reviewed,teh,us
+2013-05-11T04:53:35.000Z,26.607,57.794,17.4,4.2,mb,39,108.4,,,us,us2013qbei,2014-11-07T01:50:47.136Z,"92km SE of Minab, Iran",earthquake,,,,8,reviewed,teh,us
+2013-05-11T04:11:35.750Z,26.57,57.501,10,4.2,mb,25,124.9,,1.01,us,us2013qbem,2014-11-07T01:50:47.116Z,"76km SSE of Minab, Iran",earthquake,,,,3,reviewed,us,us
+2013-05-11T04:09:27.200Z,26.531,57.89,10,4.7,mb,131,53.1,,,us,usc000gtww,2014-11-07T01:50:47.106Z,"105km SE of Minab, Iran",earthquake,,,,54,reviewed,teh,us
+2013-05-11T03:58:14.600Z,26.691,57.683,19.6,4.3,mb,89,62.7,,,us,usc000gtwv,2014-11-07T01:50:47.096Z,"78km SE of Minab, Iran",earthquake,,,,29,reviewed,teh,us
+2013-05-11T03:41:27.100Z,26.53,57.94,10,5.1,mb,195,51.9,,,us,usc000gtwm,2014-11-07T01:50:47.074Z,"109km SE of Minab, Iran",earthquake,,,,92,reviewed,teh,us
+2013-05-11T03:17:21.500Z,26.656,57.723,8.3,4.7,mb,113,51.8,,,us,usc000gtwg,2014-11-07T01:50:47.061Z,"83km SE of Minab, Iran",earthquake,,,,44,reviewed,teh,us
+2013-05-11T03:09:47.400Z,26.548,57.926,8.9,5.5,mwc,241,51.7,,,us,usc000gtwf,2014-11-07T01:50:47.032Z,"107km SE of Minab, Iran",earthquake,,,,,reviewed,teh,gcmt
+2013-05-11T03:03:27.200Z,26.682,57.897,16.1,4.8,mb,143,53,,,us,usc000gtwc,2014-11-07T01:50:47.020Z,"96km ESE of Minab, Iran",earthquake,,,,72,reviewed,teh,us
+2013-05-11T02:50:00.140Z,26.59,57.925,12.9,4.6,mb,99,53.1,,1.15,us,usc000gtw3,2014-11-07T01:50:47.010Z,"104km SE of Minab, Iran",earthquake,,16.8,,52,reviewed,us,us
+2013-05-11T02:49:34.300Z,26.616,57.566,27.2,4,mb,36,53.2,,,us,us2013qbel,2014-11-07T01:50:47.007Z,"76km SE of Minab, Iran",earthquake,,,,6,reviewed,teh,us
+2013-05-11T02:45:48.500Z,26.673,57.66,22.6,4.1,mb,35,53.3,,,us,us2013qbek,2014-11-07T01:50:47.003Z,"77km SE of Minab, Iran",earthquake,,,,4,reviewed,teh,us
+2013-05-11T02:32:44.500Z,26.672,57.691,23.4,4.5,mb,82,51.9,,,us,usc000gtvy,2014-11-07T01:50:46.995Z,"80km SE of Minab, Iran",earthquake,,,,32,reviewed,teh,us
+2013-05-11T02:29:36.900Z,26.663,57.889,10.7,4.6,mb,101,53,,,us,usc000gtvw,2014-11-07T01:50:46.957Z,"96km ESE of Minab, Iran",earthquake,,,,39,reviewed,teh,us
+2013-05-11T02:08:08.500Z,26.56,57.77,15,6.1,mww,351,33.1,,,us,usc000gtvs,2017-10-11T20:31:56.352Z,"94km SE of Minab, Iran",earthquake,,,,,reviewed,thr,us
+2013-05-09T08:50:34.500Z,26.651,57.607,24.1,4.1,mblg,27,100,,,us,usp000k0my,2014-11-07T01:50:45.787Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2013-05-09T08:01:33.500Z,26.727,57.685,22.5,4.9,mb,156,100,,,us,usc000grrk,2014-11-07T01:50:45.772Z,"80km ESE of Minab, Iran",earthquake,,,,119,reviewed,teh,us
+2013-04-25T07:48:56.590Z,28.002,56.993,6.6,4.1,mb,18,100,,,us,usp000k0en,2014-11-07T01:50:38.720Z,"southern Iran",earthquake,,,,8,reviewed,teh,us
+2013-04-24T03:51:14.290Z,27.902,55,36,4,mblg,30,120.8,,,us,usp000k0dt,2014-11-07T01:50:38.189Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2013-03-08T21:38:50.000Z,28.402,57.966,105,4.4,mblg,35,56,,,us,us2013mmbe,2014-11-07T01:50:18.751Z,"86km SSW of Bam, Iran",earthquake,,,,,reviewed,teh,teh
+2013-03-04T14:29:53.200Z,27.42,56.61,15,4.1,mb,46,68.3,,,us,us2013micz,2014-11-07T01:50:17.517Z,"41km NE of Bandar 'Abbas, Iran",earthquake,,,,13,reviewed,thr,us
+2013-02-22T01:39:24.400Z,29.66,57.06,16,4.1,mb,52,77.3,,,us,us2013lyab,2014-11-07T01:50:10.607Z,"49km NNE of Kuh Sefid, Iran",earthquake,,,,5,reviewed,thr,us
+2013-02-07T13:42:08.500Z,27.515,56.309,7.1,4.3,mb,28,94.1,,,us,usp000jz4v,2014-11-07T01:50:03.701Z,"southern Iran",earthquake,,,,2,reviewed,teh,us
+2013-02-03T17:46:58.000Z,27.68,56.5,20,4.6,mb,57,69.1,,,us,usc000f0mh,2014-11-07T01:50:00.315Z,"59km NNE of Bandar 'Abbas, Iran",earthquake,,,,18,reviewed,teh,us
+2013-01-24T09:28:29.850Z,27.794,56.4,10,4.2,mb,48,119.7,,1.06,us,usp000jysf,2014-11-07T01:49:53.019Z,"southern Iran",earthquake,,,,17,reviewed,us,us
+2013-01-24T04:51:07.290Z,27.86,56.557,17.6,4.6,mb,115,69.8,,,us,usp000jys7,2014-11-07T01:49:52.937Z,"southern Iran",earthquake,,,,51,reviewed,teh,us
+2013-01-21T19:48:58.880Z,30.33,57.467,10,5.5,mwb,160,48.2,,0.99,us,usb000esbm,2015-01-29T19:17:03.352Z,"39km ENE of Kerman, Iran",earthquake,,,,,reviewed,us,us
+2013-01-07T00:41:57.340Z,26.841,56.16,10,4.3,mb,64,107.9,,0.78,us,usp000jy08,2014-11-07T01:49:47.279Z,"Strait of Hormuz",earthquake,,,,24,reviewed,us,us
+2013-01-06T15:24:14.090Z,29.965,57.617,10,4.1,mb,33,94,,0.96,us,usp000jxzm,2014-11-07T01:49:47.181Z,"southern Iran",earthquake,,,,5,reviewed,us,us
+2012-12-18T02:53:49.590Z,28.39,56.96,5,4.5,mb,74,74.6,,,us,usp000jx3f,2014-11-07T01:49:37.492Z,"southern Iran",earthquake,,,,24,reviewed,teh,us
+2012-12-14T10:10:27.400Z,28.387,57.53,14.2,4.1,mb,37,82.4,,,us,usp000jwy9,2014-11-07T01:49:36.276Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2012-12-09T00:14:06.000Z,27.91,56.9,14,4.3,mb,34,78.8,,,us,usp000jwqc,2014-11-07T01:49:34.570Z,"southern Iran",earthquake,,,,18,reviewed,thr,us
+2012-12-05T17:08:13.560Z,33.506,59.571,14.4,5.8,mww,248,20.2,,0.98,us,usp000jwga,2017-10-11T20:20:16.641Z,"eastern Iran",earthquake,,9.6,,,reviewed,us,us
+2012-12-03T12:53:22.900Z,30.523,57.227,5,4.6,mb,108,72.7,,,us,usp000jwd5,2015-03-24T01:34:34.825Z,"eastern Iran",earthquake,,,,37,reviewed,teh,us
+2012-10-27T20:54:58.900Z,29.371,56.874,98,4.5,mb,62,91,,,us,usp000juh7,2014-11-07T01:49:09.186Z,"southern Iran",earthquake,,,,24,reviewed,teh,us
+2012-10-21T16:38:18.670Z,27.538,59.431,10,4.8,mb,49,137.6,,1.07,us,usp000ju99,2014-11-07T01:49:07.618Z,"southeastern Iran",earthquake,,,,18,reviewed,us,us
+2012-09-21T03:28:30.000Z,32.14,58.48,6,4.6,mb,79,97.5,,,us,usp000jsnc,2014-11-07T01:48:53.348Z,"eastern Iran",earthquake,,,,26,reviewed,teh,us
+2012-09-03T03:03:41.900Z,28.01,57.76,14.1,4.4,mb,98,53.3,,,us,usp000jrj5,2014-11-07T01:48:46.118Z,"southern Iran",earthquake,,,,28,reviewed,thr,us
+2012-09-02T00:50:00.500Z,33.474,59.897,12,5.1,mb,210,55.7,,,us,usp000jrfs,2014-11-07T01:48:45.385Z,"eastern Iran",earthquake,,,,97,reviewed,teh,us
+2012-08-09T23:45:00.500Z,33.492,59.423,10,4.1,mb,52,66.2,,,us,usp000jq3x,2014-11-07T01:48:32.596Z,"eastern Iran",earthquake,,,,9,reviewed,teh,us
+2012-07-12T23:49:28.010Z,27.016,59.33,10,4.1,mb,17,142.2,,0.99,us,usp000jny8,2014-11-07T01:48:19.305Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2012-07-12T23:33:58.030Z,26.951,59.426,10,4.5,mb,84,73.3,,1.1,us,usp000jny7,2014-11-07T01:48:19.299Z,"southeastern Iran",earthquake,,,,28,reviewed,us,us
+2012-07-12T21:18:26.700Z,27.02,55.02,10,4.5,mb,72,57.1,,,us,usp000jny5,2014-11-07T01:48:19.289Z,"southern Iran",earthquake,,,,27,reviewed,teh,us
+2012-06-04T03:58:09.000Z,28.24,57.03,29,4,mb,46,52,,,us,usp000jma8,2014-11-07T01:48:00.457Z,"southern Iran",earthquake,,,,6,reviewed,thr,us
+2012-05-14T10:12:31.990Z,27.955,57.722,2,5.1,mb,89,52.8,,0.97,us,usp000jkdz,2014-11-07T01:47:47.536Z,"southern Iran",earthquake,,7,,30,reviewed,us,us
+2012-05-07T00:29:14.500Z,27.565,58.672,10,4.1,mb,37,119.2,,,us,usp000jk3v,2014-11-07T01:47:45.406Z,"southeastern Iran",earthquake,,,,4,reviewed,teh,us
+2012-04-29T11:58:42.100Z,28.811,57.421,90,4.4,mb,101,51.7,,,us,usp000jjsd,2014-11-07T01:47:38.430Z,"southern Iran",earthquake,,,,47,reviewed,teh,us
+2012-04-18T17:40:39.560Z,27.941,58.063,72.3,5.1,mb,182,40.4,,0.99,us,usp000jj6q,2015-03-24T02:36:11.829Z,"southeastern Iran",earthquake,,,,81,reviewed,us,us
+2012-03-26T00:06:19.480Z,27.721,58.834,74.6,4.9,mb,116,64.8,,0.87,us,usp000jgt3,2014-11-07T01:47:19.250Z,"southeastern Iran",earthquake,,,,53,reviewed,us,us
+2012-03-15T06:17:07.000Z,32.09,55,8,4.5,mb,40,55.9,,,us,usp000jg9h,2014-11-07T01:47:15.090Z,"central Iran",earthquake,,,,10,reviewed,teh,us
+2012-03-11T05:00:06.500Z,28.26,59.08,10,4.5,mb,65,67,,,us,usp000jg2u,2014-11-07T01:47:13.585Z,"southeastern Iran",earthquake,,,,13,reviewed,teh,us
+2012-03-08T02:01:43.000Z,28.21,55.38,14,4.5,mb,101,70.5,,,us,usp000jfxk,2014-11-07T01:47:12.496Z,"southern Iran",earthquake,,,,29,reviewed,thr,us
+2012-03-07T06:57:43.700Z,31.532,56.78,16.4,4.4,mb,101,50.3,,,us,usp000jfw8,2014-11-07T01:47:12.230Z,"central Iran",earthquake,,,,18,reviewed,thr,us
+2012-03-05T19:30:15.200Z,27.88,56.89,14.1,4,mb,38,51,,,us,usp000jfug,2014-11-07T01:47:11.811Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2012-02-28T18:51:09.400Z,27.441,57.646,35,4.3,mb,63,90.8,,1.28,us,usp000jfj8,2014-11-07T01:47:05.587Z,"southern Iran",earthquake,,,,12,reviewed,us,us
+2012-02-27T18:48:55.300Z,31.428,56.778,10,5.2,mb,211,50.9,,,us,usp000jfgu,2014-11-07T01:47:05.245Z,"central Iran",earthquake,,,,98,reviewed,teh,us
+2012-02-15T18:57:36.400Z,32.075,58.559,5,4.6,mb,66,38,,,us,usp000jezm,2014-11-07T01:47:01.689Z,"eastern Iran",earthquake,,,,17,reviewed,teh,us
+2012-01-09T19:53:35.300Z,27.034,55.726,14.2,5.2,mb,165,41.9,,,us,usp000jd9k,2014-11-07T01:46:45.370Z,"southern Iran",earthquake,,,,88,reviewed,thr,us
+2011-12-20T04:46:33.000Z,27.65,57.22,14,4.7,mb,83,46.7,,,us,usp000jce0,2014-11-07T01:46:35.857Z,"southern Iran",earthquake,,,,12,reviewed,thr,us
+2011-12-19T01:52:55.800Z,30.04,59.47,14.1,4.6,mblg,49,76.2,,,us,usp000jcct,2014-11-07T01:46:35.565Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2011-12-16T21:10:44.100Z,30.816,56.779,6,4.4,mb,25,59.6,,,us,usp000jc98,2014-11-07T01:46:34.914Z,"central Iran",earthquake,,,,8,reviewed,teh,us
+2011-12-10T16:13:51.200Z,32.204,58.502,10,4.7,mb,86,61.8,,,us,usp000jc18,2014-11-07T01:46:32.719Z,"eastern Iran",earthquake,,,,43,reviewed,teh,us
+2011-11-21T01:56:41.800Z,32.2,59.92,14.2,5,mwc,124,30.7,,,us,usp000jb6f,2014-11-07T01:46:23.414Z,"eastern Iran",earthquake,,,,,reviewed,thr,gcmt
+2011-11-20T07:20:16.600Z,26.727,55.35,38.5,4.3,mb,28,108.3,,,us,usp000jb55,2014-11-07T01:46:23.185Z,"southern Iran",earthquake,,,,16,reviewed,thr,us
+2011-11-20T00:40:59.000Z,27.59,57.29,41,4.3,mb,37,108.2,,,us,usp000jb4n,2014-11-07T01:46:23.088Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2011-11-13T14:11:06.090Z,28.166,57.163,28.7,4.8,mb,86,48.6,,1.09,us,usp000jau7,2014-11-07T01:46:20.908Z,"southern Iran",earthquake,,,,32,reviewed,us,us
+2011-11-13T08:00:15.200Z,28.15,59.299,20,4.6,mb,55,69.3,,,us,usp000jatq,2014-11-07T01:46:20.848Z,"southeastern Iran",earthquake,,,,16,reviewed,teh,us
+2011-10-20T06:57:25.530Z,27.481,56.224,10,4.4,mb,47,62.2,,1.03,us,usp000j9kj,2014-11-07T01:46:08.180Z,"southern Iran",earthquake,,,,14,reviewed,us,us
+2011-10-04T09:44:22.600Z,31.471,56.74,15,4.2,ml,20,121.2,,,us,usp000j8wv,2014-11-07T01:46:03.301Z,"central Iran",earthquake,,,,,reviewed,thr,thr
+2011-09-23T22:12:40.600Z,26.742,55.844,21.8,4,mb,11,171.3,,,us,usp000j8fv,2014-11-07T01:45:56.818Z,"southern Iran",earthquake,,,,5,reviewed,teh,us
+2011-09-19T22:30:53.000Z,29.46,56.83,3,4.6,mb,92,48.3,,,us,usp000j8a6,2014-11-07T01:45:55.821Z,"southern Iran",earthquake,,,,20,reviewed,teh,us
+2011-09-05T18:45:02.100Z,31.187,56.925,14.1,4,mb,21,94.7,,,us,usp000j7ns,2014-11-07T01:45:50.654Z,"central Iran",earthquake,,,,3,reviewed,thr,us
+2011-09-04T16:41:45.410Z,28.071,59.891,10,4.4,mb,18,75.5,,0.73,us,usp000j7kv,2014-11-07T01:45:50.118Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2011-08-21T01:54:45.000Z,27.773,57.586,17,4,ml,33,85.9,,,us,usp000j6sn,2014-11-07T01:45:39.669Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2011-08-15T10:44:33.700Z,28.103,55.881,9.1,4.9,mb,103,37.3,,,us,usp000j6gp,2014-11-07T01:45:36.817Z,"southern Iran",earthquake,,,,43,reviewed,teh,us
+2011-08-09T19:25:08.670Z,28.089,57.653,9.2,3.8,mblg,27,64.9,,,us,usp000j680,2014-11-07T01:45:35.111Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2011-08-02T18:08:31.790Z,32.296,59.957,12.6,4.4,mb,87,64.4,,,us,usp000j5vk,2014-11-07T01:45:32.714Z,"eastern Iran",earthquake,,,,42,reviewed,teh,us
+2011-07-29T13:42:27.900Z,28.288,57.707,3.2,4,mblg,27,54.4,,,us,usp000j5pb,2014-11-07T01:45:27.911Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2011-07-28T22:27:22.610Z,28.134,57.535,10,4.6,mb,80,51.3,,0.99,us,usp000j5n0,2014-11-07T01:45:27.668Z,"southern Iran",earthquake,,,,33,reviewed,us,us
+2011-07-28T22:27:13.700Z,28.198,57.452,20,4.1,mb,40,50.6,,,us,usp000j5mz,2014-11-07T01:45:27.664Z,"southern Iran",earthquake,,,,7,reviewed,teh,us
+2011-07-26T04:58:48.200Z,27.43,56.58,8.3,4,mb,28,54.5,,,us,usp000j5gz,2014-11-07T01:45:26.684Z,"southern Iran",earthquake,,,,3,reviewed,thr,us
+2011-07-21T03:09:26.000Z,26.52,59.55,11,4.6,mb,89,76.6,,,us,usp000j580,2014-11-07T01:45:24.637Z,"southeastern Iran",earthquake,,,,31,reviewed,teh,us
+2011-07-01T05:22:37.000Z,32.69,59.85,15,4.2,mb,35,59.9,,,us,usp000j40p,2014-11-07T01:45:14.166Z,"eastern Iran",earthquake,,,,4,reviewed,thr,us
+2011-06-26T20:17:56.500Z,28.214,59.88,14.6,4.5,mb,49,75,,,us,usp000j3tc,2014-11-07T01:45:10.863Z,"southeastern Iran",earthquake,,,,13,reviewed,teh,us
+2011-06-26T19:47:00.000Z,30.21,57.63,13,5.1,mwc,126,55.4,,,us,usp000j3t9,2014-11-07T01:45:10.847Z,"eastern Iran",earthquake,,,,,reviewed,teh,gcmt
+2011-06-26T10:45:24.000Z,31.99,55.73,5,4,mblg,27,118.9,,,us,usp000j3sm,2014-11-07T01:45:10.688Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2011-06-15T02:46:02.700Z,27.816,57.728,27.3,4.3,mb,53,58.2,,,us,usp000j36j,2014-11-07T01:45:05.850Z,"southern Iran",earthquake,,,,15,reviewed,teh,us
+2011-06-15T02:35:52.700Z,27.862,57.585,30.7,4,mb,46,78.1,,,us,usp000j36g,2014-11-07T01:45:05.828Z,"southern Iran",earthquake,,,,10,reviewed,teh,us
+2011-06-15T02:00:57.300Z,27.899,57.565,29.6,4.3,ml,41,75.9,,,us,usp000j36d,2014-11-07T01:45:05.816Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2011-06-15T01:15:17.400Z,27.933,57.527,32,4.1,ml,21,108.9,,,us,usp000j369,2014-11-07T01:45:05.804Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2011-06-15T01:12:50.300Z,27.848,57.618,29.6,4,mb,36,79.2,,,us,usp000j368,2014-11-07T01:45:05.800Z,"southern Iran",earthquake,,,,8,reviewed,teh,us
+2011-06-15T01:10:54.600Z,27.786,57.878,31,4.2,mb,14,117.5,,,us,usp000j367,2014-11-07T01:45:05.798Z,"southern Iran",earthquake,,,,4,reviewed,teh,us
+2011-06-15T01:05:30.700Z,27.784,57.766,34,5.5,mwc,293,43.6,,,us,usp000j366,2014-11-07T01:45:05.770Z,"southern Iran",earthquake,,,,,reviewed,teh,gcmt
+2011-06-15T01:03:22.200Z,27.906,57.618,31.3,4.3,mb,85,52.3,,,us,usp000j364,2014-11-07T01:45:05.760Z,"southern Iran",earthquake,,,,31,reviewed,teh,us
+2011-04-30T08:55:13.000Z,30.73,57.35,6,4.1,mblg,25,63.4,,,us,usp000j0tj,2014-11-07T01:44:39.560Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2011-04-13T03:37:09.500Z,27.99,58.98,18,4.3,mb,39,66.2,,,us,usp000hzup,2014-11-07T01:44:32.384Z,"southeastern Iran",earthquake,,,,9,reviewed,thr,us
+2011-04-11T12:02:20.400Z,28.288,58.867,29.8,4.2,mblg,16,69,,,us,usp000hzrc,2014-11-07T01:44:31.588Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2011-03-22T02:32:11.200Z,28.27,59.15,14.1,4.1,mb,32,67.7,,,us,usp000hy7g,2014-11-07T01:44:17.110Z,"southeastern Iran",earthquake,,,,6,reviewed,thr,us
+2011-03-21T06:02:25.300Z,28.216,59.392,6.2,4.3,mblg,13,78.8,,,us,usp000hy4s,2014-11-07T01:44:16.164Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2011-03-18T21:49:56.000Z,28.153,56.375,16.5,4.7,mb,102,40.5,,,us,usp000hxuq,2014-11-07T01:44:14.086Z,"southern Iran",earthquake,,,,41,reviewed,teh,us
+2011-03-18T02:26:08.600Z,28.2,56.42,40,4,mb,55,51.9,,,us,usp000hxrx,2014-11-07T01:44:13.052Z,"southern Iran",earthquake,,,,8,reviewed,thr,us
+2011-03-14T07:55:08.700Z,27.843,56.712,14.2,4.8,mb,78,42.3,,,us,usp000hx3x,2014-11-07T01:44:08.008Z,"southern Iran",earthquake,,,,30,reviewed,teh,us
+2011-03-05T20:42:53.900Z,28.298,57.14,19.3,5.2,mwc,202,36.5,,,us,usp000hvd6,2014-11-07T01:43:51.920Z,"southern Iran",earthquake,,,,,reviewed,teh,gcmt
+2011-02-23T03:26:00.500Z,26.73,57.52,25.7,4.4,mb,49,65.9,,,us,usp000huys,2014-11-07T01:43:43.142Z,"southern Iran",earthquake,,,,13,reviewed,thr,us
+2011-02-06T08:13:11.530Z,28.227,56.339,10,4.6,mb,69,40.5,,0.86,us,usp000hu5g,2014-11-07T01:43:37.718Z,"southern Iran",earthquake,,,,24,reviewed,us,us
+2011-01-30T17:56:10.300Z,28.21,59.11,16,4.1,mb,47,67.4,,,us,usp000htvb,2014-11-07T01:43:31.737Z,"southeastern Iran",earthquake,,,,9,reviewed,thr,us
+2011-01-29T14:56:19.200Z,28.23,59.07,14.1,4,ml,20,136.1,,,us,usp000httg,2014-11-07T01:43:31.493Z,"southeastern Iran",earthquake,,,,,reviewed,thr,thr
+2011-01-29T04:43:19.000Z,28.33,59.02,16,4.6,mb,92,63.7,,,us,usp000htt1,2014-11-07T01:43:31.296Z,"southeastern Iran",earthquake,,,,29,reviewed,teh,us
+2011-01-29T00:50:18.000Z,28.15,59.08,15,4.4,mb,40,95.8,,,us,usp000htsv,2014-11-07T01:43:31.006Z,"southeastern Iran",earthquake,,,,22,reviewed,thr,us
+2011-01-28T12:41:24.400Z,28.279,59.137,14.1,4.1,ml,14,218,,,us,usp000hts1,2014-11-07T01:43:30.772Z,"southeastern Iran",earthquake,,,,,reviewed,thr,thr
+2011-01-28T06:34:04.100Z,28.44,58.96,14,4,mb,28,162.7,,,us,usp000htrp,2014-11-07T01:43:30.676Z,"southeastern Iran",earthquake,,,,7,reviewed,teh,us
+2011-01-28T05:06:49.500Z,28.42,58.93,21,4.5,mb,76,65.4,,,us,usp000htrj,2014-11-07T01:43:30.662Z,"southeastern Iran",earthquake,,,,22,reviewed,teh,us
+2011-01-28T04:20:36.300Z,28.15,59.07,15,5.2,mwc,148,46.1,,,us,usp000htrf,2014-11-07T01:43:30.643Z,"southeastern Iran",earthquake,,,,,reviewed,thr,gcmt
+2011-01-27T21:49:45.800Z,28.406,58.958,7,4,mb,29,68.9,,,us,usp000htr0,2014-11-07T01:43:30.591Z,"southeastern Iran",earthquake,,,,7,reviewed,teh,us
+2011-01-27T15:01:43.160Z,28.116,59.001,10,4.3,mb,58,66.3,,1.35,us,usp000htqe,2014-11-07T01:43:30.483Z,"southeastern Iran",earthquake,,,,15,reviewed,us,us
+2011-01-27T09:07:54.800Z,28.23,58.96,22,4.8,mblg,38,116.8,,,us,usp000htq1,2014-11-07T01:43:30.430Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2011-01-27T08:43:26.730Z,28.128,59.057,10,5,mb,50,50.8,,1.18,us,usp000htq0,2014-11-07T01:43:30.425Z,"southeastern Iran",earthquake,,,,3,reviewed,us,us
+2011-01-27T08:38:28.340Z,28.195,59.015,10,6.2,mww,296,24.1,,1.05,us,usp000htpz,2017-04-13T22:25:51.305Z,"southeastern Iran",earthquake,,,,,reviewed,us,us
+2011-01-27T07:18:16.100Z,28.247,59.026,5,4,mblg,11,82.5,,,us,usp000htpy,2014-11-07T01:43:30.359Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2011-01-27T07:02:03.400Z,28.167,58.907,10,4.9,mwc,92,65.3,,1.27,us,usp000htpx,2014-11-07T01:43:30.317Z,"southeastern Iran",earthquake,,,,,reviewed,us,gcmt
+2011-01-18T11:34:09.000Z,28.21,56.38,22,4.5,mb,17,108.1,,,us,usp000htaq,2014-11-07T01:43:27.474Z,"southern Iran",earthquake,,,,1,reviewed,teh,us
+2011-01-18T11:25:59.690Z,28.204,56.281,10,4.7,mb,60,39.9,,1.14,us,usp000htan,2014-11-07T01:43:27.412Z,"southern Iran",earthquake,,,,16,reviewed,us,us
+2011-01-02T15:23:45.770Z,28.262,59.308,10,4.1,ml,18,125.3,,1.14,us,usp000hsff,2014-11-07T01:43:20.245Z,"southeastern Iran",earthquake,,,,,reviewed,us,thr
+2010-12-28T19:01:42.600Z,28.399,59.282,12.8,4.1,mblg,26,119.7,,,us,usp000hs71,2014-11-07T01:43:16.117Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2010-12-25T22:24:16.600Z,28.435,59.058,43.6,4.2,mb,53,88.5,,,us,usp000hryp,2014-11-07T01:43:14.511Z,"southeastern Iran",earthquake,,,,17,reviewed,thr,us
+2010-12-22T19:04:51.300Z,26.142,57.887,46.1,4.6,mb,40,66.6,,,us,usp000hrkm,2014-11-07T01:43:12.508Z,"southern Iran",earthquake,,,,9,reviewed,thr,us
+2010-12-21T12:14:18.380Z,28.161,59.058,10,4.3,mb,36,66.9,,0.94,us,usp000hr90,2014-11-07T01:43:10.426Z,"southeastern Iran",earthquake,,,,12,reviewed,us,us
+2010-12-21T01:01:39.000Z,28.27,59.21,12,4.1,mblg,26,68.3,,,us,usp000hr81,2014-11-07T01:43:10.277Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2010-12-20T23:49:11.400Z,28.433,59.045,34.3,4,mb,40,135.4,,,us,usp000hr7x,2014-11-07T01:43:10.264Z,"southeastern Iran",earthquake,,,,8,reviewed,teh,us
+2010-12-20T22:12:58.800Z,28.282,59.224,15,4.9,mb,90,68.4,,,us,usp000hr7v,2014-11-07T01:43:10.247Z,"southeastern Iran",earthquake,,,,30,reviewed,thr,us
+2010-12-20T18:56:53.810Z,28.402,58.942,10,4.2,mb,15,65.5,,1.09,us,usp000hr7n,2014-11-07T01:43:10.224Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2010-12-20T18:50:23.100Z,28.302,59.195,14.1,4.2,mb,38,68.1,,,us,usp000hr7m,2014-11-07T01:43:10.220Z,"southeastern Iran",earthquake,,,,1,reviewed,thr,us
+2010-12-20T18:41:59.200Z,28.412,59.18,12,6.7,mwc,279,24.3,,1.21,us,usp000hr7k,2017-04-13T22:25:46.015Z,"southeastern Iran",earthquake,,,,,reviewed,us,us
+2010-12-17T07:39:20.000Z,27.418,57.777,15,4.2,mb,53,76.7,,,us,usp000hr0t,2014-11-07T01:43:08.360Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2010-11-24T00:38:36.100Z,30.825,56.764,1,4,mblg,19,120.1,,,us,usp000hq0y,2014-11-07T01:42:57.392Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2010-11-16T13:19:20.000Z,27.849,56.946,25.5,4.3,mb,49,106.9,,,us,usp000hprb,2014-11-07T01:42:55.823Z,"southern Iran",earthquake,,,,11,reviewed,teh,us
+2010-11-14T14:49:27.430Z,26.398,57.223,10,4.5,mb,26,140.6,,0.95,us,usp000hpm6,2014-11-07T01:42:55.128Z,"southern Iran",earthquake,,0,,4,reviewed,us,us
+2010-11-11T22:20:00.000Z,27.3,55.24,6,4.7,mb,104,50.2,,,us,usp000hpea,2014-11-07T01:42:53.993Z,"southern Iran",earthquake,,,,29,reviewed,teh,us
+2010-11-11T13:37:34.240Z,27.892,56.995,26.9,4.9,mb,70,77,,1,us,usp000hpdr,2014-11-07T01:42:53.858Z,"southern Iran",earthquake,,17.8,,31,reviewed,us,us
+2010-11-10T13:49:09.800Z,27.954,56.939,17,4.9,mwc,106,75.9,,,us,usp000hpcj,2016-11-10T02:35:56.949Z,"southern Iran",earthquake,,,,,reviewed,teh,gcmt
+2010-10-06T23:47:59.400Z,33.391,57.208,2,4.2,mblg,42,100.3,,,us,usp000hmpy,2014-11-07T01:42:39.529Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2010-09-15T19:57:58.400Z,30.812,56.838,14.1,4.2,mb,33,93.6,,,us,usp000hksv,2014-11-07T01:42:28.163Z,"central Iran",earthquake,,,,5,reviewed,thr,us
+2010-08-11T09:06:45.100Z,26.928,55.724,10,4.4,mb,44,94,,0.88,us,usp000hhy7,2014-11-07T01:42:13.097Z,"southern Iran",earthquake,,,,9,reviewed,us,us
+2010-07-31T06:52:57.800Z,29.703,56.812,4,5.4,mwc,232,22.6,,,us,usp000hh7b,2017-04-26T18:11:16.439Z,"southern Iran",earthquake,,,,,reviewed,teh,gcmt
+2010-06-23T15:20:24.280Z,28.046,59.12,10,4,mb,29,95,,1.08,us,usp000hedw,2014-11-07T01:41:43.712Z,"southeastern Iran",earthquake,,,,2,reviewed,us,us
+2010-06-14T04:14:53.500Z,28.32,57.21,14.1,4.2,mb,83,94.2,,,us,usp000hdyt,2014-11-07T01:41:40.918Z,"southern Iran",earthquake,,,,17,reviewed,thr,us
+2010-06-14T04:13:45.800Z,28.33,57.12,15,4,mblg,38,93.7,,,us,usp000hdys,2014-11-07T01:41:40.915Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2010-06-06T17:48:57.310Z,28.277,56.978,35,4.3,mb,51,88.6,,1.1,us,usp000hdnr,2014-11-07T01:41:39.107Z,"southern Iran",earthquake,,,,14,reviewed,us,us
+2010-05-30T11:12:48.000Z,32.66,55.34,4,4.2,ml,43,53.9,,,us,usp000hdd8,2014-11-07T01:41:34.186Z,"central Iran",earthquake,,,,,reviewed,teh,thr
+2010-05-28T11:16:55.950Z,26.959,55.575,10,4.2,mb,51,93.9,,0.84,us,usp000hda0,2014-11-07T01:41:33.727Z,"southern Iran",earthquake,,,,7,reviewed,us,us
+2010-05-28T01:50:56.000Z,28.48,56.83,6,4.8,mb,132,72.5,,,us,usp000hd92,2014-11-07T01:41:33.457Z,"southern Iran",earthquake,,,,70,reviewed,teh,us
+2010-05-20T12:33:53.800Z,28.284,57.245,16,4,mb,39,94.3,,,us,usp000hcz7,2014-11-07T01:41:30.710Z,"southern Iran",earthquake,,,,3,reviewed,teh,us
+2010-02-03T22:39:45.200Z,28.588,57.012,14.1,4.9,mb,105,95.6,,,us,usp000h6xj,2014-11-07T01:40:39.456Z,"southern Iran",earthquake,,,,41,reviewed,thr,us
+2010-01-26T03:17:00.500Z,30.82,57.1,14.1,4.3,mblg,55,71.7,,,us,usp000h6mm,2014-11-07T01:40:34.316Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2010-01-10T17:17:48.720Z,27.062,55.614,10,4.7,mb,87,106.2,,1.19,us,usp000h5xt,2014-11-07T01:40:26.351Z,"southern Iran",earthquake,,,,28,reviewed,us,us
+2010-01-10T15:20:33.170Z,26.985,55.57,10,4.7,mb,66,106.3,,0.82,us,usp000h5xn,2014-11-07T01:40:26.337Z,"southern Iran",earthquake,,,,12,reviewed,us,us
+2010-01-06T14:17:47.900Z,27.477,55.121,13.4,4.9,mb,128,79.6,,,us,usp000h5t3,2014-11-07T01:40:25.509Z,"southern Iran",earthquake,,,,52,reviewed,teh,us
+2009-12-23T16:51:54.000Z,26.88,56.08,6.3,4.6,mb,77,94.2,,,us,usp000h59u,2014-11-07T01:40:18.166Z,"Strait of Hormuz",earthquake,,,,29,reviewed,thr,us
+2009-11-29T03:25:31.000Z,26.7,59.92,10,4.4,mb,61,99,,,us,usp000h4j5,2014-11-07T01:40:09.586Z,"southeastern Iran",earthquake,,,,20,reviewed,teh,us
+2009-11-13T03:08:12.000Z,29.01,58.71,14.1,4.2,mb,48,113.9,,,us,usp000h403,2014-11-07T01:40:06.218Z,"southeastern Iran",earthquake,,,,19,reviewed,thr,us
+2009-11-13T03:06:02.500Z,28.98,58.68,15,4.4,mblg,41,99.7,,,us,usp000h402,2014-11-07T01:40:06.214Z,"southeastern Iran",earthquake,,,,,reviewed,thr,teh
+2009-11-03T23:26:52.000Z,27.334,56.202,14.1,5,mwc,134,61.1,,,us,usp000h3qd,2017-04-26T18:09:39.223Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2009-11-03T07:48:19.800Z,29.093,58.316,10,4,mb,20,103.5,,,us,usp000h3pr,2014-11-07T01:40:03.512Z,"southeastern Iran",earthquake,,,,2,reviewed,teh,us
+2009-08-07T18:59:30.980Z,26.741,57.601,46.6,4.5,mb,67,71.7,,0.92,us,usp000h02n,2014-11-07T01:39:28.799Z,"southern Iran",earthquake,,7.3,,23,reviewed,us,us
+2009-07-22T06:49:56.800Z,26.739,55.809,13.2,4.1,mblg,27,94.1,,,us,usp000gzhg,2014-11-07T01:39:20.918Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2009-07-22T03:53:03.000Z,26.77,55.79,9.6,5.3,mwc,146,45.3,,,us,usp000gzhc,2016-11-10T02:15:01.840Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2009-07-05T14:09:50.140Z,27.439,55.57,35,4.4,mb,48,145.9,,0.76,us,usp000gyyv,2014-11-07T01:39:17.602Z,"southern Iran",earthquake,,,,15,reviewed,us,us
+2009-06-23T05:02:40.920Z,28.264,56.057,10,4.9,mb,94,56.9,,1.16,us,usp000gyha,2014-11-07T01:39:11.272Z,"southern Iran",earthquake,,,,36,reviewed,us,us
+2009-05-13T23:39:51.500Z,28.259,55.33,20,4.5,mb,44,93.5,,,us,usp000gx3f,2014-11-07T01:38:57.171Z,"southern Iran",earthquake,,,,4,reviewed,teh,us
+2009-05-12T06:30:51.300Z,30.19,57.45,6.9,4,mb,29,160,,,us,usp000gx1x,2014-11-07T01:38:56.925Z,"eastern Iran",earthquake,,,,2,reviewed,thr,us
+2009-05-12T01:37:06.300Z,32.38,59,14.5,4.5,mb,58,89.7,,,us,usp000gx1n,2014-11-07T01:38:56.869Z,"eastern Iran",earthquake,,,,8,reviewed,thr,us
+2009-05-11T02:14:05.000Z,30.29,57.51,16.9,4.1,mb,42,85.5,,,us,usp000gx0d,2014-11-07T01:38:56.610Z,"eastern Iran",earthquake,,,,6,reviewed,thr,us
+2009-04-14T05:10:26.300Z,26.86,55.91,6.6,4.1,mb,33,209.8,,,us,usp000gw45,2014-11-07T01:38:46.409Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2009-04-09T11:32:38.900Z,27.814,57.535,18,4.3,mb,59,109.7,,,us,usp000gvyk,2014-11-07T01:38:45.576Z,"southern Iran",earthquake,,,,15,reviewed,thr,us
+2009-03-07T06:47:07.400Z,30.79,56.77,6.1,4.1,mb,57,50.5,,,us,usp000guqn,2014-11-07T01:38:33.139Z,"central Iran",earthquake,,,,5,reviewed,thr,us
+2009-03-03T03:59:48.500Z,28.111,57.496,17,4.6,mb,48,69.6,,,us,usp000guju,2014-11-07T01:38:31.645Z,"southern Iran",earthquake,,,,7,reviewed,teh,us
+2009-02-23T11:10:56.860Z,27.582,55.372,10,5.1,mb,106,93.7,,0.72,us,usp000guaq,2014-11-07T01:38:26.485Z,"southern Iran",earthquake,,,,62,reviewed,us,us
+2009-02-22T20:54:01.630Z,28.086,55.474,22.1,4.5,mb,42,93.6,,0.89,us,usp000gua3,2014-11-07T01:38:26.354Z,"southern Iran",earthquake,,21.4,,9,reviewed,us,us
+2009-02-15T21:22:22.000Z,31.065,57.073,17.5,4.9,mb,106,61.2,,,us,usp000gu1q,2015-03-24T00:58:24.599Z,"eastern Iran",earthquake,,,,34,reviewed,teh,us
+2009-01-25T11:22:04.020Z,26.858,56.151,6.7,4.1,mb,28,94.2,,1.39,us,usp000gt34,2014-11-07T01:38:15.142Z,"Strait of Hormuz",earthquake,,16.5,,7,reviewed,us,us
+2009-01-08T08:57:31.100Z,31.93,56.14,14.2,4.3,mblg,26,115.9,,,us,usp000gsbx,2014-11-07T01:38:10.916Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2008-12-27T20:28:55.400Z,26.855,55.894,21.5,3.6,mblg,37,205.7,,,us,usp000grnc,2014-11-07T01:38:03.463Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-12-22T15:08:13.200Z,28.21,57.14,40.4,4.8,mb,95,110.2,,,us,usp000gr6s,2014-11-07T01:38:01.247Z,"southern Iran",earthquake,,,,54,reviewed,thr,us
+2008-12-14T07:29:47.800Z,29.19,56.69,14.1,4.4,mb,45,93.8,,,us,usp000gqju,2014-11-07T01:37:58.096Z,"southern Iran",earthquake,,,,10,reviewed,thr,us
+2008-12-11T05:42:07.600Z,26.85,55.82,6.8,3.9,ml,15,227.8,,,us,usp000gqcc,2014-11-07T01:37:57.201Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-12-09T15:09:23.900Z,26.8,55.68,14.1,5,mwc,139,45.8,,,us,usp000gq90,2016-11-10T02:05:12.238Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2008-12-08T14:41:43.300Z,26.92,55.85,6.1,5.1,mwc,206,45.3,,,us,usp000gq6p,2016-11-10T02:05:08.003Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2008-12-07T14:31:24.700Z,26.88,55.9,1.2,3.3,ml,13,209.5,,,us,usp000gq4b,2014-11-07T01:37:55.250Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-12-07T14:11:21.610Z,26.836,55.955,10,4,mb,24,149.9,,1.02,us,usp000gq47,2014-11-07T01:37:55.121Z,"southern Iran",earthquake,,,,8,reviewed,us,us
+2008-12-07T13:41:49.500Z,27.37,55.99,14.1,3.7,ml,18,149.5,,,us,usp000gq44,2014-11-07T01:37:55.112Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-12-07T13:36:21.300Z,26.99,55.8,15,5.4,mwb,219,45.9,,,us,usp000gq42,2017-04-13T22:23:06.892Z,"southern Iran",earthquake,,,,,reviewed,thr,us
+2008-12-05T22:44:12.000Z,26.93,56.03,7,3.1,mblg,10,153.2,,,us,usp000gq05,2014-11-07T01:37:54.415Z,"Strait of Hormuz",earthquake,,,,,reviewed,teh,teh
+2008-12-02T13:00:46.750Z,31.047,56.785,15.2,4.4,mb,35,82.3,,0.75,us,usp000gpth,2014-11-07T01:37:52.407Z,"central Iran",earthquake,,9.3,,4,reviewed,us,us
+2008-11-30T13:46:15.800Z,27,55.57,17.3,4.6,mb,62,93.9,,,us,usp000gpq8,2014-11-07T01:37:49.126Z,"southern Iran",earthquake,,,,20,reviewed,thr,us
+2008-11-18T11:20:39.100Z,33.34,59.13,14.1,4.2,mblg,21,97.2,,,us,usp000gnzf,2014-11-07T01:37:45.775Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2008-11-11T22:45:36.500Z,28.4,56.25,15,3.6,mblg,29,81.1,,,us,usp000gngf,2014-11-07T01:37:43.555Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2008-11-11T15:47:51.830Z,26.764,55.016,35,3.4,ml,13,149.6,,1.17,us,usp000gnfn,2014-11-07T01:37:43.453Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2008-11-02T01:21:00.000Z,26.47,55.05,32,3.5,ml,28,214.3,,,us,usp000gmng,2014-11-07T01:37:38.618Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2008-10-27T11:25:43.100Z,27.929,55.032,35.2,3.8,mblg,20,93.5,,,us,usp000gm4r,2014-11-07T01:37:32.867Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-10-27T02:46:59.900Z,26.77,55.82,4,4.1,mb,45,149.9,,,us,usp000gm40,2014-11-07T01:37:32.801Z,"southern Iran",earthquake,,,,13,reviewed,thr,us
+2008-10-26T02:03:59.000Z,26.93,55.09,24,3.4,mblg,32,161.4,,,us,usp000gm1m,2014-11-07T01:37:32.531Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-10-26T00:37:38.800Z,27.87,56.3,14.1,4.5,mb,73,77.3,,,us,usp000gm1e,2014-11-07T01:37:32.438Z,"southern Iran",earthquake,,,,29,reviewed,thr,us
+2008-10-25T20:25:19.000Z,26.58,55.09,35,4.2,mb,46,146.3,,,us,usp000gm11,2014-11-07T01:37:32.410Z,"southern Iran",earthquake,,,,6,reviewed,teh,us
+2008-10-24T15:51:35.600Z,28.487,56.932,4.6,4,mb,30,95.3,,,us,usp000gky8,2014-11-07T01:37:32.051Z,"southern Iran",earthquake,,,,4,reviewed,teh,us
+2008-10-22T09:12:12.600Z,26.96,55.81,6.7,3.9,ml,15,217.8,,,us,usp000gkt1,2014-11-07T01:37:31.280Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-10-22T07:00:17.900Z,26.494,55.169,32.2,3.6,mblg,14,214.4,,,us,usp000gkss,2014-11-07T01:37:31.262Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-10-21T07:24:38.700Z,26.72,55.94,8.7,3.4,ml,13,171.5,,,us,usp000gkqu,2014-11-07T01:37:30.965Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-10-20T21:45:10.000Z,26.819,55.328,18,3.3,mblg,19,214.1,,,us,usp000gkpg,2014-11-07T01:37:30.833Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-10-10T08:47:08.100Z,27.39,56.06,12.6,4,mb,44,149.4,,,us,usp000gjv6,2014-11-07T01:37:26.805Z,"southern Iran",earthquake,,,,9,reviewed,thr,us
+2008-10-09T21:49:14.500Z,26.938,56.017,18,3.6,mblg,30,171.1,,,us,usp000gjtd,2014-11-07T01:37:26.509Z,"Strait of Hormuz",earthquake,,,,,reviewed,teh,teh
+2008-10-06T00:47:39.100Z,26.569,55.159,18,3.7,mblg,15,214.3,,,us,usp000gjfk,2014-11-07T01:37:24.347Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-10-05T09:45:41.500Z,26.96,55.63,32,3.4,ml,8,218.2,,,us,usp000gjcg,2014-11-07T01:37:23.882Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-10-05T08:17:54.900Z,26.83,55.6,37.4,3.4,ml,9,224.2,,,us,usp000gjcb,2014-11-07T01:37:23.835Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-10-05T01:22:43.900Z,27.08,55.97,5.5,3.3,mblg,23,97.5,,,us,usp000gjbt,2014-11-07T01:37:23.788Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2008-10-04T17:35:51.970Z,26.829,56.191,7.8,3.6,ml,36,173.4,,1.04,us,usp000gjay,2014-11-07T01:37:23.665Z,"Strait of Hormuz",earthquake,,13.5,,,reviewed,us,thr
+2008-10-04T17:29:33.100Z,26.94,56.09,10.6,3.4,ml,23,162.4,,,us,usp000gjaw,2014-11-07T01:37:23.657Z,"Strait of Hormuz",earthquake,,,,,reviewed,thr,thr
+2008-10-04T17:12:56.820Z,26.9,56.147,11,4.3,mb,55,94.2,,1.13,us,usp000gjav,2014-11-07T01:37:23.639Z,"Strait of Hormuz",earthquake,,12,,18,reviewed,us,us
+2008-10-03T21:21:32.100Z,27.11,56.05,9.3,3.6,ml,30,224.4,,,us,usp000gj8u,2014-11-07T01:37:23.289Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-10-03T18:05:35.850Z,27.132,55.962,3.2,3.4,mblg,23,207.2,,1.35,us,usp000gj8b,2014-11-07T01:37:23.148Z,"southern Iran",earthquake,,18.1,,,reviewed,us,teh
+2008-10-03T16:28:03.650Z,26.76,55.996,10,3.4,ml,15,155.5,,1,us,usp000gj83,2014-11-07T01:37:23.115Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2008-10-02T00:06:18.800Z,26.807,55.83,20.2,3.8,mblg,46,85.4,,,us,usp000gj3t,2014-11-07T01:37:20.978Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-09-29T03:57:48.000Z,26.731,56.115,6.5,3.7,mblg,68,149.9,,,us,usp000ghxj,2014-11-07T01:37:16.266Z,"Strait of Hormuz",earthquake,,,,,reviewed,teh,teh
+2008-09-26T15:52:21.000Z,27.33,56.79,20,5.1,mb,231,78.5,,,us,usp000ghs8,2014-11-07T01:37:15.126Z,"southern Iran",earthquake,,,,148,reviewed,teh,us
+2008-09-26T03:36:32.200Z,27.01,55.8,2.2,4.2,mb,77,94,,,us,usp000ghra,2014-11-07T01:37:15.023Z,"southern Iran",earthquake,,,,23,reviewed,thr,us
+2008-09-18T02:10:21.400Z,27.105,55.909,1.3,4.6,mb,127,94,,,us,usp000gh8x,2014-11-07T01:37:13.027Z,"southern Iran",earthquake,,,,61,reviewed,thr,us
+2008-09-17T20:15:20.300Z,27.25,55.96,4.9,3.2,ml,8,258.9,,,us,usp000gh83,2014-11-07T01:37:12.909Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-17T19:17:48.500Z,27.17,55.98,6.3,3.2,ml,9,179.3,,,us,usp000gh7z,2014-11-07T01:37:12.897Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-17T19:01:53.000Z,27.23,55.97,10.6,4.2,mb,49,94,,,us,usp000gh7y,2014-11-07T01:37:12.893Z,"southern Iran",earthquake,,,,11,reviewed,thr,us
+2008-09-17T18:59:04.900Z,27.22,55.92,2.3,4.1,mb,25,99.3,,,us,usp000gh7x,2014-11-07T01:37:12.890Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2008-09-17T18:44:52.200Z,27.18,56.03,4.8,4.4,mb,31,94.1,,,us,usp000gh7w,2014-11-07T01:37:12.888Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2008-09-17T18:41:50.000Z,26.9,56.2,7,4.6,mb,86,94.2,,,us,usp000gh7v,2014-11-07T01:37:12.881Z,"Strait of Hormuz",earthquake,,,,29,reviewed,teh,us
+2008-09-17T17:49:44.700Z,27.16,55.9,7,4.1,mblg,37,127.7,,,us,usp000gh7t,2014-11-07T01:37:12.875Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2008-09-17T17:43:49.000Z,27,56.2,4,5.2,mwc,360,61.1,,,us,usp000gh7r,2016-11-10T02:01:44.146Z,"Strait of Hormuz",earthquake,,,,,reviewed,teh,gcmt
+2008-09-14T05:21:50.400Z,27.08,55.77,6.9,4.4,mb,55,156.3,,,us,usp000gh0t,2014-11-07T01:37:11.915Z,"southern Iran",earthquake,,,,21,reviewed,thr,us
+2008-09-13T21:40:44.000Z,26.94,55.67,6,3.3,ml,16,244,,,us,usp000gh08,2014-11-07T01:37:11.846Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-11T02:16:09.900Z,26.929,55.635,7.9,5.2,mb,319,61.1,,,us,usp000gguk,2014-11-07T01:37:10.998Z,"southern Iran",earthquake,,,,92,reviewed,thr,us
+2008-09-11T01:11:43.000Z,27.01,55.763,14.2,4.9,mb,140,94,,,us,usp000ggue,2014-11-07T01:37:10.981Z,"southern Iran",earthquake,,,,67,reviewed,thr,us
+2008-09-10T22:46:58.400Z,26.874,55.973,21.6,4,mb,44,94.1,,,us,usp000ggu2,2014-11-07T01:37:10.799Z,"southern Iran",earthquake,,,,7,reviewed,teh,us
+2008-09-10T19:03:15.400Z,27.04,55.91,3,3.4,ml,8,197.2,,,us,usp000ggtt,2014-11-07T01:37:10.714Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T18:26:38.800Z,27.28,55.85,2.3,3.6,ml,16,172.1,,,us,usp000ggtp,2014-11-07T01:37:10.706Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T18:20:34.100Z,27.11,55.77,8,4,mb,59,94,,,us,usp000ggtn,2014-11-07T01:37:10.701Z,"southern Iran",earthquake,,,,9,reviewed,thr,us
+2008-09-10T17:07:01.800Z,27.07,55.87,12.7,3.4,ml,17,166.7,,,us,usp000ggtm,2014-11-07T01:37:10.699Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T14:32:48.400Z,27.14,55.72,4.2,3.4,ml,15,197.2,,,us,usp000ggt7,2014-11-07T01:37:10.622Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T13:29:21.100Z,27.32,55.94,18,3,ml,17,240.5,,,us,usp000ggsy,2014-11-07T01:37:10.602Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T11:33:12.300Z,26.92,55.71,9.6,4.8,mb,102,75.1,,,us,usp000ggsn,2014-11-07T01:37:10.475Z,"southern Iran",earthquake,,,,43,reviewed,thr,us
+2008-09-10T11:26:44.000Z,27.24,55.83,1.4,3.4,ml,13,198.6,,,us,usp000ggsm,2014-11-07T01:37:10.473Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T11:13:26.300Z,27.03,55.77,11.3,3.7,ml,21,94,,,us,usp000ggsj,2014-11-07T01:37:10.407Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-09-10T11:08:43.800Z,26.93,55.73,10.9,5,mb,48,78.3,,,us,usp000ggsh,2014-11-07T01:37:10.401Z,"southern Iran",earthquake,,,,6,reviewed,thr,us
+2008-09-10T11:00:34.090Z,26.743,55.828,12,6.1,mwc,500,20.3,,1,us,usp000ggsg,2017-04-26T18:08:34.651Z,"southern Iran",earthquake,,,,,reviewed,us,gcmt
+2008-08-31T11:37:57.500Z,27.91,55.24,14.1,3.8,ml,26,143.5,,,us,usp000gg30,2014-11-07T01:37:02.352Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-08-27T20:20:18.700Z,27.23,55.93,7.8,3.5,ml,17,206,,,us,usp000gfr3,2014-11-07T01:37:00.210Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-08-25T12:16:44.600Z,27.608,55.005,31.6,3.8,mblg,21,145.7,,,us,usp000gfg8,2014-11-07T01:36:59.132Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-08-24T01:46:25.000Z,27.16,55.96,8,3.9,ml,31,206.9,,,us,usp000gfch,2014-11-07T01:36:58.286Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2008-08-24T00:37:20.800Z,27.139,55.998,13,4.2,mb,36,153.1,,,us,usp000gfce,2014-11-07T01:36:58.271Z,"southern Iran",earthquake,,,,3,reviewed,teh,us
+2008-08-20T15:20:33.510Z,28.083,57.653,10,3.6,ml,10,182.7,,1.23,us,usp000gf37,2014-11-07T01:36:57.198Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2008-08-15T07:37:03.300Z,27.91,55.81,15,4.2,mb,45,71.6,,,us,usp000geqm,2014-11-07T01:36:54.206Z,"southern Iran",earthquake,,,,8,reviewed,thr,us
+2008-08-11T20:09:01.200Z,27.84,56.63,17,4,mb,31,106.4,,,us,usp000geey,2014-11-07T01:36:53.138Z,"southern Iran",earthquake,,,,5,reviewed,thr,us
+2008-08-09T23:22:03.700Z,26.08,59.51,17.1,4.6,mb,111,78.5,,,us,usp000gea1,2014-11-07T01:36:52.190Z,"southeastern Iran",earthquake,,,,45,reviewed,thr,us
+2008-07-01T06:43:06.000Z,28.13,57.01,27.8,3.4,ml,14,160.8,,,us,usp000gb24,2014-11-07T01:36:31.534Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-06-29T18:00:45.000Z,27.8,56.5,34,4.2,mb,68,94.1,,,us,usp000gaye,2014-11-07T01:36:28.128Z,"southern Iran",earthquake,,,,20,reviewed,teh,us
+2008-06-27T16:51:34.000Z,28.1,57.5,18,4.4,mb,63,94.4,,,us,usp000garc,2014-11-07T01:36:27.085Z,"southern Iran",earthquake,,,,28,reviewed,teh,us
+2008-06-27T14:58:17.230Z,33.345,59.235,10,4,mb,18,192.3,,1.53,us,usp000gaqt,2014-11-07T01:36:27.052Z,"eastern Iran",earthquake,,,,4,reviewed,us,us
+2008-06-23T07:14:54.100Z,29.27,58.35,10,4.4,mblg,24,224.6,,,us,usp000gacp,2014-11-07T01:36:25.260Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2008-06-21T16:21:17.000Z,30.8,57.6,6,4.6,mblg,22,140.5,,,us,usp000ga8e,2014-11-07T01:36:24.439Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2008-06-20T12:55:00.510Z,26.718,56.281,10,3.6,mblg,21,150,,1.26,us,usp000ga5r,2014-11-07T01:36:23.595Z,"Strait of Hormuz",earthquake,,,,,reviewed,us,teh
+2008-06-17T16:53:38.090Z,27.431,56.64,25.6,3.7,ml,11,149.2,,1.27,us,usp000g9ws,2014-11-07T01:36:22.403Z,"southern Iran",earthquake,,16.3,,,reviewed,us,thr
+2008-06-16T15:53:22.900Z,28.23,55.77,14.1,3.5,ml,18,108.3,,,us,usp000g9u8,2014-11-07T01:36:22.167Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-06-05T08:39:56.200Z,30.58,57.05,14.2,3.6,ml,14,88.1,,,us,usp000g8m4,2014-11-07T01:36:14.973Z,"eastern Iran",earthquake,,,,,reviewed,thr,thr
+2008-06-04T00:38:45.000Z,30.3,57.6,13,4.5,mblg,55,100.6,,,us,usp000g8gz,2014-11-07T01:36:14.365Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2008-05-31T01:24:05.700Z,26.76,55.29,14.1,4.5,mb,120,74.8,,,us,usp000g85r,2014-11-07T01:36:08.117Z,"southern Iran",earthquake,,,,51,reviewed,thr,us
+2008-05-27T17:07:20.770Z,30.618,57.155,16.9,4.3,mblg,48,78.5,,1.25,us,usp000g7x5,2014-11-07T01:36:07.040Z,"eastern Iran",earthquake,,11.5,,,reviewed,us,teh
+2008-05-23T21:09:47.500Z,28.23,56.66,14.1,4.2,mb,59,91.1,,,us,usp000g7kn,2014-11-07T01:36:04.961Z,"southern Iran",earthquake,,,,24,reviewed,thr,us
+2008-05-07T19:50:50.000Z,27.95,57.82,33,4.8,mb,195,78.6,,,us,usp000g5sw,2014-11-07T01:35:52.647Z,"southern Iran",earthquake,,,,100,reviewed,teh,us
+2008-05-01T20:42:08.900Z,28.19,56.56,27.3,3.4,ml,8,135.7,,,us,usp000g595,2014-11-07T01:35:48.739Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-04-23T21:28:12.400Z,28.3,57.13,26,4.1,mb,65,106.8,,,us,usp000g4p0,2014-11-07T01:35:41.951Z,"southern Iran",earthquake,,,,17,reviewed,thr,us
+2008-04-16T15:53:51.700Z,27.98,56.78,31.8,3.8,ml,21,159,,,us,usp000g436,2014-11-07T01:35:38.216Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-04-16T11:46:24.700Z,28.45,56.69,14.2,3.7,ml,19,87.2,,,us,usp000g42n,2014-11-07T01:35:38.179Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-04-04T00:13:16.000Z,30.6,57.5,3,4,mblg,20,127.3,,,us,usp000g32m,2014-11-07T01:35:29.903Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2008-03-31T12:35:10.400Z,27.738,57.392,61.8,4.8,mb,118,79.7,,0.86,us,usp000g2tf,2014-11-07T01:35:22.201Z,"southern Iran",earthquake,,,,56,reviewed,us,us
+2008-03-28T18:05:01.200Z,28.76,56.91,27,4.4,mb,53,92.6,,,us,usp000g2jw,2014-11-07T01:35:20.273Z,"southern Iran",earthquake,,,,19,reviewed,teh,us
+2008-03-23T06:51:53.300Z,28.12,56.46,15,3.5,ml,12,132.1,,,us,usp000g23u,2014-11-07T01:35:18.209Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-03-22T00:01:03.000Z,28.27,57.18,28,4.6,mb,103,97.6,,,us,usp000g20t,2014-11-07T01:35:17.625Z,"southern Iran",earthquake,,,,37,reviewed,teh,us
+2008-03-09T03:51:07.000Z,33.3,59.2,4,5,mwc,210,45.3,,,us,usp000g10w,2016-11-10T01:52:53.329Z,"eastern Iran",earthquake,,,,,reviewed,teh,gcmt
+2008-03-09T02:25:26.000Z,32.03,55.85,5,3.8,ml,24,109.2,,,us,usp000g10q,2014-11-07T01:35:13.113Z,"central Iran",earthquake,,,,,reviewed,teh,thr
+2008-03-03T21:46:04.100Z,27.36,56.67,15,3.3,ml,11,264.4,,,us,usp000g0mw,2014-11-07T01:35:10.946Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-03-01T16:38:57.600Z,26.88,56.19,5,4.6,mb,61,94.2,,,us,usp000g0du,2014-11-07T01:35:08.875Z,"Strait of Hormuz",earthquake,,,,13,reviewed,teh,us
+2008-02-28T10:42:09.700Z,28.28,55.25,18,3.8,ml,13,132.9,,,us,usp000g06z,2014-11-07T01:35:04.793Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2008-02-27T11:10:13.600Z,33,59.34,5,4.9,mb,54,57.3,,,us,usp000g04k,2014-11-07T01:35:04.498Z,"eastern Iran",earthquake,,,,8,reviewed,teh,us
+2008-02-27T01:58:24.600Z,30.77,56.92,14.1,4.2,mblg,61,81.9,,,us,usp000g031,2014-11-07T01:35:04.318Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2008-02-11T14:03:46.620Z,27.509,55.375,35,4.3,mb,55,93.7,,0.98,us,usp000fyp3,2014-11-07T01:34:55.971Z,"southern Iran",earthquake,,,,14,reviewed,us,us
+2008-02-11T06:27:04.950Z,27.266,55.478,35,4.3,mb,40,217.1,,1.39,us,usp000fynd,2014-11-07T01:34:55.912Z,"southern Iran",earthquake,,,,10,reviewed,us,us
+2008-01-31T14:11:34.600Z,28.42,56.769,8.6,3.5,mblg,8,216.2,,,us,usp000fxva,2014-11-07T01:34:47.381Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2008-01-29T04:33:39.180Z,30.688,57.697,35,4.1,mblg,13,139.3,,1.24,us,usp000fxp9,2014-11-07T01:34:46.651Z,"eastern Iran",earthquake,,,,,reviewed,us,teh
+2008-01-25T12:21:20.780Z,26.479,56.591,10,3.5,mb,7,219.1,,1.33,us,usp000fxee,2014-11-07T01:34:45.880Z,"Strait of Hormuz",earthquake,,,,2,reviewed,us,us
+2008-01-20T06:21:11.300Z,28.41,56.89,17.7,4.1,mb,34,142.8,,,us,usp000fx2w,2014-11-07T01:34:44.106Z,"southern Iran",earthquake,,,,9,reviewed,thr,us
+2008-01-19T21:41:29.390Z,33.319,57.307,27.9,4.4,mb,161,85.6,,0.76,us,usp000fx20,2014-11-07T01:34:43.966Z,"eastern Iran",earthquake,,5.4,,64,reviewed,us,us
+2008-01-07T00:23:22.310Z,27.139,57.79,35,3.5,ml,23,218.9,,1.11,us,usp000fw52,2014-11-07T01:34:37.870Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2008-01-03T06:48:06.000Z,27.94,55.51,31.1,3.6,ml,14,132.6,,,us,usp000fvwa,2014-11-07T01:34:36.015Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-12-28T17:11:41.700Z,27.47,56.6,14.1,3.7,mblg,37,206.1,,,us,usp000fvh4,2014-11-07T01:34:30.757Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2007-12-27T00:05:23.600Z,28.365,56.853,13.8,3.8,ml,19,171.9,,,us,usp000fvax,2014-11-07T01:34:29.473Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2007-12-25T15:34:53.000Z,29.21,58.48,12,4.2,mblg,11,300.1,,,us,usp000fv7b,2014-11-07T01:34:28.915Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2007-12-20T18:16:26.400Z,27.61,55.54,14.1,3.3,ml,8,154.9,,,us,usp000fuww,2014-11-07T01:34:27.518Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-11-18T14:35:07.100Z,27.815,57.293,40.5,4.7,mb,142,76.2,,,us,usp000fsux,2014-11-07T01:34:11.851Z,"southern Iran",earthquake,,,,54,reviewed,thr,us
+2007-11-17T15:26:46.000Z,27.82,57.49,8,4,mb,10,152.6,,,us,usp000fsse,2014-11-07T01:34:11.428Z,"southern Iran",earthquake,,,,2,reviewed,teh,us
+2007-11-17T02:59:13.760Z,27.494,55.263,25.8,3.7,mblg,22,93.7,,0.85,us,usp000fsrg,2014-11-07T01:34:11.304Z,"southern Iran",earthquake,,9.9,,,reviewed,us,teh
+2007-10-18T20:44:21.800Z,28.33,56.53,14.1,3.7,ml,18,82.5,,,us,usp000fquz,2014-11-07T01:33:57.279Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-10-17T10:45:03.100Z,32.02,55.82,15.1,4.1,mblg,19,142.4,,,us,usp000fqrv,2014-11-07T01:33:56.864Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2007-10-13T00:28:00.700Z,28.43,57.22,14.1,3.5,ml,13,153.9,,,us,usp000fqe4,2014-11-07T01:33:55.235Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-09-09T05:03:04.900Z,28.27,56.66,14.2,3.4,ml,12,90.1,,,us,usp000fmrf,2014-11-07T01:33:31.971Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-09-05T15:59:01.500Z,28.42,56.63,14.1,4.2,mb,33,85.3,,,us,usp000fmgr,2014-11-07T01:33:30.855Z,"southern Iran",earthquake,,,,10,reviewed,thr,us
+2007-09-05T12:27:00.000Z,28.399,56.684,14,4.8,mb,149,88,,,us,usp000fmg7,2014-11-07T01:33:30.647Z,"southern Iran",earthquake,,,,65,reviewed,thr,us
+2007-08-31T05:23:58.600Z,26.95,55.84,15,4.6,mb,53,204.9,,,us,usp000fm27,2014-11-07T01:33:24.774Z,"southern Iran",earthquake,,,,12,reviewed,thr,us
+2007-08-29T19:34:01.100Z,28.5,56.62,18,4.1,mb,38,148.7,,,us,usp000fkyx,2014-11-07T01:33:24.352Z,"southern Iran",earthquake,,,,12,reviewed,thr,us
+2007-08-28T09:30:30.900Z,28.17,56.74,15,4.9,mb,219,78.2,,,us,usp000fkvu,2014-11-07T01:33:23.886Z,"southern Iran",earthquake,,,,122,reviewed,thr,us
+2007-08-28T08:44:02.100Z,27.82,57.5,15,4,mblg,25,208.8,,,us,usp000fkvq,2014-11-07T01:33:23.848Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2007-08-28T08:30:10.200Z,28.11,56.75,10,4.3,mb,48,94.1,,,us,usp000fkvp,2014-11-07T01:33:23.843Z,"southern Iran",earthquake,,,,11,reviewed,teh,us
+2007-08-25T04:31:51.000Z,28.82,56.72,8,3.4,mblg,13,148.4,,,us,usp000fkn6,2014-11-07T01:33:22.653Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-08-25T04:24:21.970Z,28.154,56.652,10,5,mwc,234,61,,1.24,us,usp000fkn4,2017-04-13T22:21:24.228Z,"southern Iran",earthquake,,,,,reviewed,us,gcmt
+2007-07-29T15:08:45.400Z,32.047,56.163,2.5,4.4,mb,83,91.7,,1.14,us,usp000fhc5,2014-11-07T01:33:05.141Z,"central Iran",earthquake,,8.2,,16,reviewed,us,us
+2007-07-24T10:08:06.400Z,27.64,56.14,14,5,mwc,87,88.8,,,us,usp000fgzx,2016-11-10T01:42:36.120Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2007-07-23T17:54:07.900Z,27.55,55.79,11.4,4.7,mb,125,95.7,,,us,usp000fgyc,2014-11-07T01:33:02.776Z,"southern Iran",earthquake,,,,46,reviewed,thr,us
+2007-07-16T19:36:58.520Z,31.2,56.461,10,3.4,ml,10,95.2,,0.72,us,usp000fgck,2014-11-07T01:32:58.621Z,"central Iran",earthquake,,,,,reviewed,us,thr
+2007-07-16T17:25:51.200Z,28.18,57.16,28.2,4,ml,15,111.8,,,us,usp000fgcb,2014-11-07T01:32:58.609Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-07-04T09:51:34.000Z,32.08,55.88,11,4.2,mb,67,92.6,,,us,usp000fffa,2014-11-07T01:32:54.184Z,"central Iran",earthquake,,,,13,reviewed,teh,us
+2007-07-04T06:11:07.000Z,32.08,55.9,12,5,mwc,171,48.8,,,us,usp000fff0,2016-11-10T01:41:48.354Z,"central Iran",earthquake,,,,,reviewed,teh,gcmt
+2007-06-28T13:05:39.700Z,29.78,58.12,11,4.1,mblg,26,212.4,,,us,usp000ff1b,2014-11-07T01:32:46.736Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2007-06-27T19:08:17.200Z,26.86,55.97,18,4.1,mb,26,97.6,,,us,usp000fezj,2014-11-07T01:32:46.468Z,"southern Iran",earthquake,,,,6,reviewed,thr,us
+2007-06-25T14:55:21.000Z,28.33,57.29,16.5,3.6,ml,16,110.3,,,us,usp000feur,2014-11-07T01:32:45.937Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-06-23T12:27:52.200Z,27.8,55.3,5,3.4,ml,10,168.7,,,us,usp000femx,2014-11-07T01:32:45.205Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-06-22T10:54:00.300Z,28.52,57.29,14,4.1,mb,14,108.3,,,us,usp000fejk,2014-11-07T01:32:44.830Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2007-06-15T13:37:44.200Z,30.32,57.6,13,4,mblg,7,286.5,,,us,usp000fe2f,2014-11-07T01:32:42.705Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2007-06-08T00:20:20.400Z,27.65,55.003,18,3.6,mblg,28,219.8,,,us,usp000fdkm,2014-11-07T01:32:40.203Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-06-07T21:04:59.230Z,28.817,57.276,111,4.2,mb,68,145.3,,0.86,us,usp000fdk9,2014-11-07T01:32:40.153Z,"southern Iran",earthquake,,,,24,reviewed,us,us
+2007-06-03T12:10:00.700Z,30.45,57.26,14.1,4.1,mblg,18,93.2,,,us,usp000fd9p,2014-11-07T01:32:38.548Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2007-05-22T22:32:59.800Z,27.139,56.719,6.5,4.2,mb,60,211.8,,,us,usp000fche,2014-11-07T01:32:30.855Z,"southern Iran",earthquake,,,,11,reviewed,teh,us
+2007-05-16T01:52:17.200Z,27.827,56.327,29.2,3.4,ml,21,201.1,,,us,usp000fc25,2014-11-07T01:32:28.517Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2007-05-16T00:27:33.400Z,27.88,56.05,10,4.5,mb,89,63.6,,,us,usp000fc21,2014-11-07T01:32:28.503Z,"southern Iran",earthquake,,,,32,reviewed,teh,us
+2007-05-16T00:19:09.700Z,27.9,56.02,7,4.4,mb,93,93.9,,,us,usp000fc20,2014-11-07T01:32:28.496Z,"southern Iran",earthquake,,,,32,reviewed,teh,us
+2007-05-09T10:46:40.800Z,29.3,58.42,17,4,mblg,8,237.7,,,us,usp000fbkj,2014-11-07T01:32:26.075Z,"southeastern Iran",earthquake,,,,,reviewed,teh,teh
+2007-05-08T03:28:25.400Z,31.8,56.2,24,4.2,mb,37,176.4,,,us,usp000fbgq,2014-11-07T01:32:25.710Z,"central Iran",earthquake,,,,8,reviewed,teh,us
+2007-05-02T02:03:02.900Z,28.41,56.18,29.3,3.8,mblg,32,93.8,,,us,usp000fb23,2014-11-07T01:32:22.122Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2007-05-01T23:38:00.800Z,28.078,56.388,24.2,3.9,mblg,41,158.3,,,us,usp000fb1v,2014-11-07T01:32:22.055Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-05-01T07:51:30.800Z,26.93,55.88,9,4.1,mb,40,158.6,,,us,usp000fb08,2014-11-07T01:32:21.608Z,"southern Iran",earthquake,,,,9,reviewed,teh,us
+2007-04-30T01:38:18.000Z,28.351,55.229,34.4,4.1,mb,61,78.6,,,us,usp000faww,2014-11-07T01:32:18.566Z,"southern Iran",earthquake,,,,19,reviewed,thr,us
+2007-04-28T21:22:56.100Z,28.23,56.26,14.1,4.5,mb,116,69,,,us,usp000fau1,2014-11-07T01:32:18.144Z,"southern Iran",earthquake,,,,51,reviewed,thr,us
+2007-04-28T21:09:03.000Z,28.14,56.41,26,3.8,mblg,52,79.6,,,us,usp000fatz,2014-11-07T01:32:18.139Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-04-28T08:59:42.000Z,28.15,56.06,18,3.6,ml,18,103,,,us,usp000fasj,2014-11-07T01:32:17.924Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-04-26T14:11:13.160Z,28.084,56.389,10,4.1,mb,66,79.4,,1.17,us,usp000fanp,2014-11-07T01:32:17.419Z,"southern Iran",earthquake,,,,14,reviewed,us,us
+2007-04-26T04:59:34.300Z,28.18,56.31,14.1,4.6,mb,126,72.6,,,us,usp000famz,2014-11-07T01:32:17.284Z,"southern Iran",earthquake,,,,42,reviewed,thr,us
+2007-04-26T04:03:31.200Z,28.23,56.24,14.1,4.6,mb,113,67.8,,,us,usp000famx,2014-11-07T01:32:17.273Z,"southern Iran",earthquake,,,,43,reviewed,thr,us
+2007-04-26T02:31:59.900Z,28.22,56.26,14.1,3.5,ml,12,115.9,,,us,usp000famp,2014-11-07T01:32:17.241Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-04-25T20:02:15.400Z,28.23,56.27,14,4.8,mb,175,93.9,,,us,usp000fakz,2014-11-07T01:32:17.144Z,"southern Iran",earthquake,,,,82,reviewed,thr,us
+2007-04-25T04:19:00.100Z,28.19,56.22,15.9,5.2,mwc,291,50.9,,,us,usp000faj6,2016-11-10T01:39:16.288Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2007-04-11T22:15:13.200Z,31.79,59.82,14,4.1,mblg,48,88.8,,,us,usp000f9fr,2014-11-07T01:32:10.424Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2007-04-08T11:22:21.300Z,30.94,56.82,10.6,4.2,mb,91,63.8,,,us,usp000f92g,2014-11-07T01:32:08.699Z,"central Iran",earthquake,,,,26,reviewed,thr,us
+2007-04-01T19:51:24.300Z,30.719,56.889,10,4.2,mb,38,129.7,,1.25,us,usp000f83e,2014-11-07T01:32:01.801Z,"central Iran",earthquake,,,,1,reviewed,us,us
+2007-04-01T07:34:46.070Z,26.962,55.841,10,3.8,mb,14,167.5,,1.01,us,usp000f81s,2014-11-07T01:32:01.310Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2007-03-29T02:38:42.900Z,27.8,55.26,14.1,3.8,ml,27,122.3,,,us,usp000f7rg,2014-11-07T01:31:57.414Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2007-03-28T20:04:45.590Z,27.515,56.606,10,3.8,mb,11,152.8,,0.63,us,usp000f7qu,2014-11-07T01:31:57.317Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2007-03-26T11:00:45.300Z,28.65,57.49,14.1,4.6,mb,55,94.3,,,us,usp000f7gg,2014-11-07T01:31:56.182Z,"southern Iran",earthquake,,,,17,reviewed,thr,us
+2007-03-26T06:36:49.500Z,28.977,58.344,14.1,4.8,mb,154,68,,,us,usp000f7fs,2014-11-07T01:31:56.087Z,"southeastern Iran",earthquake,,,,76,reviewed,thr,us
+2007-03-25T20:52:43.000Z,28.46,56.06,13,3.2,mblg,10,223.8,,,us,usp000f7e7,2014-11-07T01:31:55.854Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-03-23T22:28:41.500Z,27.714,55.31,6.1,3.4,mblg,7,168.2,,,us,usp000f78r,2014-11-07T01:31:55.063Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-03-23T21:38:02.000Z,27.47,55.15,14,5,mwc,165,78.1,,,us,usp000f78p,2016-11-10T01:37:11.798Z,"southern Iran",earthquake,,,,,reviewed,thr,gcmt
+2007-03-18T20:41:04.500Z,28.194,55.139,21.3,3.4,mblg,18,148.8,,,us,usp000f6yu,2014-11-07T01:31:53.869Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-03-17T14:20:24.100Z,27.091,58.021,14.1,4.9,mb,166,78.9,,,us,usp000f6vt,2014-11-07T01:31:53.138Z,"southeastern Iran",earthquake,,,,93,reviewed,thr,us
+2007-03-04T04:42:27.000Z,28.23,57.28,10,3.7,mblg,37,148.9,,,us,usp000f61g,2014-11-07T01:31:48.382Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2007-02-27T22:49:24.100Z,28.05,55.145,20.6,4.1,mb,29,148.9,,,us,usp000f5t1,2014-11-07T01:31:43.046Z,"southern Iran",earthquake,,,,4,reviewed,teh,us
+2007-02-27T22:28:12.300Z,28.1,55.08,6,5,mwc,160,93.5,,,us,usp000f5sy,2016-11-10T01:36:20.232Z,"southern Iran",earthquake,,,,,reviewed,teh,gcmt
+2007-02-20T09:23:18.030Z,27.558,56.573,22.2,5,mb,250,59.8,,0.95,us,usp000f57e,2014-11-07T01:31:40.186Z,"southern Iran",earthquake,,,,129,reviewed,us,us
+2007-02-19T02:45:58.100Z,31.13,56.77,15,4.6,mb,71,72.3,,,us,usp000f54j,2014-11-07T01:31:39.766Z,"central Iran",earthquake,,,,17,reviewed,teh,us
+2007-02-16T22:14:53.290Z,31.384,56.818,35,4.2,mblg,35,186.1,,1.04,us,usp000f4zr,2014-11-07T01:31:38.618Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2007-01-07T15:32:23.230Z,33.986,56.652,37.6,4.5,mb,59,62.2,,0.86,us,usp000f1we,2014-11-07T01:31:19.626Z,"central Iran",earthquake,,4.3,,14,reviewed,us,us
+2007-01-03T07:49:11.500Z,32.24,55.56,10,4.2,mblg,29,77.6,,,us,usp000f1m6,2014-11-07T01:31:17.630Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-12-28T19:48:41.300Z,28.28,57.64,14.1,4.5,mb,82,94.4,,,us,usp000f174,2014-11-07T01:31:12.830Z,"southern Iran",earthquake,,,,26,reviewed,thr,us
+2006-12-28T03:32:46.900Z,28.98,57.25,25.9,3.9,ml,16,133.8,,,us,usp000f15s,2014-11-07T01:31:12.724Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-12-24T11:35:55.000Z,29,56.9,15,4,mblg,29,94.6,,,us,usp000f0wf,2014-11-07T01:31:11.138Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-12-21T15:06:03.040Z,28.044,56.675,10,3.5,ml,13,174.8,,1.62,us,usp000f0qf,2014-11-07T01:31:10.391Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-12-18T19:43:38.300Z,26.95,56,26.8,4.6,mb,82,94.1,,,us,usp000f0gv,2014-11-07T01:31:09.806Z,"southern Iran",earthquake,,,,22,reviewed,thr,us
+2006-12-15T15:15:46.100Z,28.26,56.82,14.8,3.5,ml,17,97.3,,,us,usp000f090,2014-11-07T01:31:08.541Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-12-13T13:32:07.700Z,30.55,57.52,7,4.4,mb,54,91.3,,,us,usp000f050,2014-11-07T01:31:08.084Z,"eastern Iran",earthquake,,,,8,reviewed,teh,us
+2006-12-09T08:09:08.000Z,28.612,58.1,14.1,4.3,ml,19,168.8,,,us,usp000ezvf,2014-11-07T01:31:06.436Z,"southeastern Iran",earthquake,,,,,reviewed,thr,thr
+2006-12-08T07:58:34.600Z,30.86,56.63,14.2,4.5,mb,56,64.5,,,us,usp000ezsg,2014-11-07T01:31:06.101Z,"central Iran",earthquake,,,,5,reviewed,thr,us
+2006-11-18T18:15:13.500Z,26.923,56.693,10,4.4,mb,39,149.8,,0.81,us,usp000ey5z,2014-11-07T01:30:53.714Z,"Strait of Hormuz",earthquake,,,,25,reviewed,us,us
+2006-11-18T03:43:04.400Z,27.11,55.74,17,3.2,ml,12,212.8,,,us,usp000ey3f,2014-11-07T01:30:53.321Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-11-18T01:05:15.000Z,27.22,55.74,14,4.4,mb,40,166.9,,,us,usp000ey2s,2014-11-07T01:30:53.230Z,"southern Iran",earthquake,,,,3,reviewed,teh,us
+2006-11-16T11:22:46.900Z,26.407,57.929,22.2,4.3,mb,13,212.6,,,us,usp000exu3,2014-11-07T01:30:51.774Z,"southern Iran",earthquake,,,,1,reviewed,teh,us
+2006-11-13T18:31:52.700Z,27.49,56.56,14,3.9,ml,18,99.8,,,us,usp000exau,2014-11-07T01:30:48.829Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-11-13T10:59:55.170Z,27.646,55.088,10,4.5,mb,57,63.7,,1.24,us,usp000ex9x,2014-11-07T01:30:48.687Z,"southern Iran",earthquake,,,,16,reviewed,us,us
+2006-10-27T22:27:06.200Z,28.28,56.79,15,3.3,ml,9,121,,,us,usp000ew59,2014-11-07T01:30:38.363Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-10-26T03:33:12.500Z,26.78,57.57,18,4.6,mb,75,48.6,,,us,usp000ew1z,2014-11-07T01:30:37.964Z,"southern Iran",earthquake,,,,15,reviewed,thr,us
+2006-10-25T10:04:01.200Z,28.42,57.09,7,4.2,mb,35,51.7,,,us,usp000evzz,2014-11-07T01:30:37.781Z,"southern Iran",earthquake,,,,4,reviewed,teh,us
+2006-10-09T07:43:53.400Z,30.83,56.74,14.1,4.4,mb,93,50.4,,,us,usp000euru,2014-11-07T01:30:31.470Z,"central Iran",earthquake,,,,29,reviewed,thr,us
+2006-09-30T16:16:14.990Z,27.28,55.851,22.2,4.3,mb,19,198.3,,0.92,us,usp000eu5c,2014-11-07T01:30:22.627Z,"southern Iran",earthquake,,10.5,,4,reviewed,us,us
+2006-09-24T10:30:11.000Z,33.69,56.89,18,4.3,mblg,33,154.6,,,us,usp000etqt,2014-11-07T01:30:16.332Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-09-24T09:35:03.000Z,27.35,56.31,7.6,3.6,ml,10,257.4,,,us,usp000etqp,2014-11-07T01:30:16.322Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-09-18T22:59:32.900Z,28.348,56.777,30.9,3.4,ml,19,169.3,,,us,usp000etc5,2014-11-07T01:30:14.992Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2006-09-14T03:18:20.500Z,27.46,55.33,15,3.8,mblg,24,93.7,,,us,usp000et2d,2014-11-07T01:30:13.367Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2006-08-31T02:28:30.700Z,30.29,57.42,18.1,4.4,mblg,44,75.9,,,us,usp000es4v,2014-11-07T01:30:03.522Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2006-08-27T15:06:58.100Z,31.52,57.15,14.2,3.9,mblg,11,75.9,,,us,usp000erwk,2014-11-07T01:30:02.513Z,"eastern Iran",earthquake,,,,,reviewed,thr,teh
+2006-08-23T08:36:12.200Z,27.5,55.84,13.2,4.4,mb,53,113.4,,,us,usp000erjh,2014-11-07T01:30:00.935Z,"southern Iran",earthquake,,,,15,reviewed,thr,us
+2006-08-16T09:09:07.600Z,33.38,56.89,5,4.3,mblg,28,96.6,,,us,usp000er1u,2014-11-07T01:29:58.549Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-07-25T21:51:40.360Z,27.683,56.665,10,3.8,ml,32,108.2,,0.96,us,usp000epk2,2014-11-07T01:29:46.174Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-07-25T15:24:12.570Z,27.575,55.526,10,3.7,ml,19,119.1,,0.64,us,usp000epjd,2014-11-07T01:29:45.982Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-07-20T23:46:53.800Z,29.08,55.27,22,4.9,mb,229,54.9,,,us,usp000ep7k,2014-11-07T01:29:43.778Z,"southern Iran",earthquake,,,,123,reviewed,teh,us
+2006-07-17T22:01:00.600Z,26.72,55.82,10,4.4,mb,108,119.1,,,us,usp000enwx,2014-11-07T01:29:42.245Z,"southern Iran",earthquake,,,,43,reviewed,thr,us
+2006-07-08T21:00:54.940Z,29.156,58.574,9.2,4.3,mb,67,45.8,,1.29,us,usp000en5n,2014-11-07T01:29:36.830Z,"southeastern Iran",earthquake,,8.7,,19,reviewed,us,us
+2006-07-07T20:10:58.400Z,27.13,55.77,15,3.4,ml,16,120.2,,,us,usp000en3d,2014-11-07T01:29:36.448Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-07-07T20:01:37.300Z,26.86,55.85,14,3.7,ml,60,96.4,,,us,usp000en3b,2014-11-07T01:29:36.436Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-07-07T03:28:57.200Z,27.06,56.04,14.1,4,mb,43,62.6,,,us,usp000en1z,2014-11-07T01:29:36.215Z,"southern Iran",earthquake,,,,9,reviewed,thr,us
+2006-07-05T07:33:32.700Z,26.91,55.92,6.9,4.2,mb,30,120.6,,,us,usp000emxx,2014-11-07T01:29:35.495Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2006-07-01T13:19:28.780Z,26.847,55.832,10,3.7,ml,24,66.1,,1.02,us,usp000empq,2014-11-07T01:29:32.765Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-06-30T15:06:15.000Z,26.9,55.8,22,4.4,mb,89,87,,,us,usp000emn3,2014-11-07T01:29:30.360Z,"southern Iran",earthquake,,,,25,reviewed,teh,us
+2006-06-30T05:38:52.700Z,26.8,55.9,7,4.6,mb,117,65.9,,,us,usp000emmd,2014-11-07T01:29:30.264Z,"southern Iran",earthquake,,,,36,reviewed,thr,us
+2006-06-29T23:44:25.000Z,26.8,55.8,14,4,mblg,26,95.5,,,us,usp000emkm,2014-11-07T01:29:30.148Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-06-29T19:20:01.600Z,27.02,55.98,14.2,3.3,ml,8,226.5,,,us,usp000emk2,2014-11-07T01:29:30.102Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-29T16:41:48.900Z,26.798,55.906,10,4.6,mb,135,65.8,,1.02,us,usp000emjv,2014-11-07T01:29:30.079Z,"southern Iran",earthquake,,,,62,reviewed,us,us
+2006-06-28T23:40:45.600Z,26.86,55.77,14.8,3.5,ml,58,86.6,,,us,usp000emh8,2014-11-07T01:29:29.938Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-28T22:25:55.810Z,26.695,55.84,10,3.3,ml,15,187.6,,1.31,us,usp000emh6,2014-11-07T01:29:29.934Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-06-28T22:23:15.500Z,27,55.9,14.3,3.6,ml,11,208.3,,,us,usp000emh5,2014-11-07T01:29:29.933Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-28T21:55:11.800Z,26.9,55.95,10.4,4,mb,36,120.3,,,us,usp000emh3,2014-11-07T01:29:29.925Z,"southern Iran",earthquake,,,,5,reviewed,thr,us
+2006-06-28T21:36:41.300Z,26.96,55.88,9.5,4.4,mb,116,86.5,,,us,usp000emh1,2014-11-07T01:29:29.838Z,"southern Iran",earthquake,,,,46,reviewed,thr,us
+2006-06-28T21:26:00.600Z,26.76,56.25,6.4,4.5,mb,95,62.8,,,us,usp000emh0,2014-11-07T01:29:29.830Z,"Strait of Hormuz",earthquake,,,,46,reviewed,thr,us
+2006-06-28T21:19:30.900Z,27.07,55.68,14.1,3.6,ml,16,91.3,,,us,usp000emgz,2014-11-07T01:29:29.827Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-28T21:16:11.790Z,26.901,55.714,10,4.1,mb,9,103.9,,0.9,us,usp000emgx,2014-11-07T01:29:29.824Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2006-06-28T21:02:09.900Z,26.925,55.866,11,5.8,mwc,608,30.4,,0.96,us,usp000emgv,2017-04-26T18:06:01.964Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2006-06-19T14:03:53.900Z,28.23,57.38,14.1,3.6,ml,10,102.6,,,us,usp000ektp,2014-11-07T01:29:25.316Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-11T03:04:57.600Z,31.558,56.22,12,3.9,mblg,19,82.1,,,us,usp000ek46,2014-11-07T01:29:21.155Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-06-07T21:31:52.100Z,31.21,56.25,22,4,mblg,25,119.7,,,us,usp000ejws,2014-11-07T01:29:20.241Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-06-07T20:57:31.000Z,30.74,56.81,1,4.4,mblg,42,116.2,,,us,usp000ejwp,2014-11-07T01:29:20.233Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-06-04T16:18:27.200Z,30.43,57.32,14.1,4.2,mb,53,80.4,,,us,usp000ejpv,2014-11-07T01:29:19.300Z,"eastern Iran",earthquake,,,,11,reviewed,thr,us
+2006-06-03T23:01:01.060Z,26.756,56.001,84.3,4.3,mb,44,97.2,,0.92,us,usp000ejn8,2014-11-07T01:29:18.955Z,"Strait of Hormuz",earthquake,,,,21,reviewed,us,us
+2006-06-03T13:14:18.600Z,26.41,55.93,34,4,mb,32,93.8,,,us,usp000ejm0,2014-11-07T01:29:18.713Z,"southern Iran",earthquake,,,,7,reviewed,teh,us
+2006-06-03T07:37:29.000Z,26.92,55.94,7.5,4.6,mb,83,146.3,,,us,usp000ejkh,2014-11-07T01:29:18.603Z,"southern Iran",earthquake,,,,41,reviewed,thr,us
+2006-06-03T07:15:35.600Z,26.759,55.843,12.1,5.1,mwc,344,33.7,,0.99,us,usp000ejkf,2017-04-26T18:05:58.119Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2006-06-01T18:03:51.600Z,27.24,55.78,14.1,3.3,ml,12,147,,,us,usp000ejft,2014-11-07T01:29:16.819Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-06-01T02:16:58.500Z,27.63,55.84,18,3.4,ml,17,131.9,,,us,usp000ejdv,2014-11-07T01:29:15.454Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-05-30T15:06:39.800Z,28.25,56.89,14.1,3.4,ml,9,94.8,,,us,usp000ejas,2014-11-07T01:29:13.099Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-05-20T07:19:44.700Z,32.44,59.46,15,3.8,ml,35,112.7,,,us,usp000ehja,2014-11-07T01:29:09.078Z,"eastern Iran",earthquake,,,,,reviewed,thr,thr
+2006-05-12T16:05:32.870Z,27.476,55.64,43.3,4.8,mb,146,72.9,,0.9,us,usp000egyj,2014-11-07T01:29:06.119Z,"southern Iran",earthquake,,4.5,,85,reviewed,us,us
+2006-05-11T18:29:52.100Z,31.6,59.89,0,4,mblg,32,107.2,,,us,usp000egw2,2014-11-07T01:29:05.780Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2006-05-07T07:51:39.200Z,31.83,56,10,4,mb,43,64.9,,,us,usp000egft,2014-11-07T01:29:04.000Z,"central Iran",earthquake,,,,6,reviewed,teh,us
+2006-05-07T06:20:53.700Z,30.79,56.7,14.1,5,mwc,148,56.2,,,us,usp000egfm,2017-04-26T18:05:51.595Z,"central Iran",earthquake,,,,,reviewed,thr,hrv
+2006-04-28T00:52:47.400Z,27.47,55.82,14,4.2,mb,53,117.4,,,us,usp000efnf,2014-11-07T01:28:55.641Z,"southern Iran",earthquake,,,,16,reviewed,thr,us
+2006-04-24T17:23:10.100Z,27.73,55.41,14.1,4,ml,24,169,,,us,usp000efeh,2014-11-07T01:28:54.488Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-04-23T01:05:52.500Z,27.74,55.42,14.8,3.8,ml,29,167.9,,,us,usp000efa5,2014-11-07T01:28:53.998Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-04-19T17:01:45.400Z,28.22,56.8,16.2,4.4,mb,57,97.8,,,us,usp000eexn,2014-11-07T01:28:52.168Z,"southern Iran",earthquake,,,,20,reviewed,thr,us
+2006-04-19T16:41:44.000Z,26.92,55.86,15.5,4.3,mb,70,167.1,,,us,usp000eexk,2014-11-07T01:28:52.162Z,"southern Iran",earthquake,,,,26,reviewed,thr,us
+2006-04-16T15:48:36.000Z,26.81,55.9,15,4.8,mb,145,95.5,,,us,usp000eepm,2014-11-07T01:28:50.961Z,"southern Iran",earthquake,,,,75,reviewed,thr,us
+2006-04-13T01:29:34.680Z,28.32,55.348,35,3.5,mb,14,259.1,,1.11,us,usp000eec1,2014-11-07T01:28:48.518Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2006-04-13T01:28:10.900Z,27.58,55.87,14,3.7,ml,21,157.6,,,us,usp000eec0,2014-11-07T01:28:48.516Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-04-11T05:15:15.320Z,27.277,55.698,13.2,3.5,ml,14,236,,0.93,us,usp000ee5v,2014-11-07T01:28:46.115Z,"southern Iran",earthquake,,12.3,,,reviewed,us,thr
+2006-04-10T05:15:25.400Z,28.26,56.72,15.4,3.5,ml,16,141.4,,,us,usp000ee2s,2014-11-07T01:28:45.108Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-04-07T12:37:21.700Z,28.41,57.25,33.6,3.9,ml,18,106.9,,,us,usp000edwq,2014-11-07T01:28:44.228Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-04-05T22:05:52.000Z,27.306,55.4,10,3.7,mblg,32,224.4,,,us,usp000edsg,2014-11-07T01:28:43.654Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-04-05T12:23:29.280Z,27.373,55.543,18.1,4.4,mb,55,74.9,,1.29,us,usp000edrc,2014-11-07T01:28:43.507Z,"southern Iran",earthquake,,17.5,,16,reviewed,us,us
+2006-04-04T10:27:09.400Z,27.53,55.92,14.1,4.1,mb,22,166.7,,,us,usp000ednw,2014-11-07T01:28:43.091Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2006-04-01T08:08:14.100Z,27.33,57.42,14,3.5,ml,10,222.2,,,us,usp000eddu,2014-11-07T01:28:40.793Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-30T07:28:48.800Z,27.48,55.57,14.1,4.4,mb,86,92.6,,,us,usp000ed8u,2014-11-07T01:28:36.984Z,"southern Iran",earthquake,,,,29,reviewed,thr,us
+2006-03-28T17:38:50.100Z,28.12,56.72,18,3.8,ml,17,147.9,,,us,usp000ed53,2014-11-07T01:28:36.470Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-28T15:32:11.100Z,27.49,55.95,18,4,mb,31,172.9,,,us,usp000ed4v,2014-11-07T01:28:36.441Z,"southern Iran",earthquake,,,,7,reviewed,thr,us
+2006-03-27T02:39:53.300Z,27.45,55.8,14.1,3.4,mblg,15,163.5,,,us,usp000ed1r,2014-11-07T01:28:36.028Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2006-03-26T17:34:17.600Z,27.66,55.69,14.7,3.6,ml,22,164.1,,,us,usp000ed0f,2014-11-07T01:28:35.819Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-26T09:37:56.870Z,27.268,55.807,21.8,4.7,mb,98,166.1,,0.95,us,usp000eczs,2014-11-07T01:28:35.758Z,"southern Iran",earthquake,,8.6,,50,reviewed,us,us
+2006-03-26T07:21:32.500Z,27.55,55.91,18,4.4,mb,80,163.7,,,us,usp000eczg,2014-11-07T01:28:35.734Z,"southern Iran",earthquake,,,,25,reviewed,thr,us
+2006-03-25T21:54:17.900Z,28.13,56.89,14.1,3.7,ml,11,155.7,,,us,usp000ecyg,2014-11-07T01:28:35.594Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T21:24:58.430Z,26.557,56.193,10,3.7,mb,5,280.6,,0.31,us,usp000ecyc,2014-11-07T01:28:35.583Z,"Strait of Hormuz",earthquake,,,,1,reviewed,us,us
+2006-03-25T21:23:26.200Z,27.68,55.79,14.1,3.6,ml,23,154.9,,,us,usp000ecyb,2014-11-07T01:28:35.580Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T17:48:26.000Z,27.48,55.63,18,4.4,mb,69,84.7,,,us,usp000ecy0,2014-11-07T01:28:35.528Z,"southern Iran",earthquake,,,,24,reviewed,teh,us
+2006-03-25T16:08:29.000Z,27.52,55.8,8,4.2,mb,40,181.4,,,us,usp000ecxp,2014-11-07T01:28:35.502Z,"southern Iran",earthquake,,,,12,reviewed,teh,us
+2006-03-25T15:29:40.000Z,27.68,56.17,27,4.3,mb,60,103.1,,,us,usp000ecxk,2014-11-07T01:28:35.491Z,"southern Iran",earthquake,,,,21,reviewed,teh,us
+2006-03-25T15:27:22.500Z,27.658,55.661,10,3.4,ml,11,195.3,,1.2,us,usp000ecxj,2014-11-07T01:28:35.489Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2006-03-25T14:58:29.670Z,27.355,55.73,10,4.7,mb,95,145.9,,1.12,us,usp000ecxd,2014-11-07T01:28:35.454Z,"southern Iran",earthquake,,,,44,reviewed,us,us
+2006-03-25T13:14:32.000Z,27.4,55.77,32,4.4,mb,92,174.2,,,us,usp000ecx6,2014-11-07T01:28:35.408Z,"southern Iran",earthquake,,,,29,reviewed,teh,us
+2006-03-25T12:55:38.000Z,27.3,55.88,18,4.4,mb,62,149.4,,,us,usp000ecx4,2014-11-07T01:28:35.400Z,"southern Iran",earthquake,,,,27,reviewed,teh,us
+2006-03-25T12:13:42.550Z,27.443,55.509,10,4.9,mwc,149,98.6,,0.97,us,usp000ecx1,2016-11-10T01:19:22.996Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2006-03-25T12:12:38.530Z,26.517,55.979,10,3.9,mb,12,272,,1.38,us,usp000ecx0,2014-11-07T01:28:35.364Z,"southern Iran",earthquake,,,,5,reviewed,us,us
+2006-03-25T11:57:34.300Z,27.47,56.48,15.7,4,mb,24,207.3,,,us,usp000ecwy,2014-11-07T01:28:35.359Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2006-03-25T11:50:08.900Z,27.67,56.02,14.1,3.7,ml,8,130.1,,,us,usp000ecwx,2014-11-07T01:28:35.358Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T11:16:22.200Z,27.63,55.87,14.1,4.5,mb,73,84.5,,,us,usp000ecwv,2014-11-07T01:28:35.344Z,"southern Iran",earthquake,,,,20,reviewed,thr,us
+2006-03-25T11:02:57.000Z,27.54,55.81,15,5,mwc,194,95.7,,,us,usp000ecwt,2016-11-10T01:19:22.412Z,"southern Iran",earthquake,,,,,reviewed,thr,hrv
+2006-03-25T10:48:05.400Z,27.52,55.72,14.2,3.5,ml,17,181.5,,,us,usp000ecws,2014-11-07T01:28:35.291Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T10:37:00.800Z,27.65,55.94,17.7,4.6,mb,75,79.5,,,us,usp000ecwp,2014-11-07T01:28:35.275Z,"southern Iran",earthquake,,,,24,reviewed,thr,us
+2006-03-25T10:22:55.500Z,27.63,55.86,14.1,4.8,mb,158,61.7,,,us,usp000ecwm,2014-11-07T01:28:35.259Z,"southern Iran",earthquake,,,,79,reviewed,thr,us
+2006-03-25T10:09:43.200Z,27.64,56.24,14.2,3.7,ml,28,145.7,,,us,usp000ecwg,2014-11-07T01:28:35.175Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T10:00:36.600Z,27.47,55.8,15,5.2,mwc,354,55,,,us,usp000ecwf,2016-11-10T01:19:21.260Z,"southern Iran",earthquake,,,,,reviewed,thr,hrv
+2006-03-25T09:55:12.380Z,27.541,55.78,10,5.5,mwb,387,55,,1.21,us,usp000ecwe,2017-04-13T22:19:57.005Z,"southern Iran",earthquake,,,,,reviewed,us,us
+2006-03-25T09:53:01.580Z,27.522,55.637,10,4.5,mb,57,178,,0.79,us,usp000ecwd,2014-11-07T01:28:35.115Z,"southern Iran",earthquake,,,,25,reviewed,us,us
+2006-03-25T08:56:21.680Z,27.378,55.45,10,4.9,mb,154,86.8,,1.05,us,usp000ecw8,2014-11-07T01:28:35.085Z,"southern Iran",earthquake,,,,90,reviewed,us,us
+2006-03-25T08:20:21.600Z,27.53,55.87,15,3.8,ml,18,171.2,,,us,usp000ecw7,2014-11-07T01:28:35.082Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T08:03:02.700Z,27.61,55.93,14.1,3.2,ml,8,150.8,,,us,usp000ecw6,2014-11-07T01:28:35.080Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-25T07:42:46.600Z,27.62,55.91,14.1,4.1,mb,22,151.7,,,us,usp000ecw5,2014-11-07T01:28:35.077Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2006-03-25T07:28:57.650Z,27.574,55.685,18,5.9,mwc,503,34.1,,1.12,us,usp000ecw4,2017-04-13T22:19:56.520Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2006-03-24T01:42:50.100Z,28.2,56.79,18,3,ml,14,147.5,,,us,usp000ectf,2014-11-07T01:28:34.686Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-20T07:47:46.700Z,32.31,55.84,16,4,mb,30,108.4,,,us,usp000echm,2014-11-07T01:28:33.579Z,"central Iran",earthquake,,,,5,reviewed,teh,us
+2006-03-11T21:33:39.500Z,28.155,56.831,15,4.9,mb,128,94.1,,,us,usp000ebz5,2014-11-07T01:28:30.867Z,"southern Iran",earthquake,,,,79,reviewed,thr,us
+2006-03-11T21:10:12.900Z,27.18,57.18,41.4,3.7,mb,11,232.2,,,us,usp000ebz4,2014-11-07T01:28:30.865Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2006-03-10T09:41:47.400Z,28.17,56.8,14.1,4.5,mb,45,102.9,,,us,usp000ebvk,2014-11-07T01:28:30.426Z,"southern Iran",earthquake,,,,22,reviewed,thr,us
+2006-03-08T12:30:58.440Z,28.066,56.811,21.7,4.6,mb,89,126.4,,1.01,us,usp000ebp1,2014-11-07T01:28:29.533Z,"southern Iran",earthquake,,,,45,reviewed,us,us
+2006-03-07T04:36:58.500Z,28.065,56.694,10,3.1,mblg,13,246.4,,,us,usp000ebkh,2014-11-07T01:28:29.137Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-03-07T02:19:02.900Z,30.748,56.841,16.7,4.3,mblg,20,169,,,us,usp000ebkd,2014-11-07T01:28:29.129Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2006-03-06T03:09:44.800Z,28.18,56.79,27.1,3.8,ml,26,148.5,,,us,usp000ebh8,2014-11-07T01:28:28.899Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-05T19:22:40.500Z,28.24,56.91,14,3.1,ml,9,178,,,us,usp000ebgd,2014-11-07T01:28:28.825Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-02T13:37:07.900Z,28.23,56.82,14.2,3.4,ml,16,147.5,,,us,usp000eb65,2014-11-07T01:28:26.713Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-02T12:16:43.400Z,28.21,56.76,15.5,4.3,mb,49,145.6,,,us,usp000eb5z,2014-11-07T01:28:26.603Z,"southern Iran",earthquake,,,,15,reviewed,thr,us
+2006-03-01T17:15:45.900Z,28.16,56.74,14,3.7,ml,19,146.9,,,us,usp000eb45,2014-11-07T01:28:25.616Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-01T14:24:08.600Z,28.29,56.67,25,3.3,ml,9,137.7,,,us,usp000eb3s,2014-11-07T01:28:25.464Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-01T02:32:35.200Z,28.15,56.99,18,3.8,ml,37,188.6,,,us,usp000eb2s,2014-11-07T01:28:24.785Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-03-01T00:57:21.300Z,27.875,55.593,0,3,mblg,13,246.5,,,us,usp000eb2n,2014-11-07T01:28:24.677Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-02-28T21:39:57.800Z,28.24,56.78,25.2,4,mb,35,145.2,,,us,usp000eb2b,2014-11-07T01:28:22.971Z,"southern Iran",earthquake,,,,11,reviewed,thr,us
+2006-02-28T20:01:41.000Z,28.27,56.68,15,4.5,mb,63,209.6,,,us,usp000eb26,2014-11-07T01:28:22.950Z,"southern Iran",earthquake,,,,44,reviewed,teh,us
+2006-02-28T19:29:20.000Z,28.102,56.754,20.8,3.8,mblg,18,236.9,,,us,usp000eb22,2014-11-07T01:28:22.942Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-02-28T17:30:37.700Z,28.16,57.11,17,3.4,ml,9,163,,,us,usp000eb1w,2014-11-07T01:28:22.930Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-02-28T10:40:15.400Z,28.059,57.046,22.1,3.6,ml,10,211.9,,,us,usp000eb1h,2014-11-07T01:28:22.895Z,"southern Iran",earthquake,,,,,reviewed,teh,thr
+2006-02-28T08:40:21.870Z,27.996,56.851,19.2,4.9,mb,115,94.2,,1.08,us,usp000eb1d,2014-11-07T01:28:22.880Z,"southern Iran",earthquake,,,,59,reviewed,us,us
+2006-02-28T08:02:11.600Z,28.12,56.79,28.4,4.1,mb,38,151.5,,,us,usp000eb1a,2014-11-07T01:28:22.870Z,"southern Iran",earthquake,,,,13,reviewed,thr,us
+2006-02-28T07:31:02.650Z,28.12,56.865,18,6,mwb,480,33.4,,1.26,us,usp000eb19,2017-04-26T18:05:25.722Z,"southern Iran",earthquake,,,,,reviewed,us,us
+2006-02-27T08:02:11.900Z,26.76,55.8,14.1,4.2,mb,33,227.8,,,us,usp000eazb,2014-11-07T01:28:22.619Z,"southern Iran",earthquake,,,,6,reviewed,thr,us
+2006-02-26T12:24:28.870Z,28.134,55.264,56,4.7,mb,110,93.5,,0.79,us,usp000eawy,2014-11-07T01:28:22.136Z,"southern Iran",earthquake,,4.7,,37,reviewed,us,us
+2006-02-21T08:25:17.200Z,27.35,55.78,14.1,3.1,ml,10,209.4,,,us,usp000eah0,2014-11-07T01:28:20.718Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2006-02-21T08:09:23.100Z,27.36,55.78,15,4,mb,24,207.6,,,us,usp000eagw,2014-11-07T01:28:20.710Z,"southern Iran",earthquake,,,,8,reviewed,thr,us
+2006-02-21T05:37:31.680Z,27.463,55.788,22.6,4.7,mb,54,178.3,,1.28,us,usp000eagp,2014-11-07T01:28:20.668Z,"southern Iran",earthquake,,10.9,,17,reviewed,us,us
+2006-02-20T21:23:02.920Z,27.61,55.477,10,3.4,mblg,14,99.5,,1.07,us,usp000eafr,2014-11-07T01:28:20.531Z,"southern Iran",earthquake,,,,,reviewed,us,teh
+2006-02-18T11:03:31.500Z,30.75,55.89,14.1,4.7,mb,91,40.4,,,us,usp000ea9u,2014-11-07T01:28:19.891Z,"central Iran",earthquake,,,,39,reviewed,thr,us
+2006-02-16T22:52:55.000Z,27.64,56.07,14.2,3.7,mblg,12,128.6,,,us,usp000ea6m,2014-11-07T01:28:18.941Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2006-02-06T23:31:57.200Z,29.163,58.403,10,4.1,mb,62,130.1,,1.15,us,usp000e9p0,2014-11-07T01:28:17.075Z,"southeastern Iran",earthquake,,,,13,reviewed,us,us
+2006-02-06T21:14:07.900Z,26.93,55.95,12,3.2,mblg,9,258.5,,,us,usp000e9np,2014-11-07T01:28:17.055Z,"southern Iran",earthquake,,,,,reviewed,thr,teh
+2006-02-06T19:58:18.600Z,29.296,58.433,14.2,4.1,ml,15,113,,,us,usp000e9nh,2014-11-07T01:28:17.040Z,"southeastern Iran",earthquake,,,,,reviewed,thr,thr
+2006-02-01T12:17:54.800Z,26.755,55.856,9.4,4,mb,19,245.9,,,us,usp000e98r,2014-11-07T01:28:13.392Z,"southern Iran",earthquake,,,,3,reviewed,thr,us
+2006-01-24T16:07:34.000Z,26.68,55.79,18,3.5,mblg,12,262.8,,,us,usp000e8t2,2014-11-07T01:28:09.288Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2006-01-12T21:32:32.700Z,26.886,55.903,7.4,4.4,mb,56,97.5,,,us,usp000e845,2014-11-07T01:28:05.993Z,"southern Iran",earthquake,,,,15,reviewed,thr,us
+2005-12-30T16:30:52.400Z,27.48,55.93,14.1,3.3,ml,15,177.3,,,us,usp000e77x,2014-11-07T01:27:58.314Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2005-12-27T21:53:14.900Z,28.123,56.068,14.2,4.8,mwc,260,40.5,,,us,usp000e727,2016-11-10T01:16:16.906Z,"southern Iran",earthquake,,,,,reviewed,thr,hrv
+2005-12-27T16:13:52.000Z,29.93,57.79,10,4.1,ml,16,218.3,,,us,usp000e71e,2014-11-07T01:27:57.564Z,"southern Iran",earthquake,,,,,reviewed,teh,teh
+2005-12-27T11:01:12.200Z,30.93,56.72,10,4.1,ml,17,191.4,,,us,usp000e712,2014-11-07T01:27:57.543Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2005-12-27T08:37:18.000Z,33.53,59.91,17,4,mb,31,128.4,,,us,usp000e70r,2014-11-07T01:27:57.463Z,"eastern Iran",earthquake,,,,4,reviewed,teh,us
+2005-12-11T14:24:36.760Z,28.198,56.946,35,4.8,mb,84,102.9,,1.05,us,usp000e5ze,2014-11-07T01:27:52.823Z,"southern Iran",earthquake,,,,34,reviewed,us,us
+2005-12-06T12:02:01.090Z,26.995,55.779,35,4.2,mb,15,261.3,,0.96,us,usp000e5na,2014-11-07T01:27:51.293Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2005-12-06T00:22:27.900Z,26.604,55.777,10,4.3,mb,31,99.4,,1.17,us,usp000e5m4,2014-11-07T01:27:51.154Z,"southern Iran",earthquake,,,,10,reviewed,us,us
+2005-12-01T21:58:41.000Z,27.72,56.09,18,3.9,mb,15,115.1,,,us,usp000e5am,2014-11-07T01:27:48.652Z,"southern Iran",earthquake,,,,3,reviewed,thr,us
+2005-12-01T17:29:28.600Z,26.64,55.69,10,4.6,mb,93,103,,,us,usp000e5a7,2014-11-07T01:27:48.512Z,"southern Iran",earthquake,,,,31,reviewed,teh,us
+2005-12-01T00:34:26.900Z,26.73,55.68,10,4.3,mb,75,102.9,,,us,usp000e58n,2014-11-07T01:27:46.914Z,"southern Iran",earthquake,,,,24,reviewed,teh,us
+2005-11-30T15:19:56.350Z,26.717,55.797,10,4.7,mwc,174,99.4,,1.11,us,usp000e57z,2016-11-10T01:15:08.317Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2005-11-28T21:43:50.000Z,26.834,55.823,10,4.5,mb,23,172.8,,0.84,us,usp000e53x,2014-11-07T01:27:44.879Z,"southern Iran",earthquake,,,,8,reviewed,us,us
+2005-11-28T17:15:26.100Z,26.952,56.164,10,4.3,mb,11,149.6,,0.96,us,usp000e53k,2014-11-07T01:27:44.852Z,"Strait of Hormuz",earthquake,,,,3,reviewed,us,us
+2005-11-28T14:12:47.780Z,26.681,55.828,10,4.1,mb,16,162.4,,1.15,us,usp000e53c,2014-11-07T01:27:44.767Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2005-11-28T14:06:58.270Z,26.793,55.862,10,4.6,mb,55,97.5,,0.91,us,usp000e53b,2014-11-07T01:27:44.763Z,"southern Iran",earthquake,,,,19,reviewed,us,us
+2005-11-28T05:40:02.270Z,26.687,55.769,10,4.1,mb,15,199,,1.43,us,usp000e52k,2014-11-07T01:27:44.698Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2005-11-28T02:30:07.210Z,26.74,55.941,10,4.2,mb,16,171.2,,1.05,us,usp000e523,2014-11-07T01:27:44.618Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2005-11-27T23:26:02.800Z,26.663,55.73,10,3.5,ml,10,162.3,,1.12,us,usp000e51q,2014-11-07T01:27:44.569Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2005-11-27T20:47:16.840Z,26.66,55.875,10,4.1,mb,30,162.5,,0.88,us,usp000e51f,2014-11-07T01:27:44.550Z,"southern Iran",earthquake,,,,5,reviewed,us,us
+2005-11-27T20:29:26.890Z,26.972,55.806,10,4.1,mb,23,213.3,,1.2,us,usp000e51e,2014-11-07T01:27:44.548Z,"southern Iran",earthquake,,,,9,reviewed,us,us
+2005-11-27T16:30:37.570Z,26.842,55.806,10,5.5,mwc,416,45.5,,1.13,us,usp000e513,2017-04-26T18:05:10.195Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2005-11-27T14:50:42.920Z,26.782,55.869,10,4,mb,22,162.4,,0.85,us,usp000e50v,2014-11-07T01:27:44.466Z,"southern Iran",earthquake,,,,9,reviewed,us,us
+2005-11-27T13:40:48.370Z,26.906,55.808,10,3.6,ml,14,162.2,,0.74,us,usp000e50p,2014-11-07T01:27:44.449Z,"southern Iran",earthquake,,,,,reviewed,us,thr
+2005-11-27T13:05:29.940Z,26.648,55.819,10,4.5,mb,59,162.4,,1.12,us,usp000e50h,2014-11-07T01:27:44.432Z,"southern Iran",earthquake,,,,22,reviewed,us,us
+2005-11-27T12:19:39.470Z,26.662,55.852,10,3.8,mb,14,162.5,,0.92,us,usp000e50c,2014-11-07T01:27:44.406Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2005-11-27T12:05:34.930Z,26.609,55.884,10,4.5,mb,125,97.6,,0.89,us,usp000e50b,2014-11-07T01:27:44.397Z,"southern Iran",earthquake,,,,70,reviewed,us,us
+2005-11-27T11:13:10.090Z,26.724,55.793,10,5,mwc,354,61.9,,1.03,us,usp000e508,2016-11-10T01:15:01.225Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2005-11-27T11:07:28.320Z,26.822,55.611,10,3.8,mb,12,162.1,,0.92,us,usp000e507,2014-11-07T01:27:44.366Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2005-11-27T10:53:11.900Z,26.67,55.808,10,4.2,mb,47,97.6,,1.25,us,usp000e504,2014-11-07T01:27:44.356Z,"southern Iran",earthquake,,,,13,reviewed,us,us
+2005-11-27T10:48:03.340Z,26.871,55.777,10,4.1,mb,12,170.8,,0.95,us,usp000e502,2014-11-07T01:27:44.339Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2005-11-27T10:22:19.190Z,26.774,55.858,10,5.9,mwc,637,25,,1.06,us,usp000e501,2017-10-16T22:25:08.447Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2005-11-20T16:11:09.200Z,30.86,56.74,10,4.1,ml,27,217.3,,,us,usp000e4jx,2014-11-07T01:27:41.601Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2005-11-13T21:32:47.800Z,32.64,57.49,10,4.5,ml,17,208.3,,,us,usp000e445,2014-11-07T01:27:39.208Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2005-10-13T20:35:51.340Z,30.046,56.705,10,4.2,mb,33,78.7,,1.04,us,usp000e1rt,2014-11-07T01:27:23.178Z,"central Iran",earthquake,,,,3,reviewed,us,us
+2005-10-05T13:39:28.900Z,27.62,56.62,14.4,3.8,mb,19,152.2,,,us,usp000e0xc,2014-11-07T01:27:17.513Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2005-10-03T18:39:18.700Z,28.55,56.89,16.5,4.2,mb,22,93,,,us,usp000e0u6,2014-11-07T01:27:16.596Z,"southern Iran",earthquake,,,,3,reviewed,thr,us
+2005-09-19T06:13:22.800Z,28.303,55.241,18,4,mb,31,73.7,,,us,usp000dzqm,2014-11-07T01:27:05.848Z,"southern Iran",earthquake,,,,6,reviewed,thr,us
+2005-09-05T14:12:36.510Z,28.398,58.319,61.9,4,mb,41,102,,1.36,us,usp000dytv,2014-11-07T01:27:00.715Z,"southeastern Iran",earthquake,,8.2,,6,reviewed,us,us
+2005-09-05T05:00:20.780Z,30.985,56.613,35,4,mb,27,128.1,,1.15,us,usp000dyt0,2014-11-07T01:27:00.590Z,"central Iran",earthquake,,,,4,reviewed,us,us
+2005-07-31T11:14:06.900Z,28.42,57.24,14.3,3.7,ml,21,97.6,,,us,usp000dwca,2014-11-07T01:26:37.665Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2005-07-14T13:14:21.800Z,33.05,58.17,10,4.3,mb,25,134.2,,,us,usp000dv6d,2014-11-07T01:26:29.474Z,"eastern Iran",earthquake,,,,5,reviewed,teh,us
+2005-07-14T11:35:03.400Z,30.95,56.35,10,4.1,ml,22,206.2,,,us,usp000dv6a,2014-11-07T01:26:29.463Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2005-07-12T08:04:27.000Z,27.26,56.01,14.1,4.6,mb,96,94.8,,,us,usp000dv1y,2014-11-07T01:26:28.796Z,"southern Iran",earthquake,,,,29,reviewed,thr,us
+2005-07-03T18:54:43.100Z,27.07,57.95,14.1,4.1,ml,15,234.3,,,us,usp000dueu,2014-11-07T01:26:24.490Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2005-07-03T03:35:40.690Z,28.006,55.951,10,3.6,mb,8,260.9,,1.28,us,usp000dudh,2014-11-07T01:26:24.020Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2005-07-01T21:56:50.400Z,28.38,56.02,14.6,3.7,ml,15,99.7,,,us,usp000dub3,2014-11-07T01:26:21.922Z,"southern Iran",earthquake,,,,,reviewed,thr,thr
+2005-06-19T04:46:10.510Z,33.135,58.088,42,4.9,mwc,269,93.3,,1,us,usp000dtdt,2016-11-10T01:07:36.715Z,"eastern Iran",earthquake,,4,,,reviewed,us,hrv
+2005-06-04T22:39:26.600Z,32.147,57.671,10,4.1,ml,22,210.4,,,us,usp000ds7u,2014-11-07T01:26:06.238Z,"eastern Iran",earthquake,,,,,reviewed,teh,teh
+2005-06-04T18:56:38.900Z,30.811,56.866,10,4,ml,32,141.3,,1.29,us,usp000ds7e,2014-11-07T01:26:06.164Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-05-18T00:18:14.240Z,30.647,56.684,10,4.1,mb,22,182.7,,1.3,us,usp000dr2j,2014-11-07T01:25:55.413Z,"central Iran",earthquake,,,,5,reviewed,us,us
+2005-05-17T23:53:13.000Z,30.825,56.573,10,3.6,mblg,24,126.6,,,us,usp000dr2h,2014-11-07T01:25:55.410Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2005-05-14T18:04:55.060Z,30.687,56.862,10,5.2,mwc,386,23.1,,1.01,us,usp000dqtq,2016-11-10T01:06:09.744Z,"central Iran",earthquake,,,,,reviewed,us,hrv
+2005-05-13T00:27:49.600Z,26.4,55.02,26.2,4.1,mb,23,170.5,,,us,usp000dqnj,2014-11-07T01:25:52.594Z,"southern Iran",earthquake,,,,2,reviewed,thr,us
+2005-05-12T22:55:07.050Z,30.544,56.943,6.5,4.6,mb,77,77.1,,1.04,us,usp000dqn8,2014-11-07T01:25:52.524Z,"central Iran",earthquake,,8.4,,33,reviewed,us,us
+2005-05-01T19:43:33.300Z,30.766,56.887,20,4.2,mb,66,69,,1.06,us,usp000dpqf,2014-11-07T01:25:46.721Z,"central Iran",earthquake,,,,20,reviewed,us,us
+2005-05-01T19:12:09.530Z,30.728,56.893,13.5,4,ml,17,143.8,,0.88,us,usp000dpq8,2014-11-07T01:25:46.663Z,"central Iran",earthquake,,12.7,,,reviewed,us,thr
+2005-05-01T18:58:42.530Z,30.704,56.965,30.6,5.1,mwc,305,59.2,,1.08,us,usp000dpq7,2016-11-10T01:05:37.196Z,"central Iran",earthquake,,8.3,,,reviewed,us,hrv
+2005-05-01T02:09:59.500Z,28.39,56.21,14.1,4.1,mb,75,71.6,,,us,usp000dpn4,2014-11-07T01:25:44.957Z,"southern Iran",earthquake,,,,22,reviewed,thr,us
+2005-04-25T05:02:47.200Z,30.72,56.68,14.1,3.6,mblg,30,65.5,,,us,usp000dp60,2014-11-07T01:25:40.837Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2005-04-23T08:48:54.510Z,27.632,56.74,55,4.5,mb,83,94.2,,0.96,us,usp000dp1p,2014-11-07T01:25:39.732Z,"southern Iran",earthquake,,5.2,,26,reviewed,us,us
+2005-04-05T02:14:32.300Z,32.293,56.599,10,4,ml,36,127.7,,,us,usp000dm9f,2014-11-07T01:25:29.412Z,"central Iran",earthquake,,,,,reviewed,teh,thr
+2005-03-28T12:33:46.980Z,28.192,55.758,50.7,3.5,mb,21,117.8,,0.9,us,usp000dk7t,2014-11-07T01:25:20.011Z,"southern Iran",earthquake,,7.6,,2,reviewed,us,us
+2005-03-26T16:00:07.790Z,27.686,56.705,35,3.7,mb,13,191.5,,0.62,us,usp000dk3w,2014-11-07T01:25:19.614Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2005-03-19T01:29:57.050Z,30.746,56.745,10,3.9,mblg,35,65.5,,1.17,us,usp000djgr,2014-11-07T01:25:16.244Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-03-18T03:52:16.180Z,27.651,56.166,45,4.1,mb,46,236.8,,1.26,us,usp000djej,2014-11-07T01:25:15.951Z,"southern Iran",earthquake,,12.5,,16,reviewed,us,us
+2005-03-15T22:49:01.500Z,30.76,56.81,14,4.2,mblg,30,75.7,,,us,usp000dj9u,2014-11-07T01:25:14.793Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2005-03-15T22:43:49.200Z,30.77,56.87,14,4.1,mblg,26,79,,,us,usp000dj9t,2014-11-07T01:25:14.790Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2005-03-15T08:00:34.600Z,30.79,56.87,14,4.2,mblg,27,73.4,,,us,usp000dj8f,2014-11-07T01:25:14.641Z,"central Iran",earthquake,,,,,reviewed,thr,teh
+2005-03-06T09:02:52.600Z,30.76,56.77,14.1,4.4,mb,54,61.8,,,us,usp000dhnd,2014-11-07T01:25:11.694Z,"central Iran",earthquake,,,,14,reviewed,thr,us
+2005-03-04T03:42:41.000Z,30.79,56.75,14,4.1,mb,39,62.8,,,us,usp000dhft,2014-11-07T01:25:10.611Z,"central Iran",earthquake,,,,2,reviewed,thr,us
+2005-03-03T16:52:59.550Z,27.224,56.005,37.1,4.7,mb,126,94,,0.91,us,usp000dhet,2014-11-07T01:25:10.417Z,"southern Iran",earthquake,,,,60,reviewed,us,us
+2005-03-03T00:50:04.870Z,30.778,56.976,10,4.6,mb,59,63.6,,1.1,us,usp000dhd5,2014-11-07T01:25:10.017Z,"central Iran",earthquake,,,,23,reviewed,us,us
+2005-03-01T16:13:50.300Z,30.907,56.776,8.2,4.4,mb,53,124.1,,,us,usp000dha5,2014-11-07T01:25:08.723Z,"central Iran",earthquake,,,,13,reviewed,teh,us
+2005-02-28T03:48:36.490Z,30.836,56.705,41.4,3.8,mb,24,105.7,,0.92,us,usp000dh4z,2014-11-07T01:25:05.104Z,"central Iran",earthquake,,11.6,,5,reviewed,us,us
+2005-02-27T13:20:44.770Z,30.769,56.792,10,4,mb,53,95.1,,1.09,us,usp000dh3b,2014-11-07T01:25:04.829Z,"central Iran",earthquake,,,,11,reviewed,us,us
+2005-02-27T12:56:46.750Z,30.76,56.837,10,4,mblg,44,95.1,,1.08,us,usp000dh3a,2014-11-07T01:25:04.825Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-27T09:05:32.200Z,30.882,56.73,10,3.9,mblg,10,268.1,,,us,usp000dh33,2014-11-07T01:25:04.810Z,"central Iran",earthquake,,,,,reviewed,teh,teh
+2005-02-27T06:28:54.320Z,30.86,56.743,10,3.8,mblg,25,127.1,,1.34,us,usp000dh2n,2014-11-07T01:25:04.590Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-27T05:36:52.240Z,30.871,56.852,10,3.4,mblg,16,211.2,,1.18,us,usp000dh2g,2014-11-07T01:25:04.582Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-26T20:20:16.800Z,32.045,56.322,10,4.3,mb,79,94.5,,,us,usp000dh1h,2014-11-07T01:25:04.251Z,"central Iran",earthquake,,,,13,reviewed,teh,us
+2005-02-26T09:09:54.970Z,30.678,56.893,10,4.1,mblg,25,95.2,,1.42,us,usp000dh03,2014-11-07T01:25:03.876Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-25T19:54:16.640Z,30.755,56.8,10,4.1,mblg,33,121.2,,0.88,us,usp000dgyg,2014-11-07T01:25:03.667Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-25T01:12:00.590Z,30.637,56.744,10,4.4,mblg,66,95.1,,1.12,us,usp000dgwq,2014-11-07T01:25:03.422Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-24T23:26:33.120Z,30.838,56.741,10,4.2,mb,38,95.1,,0.88,us,usp000dgwf,2014-11-07T01:25:03.398Z,"central Iran",earthquake,,,,11,reviewed,us,us
+2005-02-24T08:39:35.830Z,30.772,56.709,10,3.6,mblg,18,193.5,,1.12,us,usp000dgvb,2014-11-07T01:25:03.216Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T17:31:27.970Z,30.505,56.829,10,3.6,mblg,16,159.7,,1.17,us,usp000dgrp,2014-11-07T01:25:02.706Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T16:59:36.730Z,30.578,56.895,10,3.8,mblg,26,179.7,,1.08,us,usp000dgrj,2014-11-07T01:25:02.660Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T06:48:08.340Z,30.554,56.831,10,3.8,mblg,21,243.3,,0.62,us,usp000dgqj,2014-11-07T01:25:02.534Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T06:06:52.800Z,30.545,56.892,10,3.7,mb,14,185.4,,0.88,us,usp000dgqd,2014-11-07T01:25:02.526Z,"central Iran",earthquake,,,,2,reviewed,us,us
+2005-02-22T06:06:31.400Z,30.847,56.87,10,4,mblg,17,224.5,,1.04,us,usp000dgqc,2014-11-07T01:25:02.523Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T05:56:37.590Z,30.565,56.873,10,3.5,mblg,15,260.8,,0.95,us,usp000dgqa,2014-11-07T01:25:02.520Z,"central Iran",earthquake,,,,,reviewed,us,teh
+2005-02-22T05:26:46.610Z,30.473,56.795,10,4.6,mb,87,93.6,,1.22,us,usp000dgq9,2014-11-07T01:25:02.512Z,"central Iran",earthquake,,,,32,reviewed,us,us
+2005-02-22T05:08:30.850Z,30.744,56.889,10,4.3,mb,53,77.9,,0.98,us,usp000dgq8,2014-11-07T01:25:02.506Z,"central Iran",earthquake,,,,11,reviewed,us,us
+2005-02-22T03:49:58.830Z,30.643,56.691,10,4,mb,20,144.3,,1.07,us,usp000dgq5,2014-11-07T01:25:02.498Z,"central Iran",earthquake,,,,4,reviewed,us,us
+2005-02-22T03:31:13.290Z,30.793,56.938,10,3.9,mb,20,163.1,,1.11,us,usp000dgq4,2014-11-07T01:25:02.496Z,"central Iran",earthquake,,,,3,reviewed,us,us
+2005-02-22T02:48:57.050Z,30.593,56.664,10,4,mb,15,144.3,,1.11,us,usp000dgq0,2014-11-07T01:25:02.403Z,"central Iran",earthquake,,,,3,reviewed,us,us
+2005-02-22T02:41:13.330Z,30.707,56.772,10,4.6,mb,36,97.4,,1.13,us,usp000dgpz,2014-11-07T01:25:02.399Z,"central Iran",earthquake,,,,4,reviewed,us,us
+2005-02-22T02:25:22.920Z,30.754,56.816,14,6.4,mwc,652,27.7,,1.31,us,usp000dgpx,2017-04-26T18:03:55.673Z,"central Iran",earthquake,,,,,reviewed,us,hrv
+2004-12-23T11:01:10.140Z,28.144,57.186,35,4.5,mb,43,255.1,,0.86,us,usp000db8q,2014-11-07T01:24:20.380Z,"southern Iran",earthquake,,,,24,reviewed,us,us
+2004-12-11T03:35:55.440Z,27.774,57.571,20.6,4.6,mb,12,167.2,,1.29,us,usp000daf2,2014-11-07T01:24:15.750Z,"southern Iran",earthquake,,,,15,reviewed,us,us
+2004-12-08T10:04:12.920Z,27.921,57.495,77.6,5,mwc,196,76.4,,0.94,us,usp000daaj,2016-11-10T00:54:24.461Z,"southern Iran",earthquake,,10.6,,,reviewed,us,hrv
+2004-11-30T13:35:06.160Z,28.386,58.375,50,3.9,mb,25,104.2,,1.59,us,usp000d9nh,2014-11-07T01:24:07.496Z,"southeastern Iran",earthquake,,,,14,reviewed,us,us
+2004-11-24T15:49:56.990Z,28.11,57.479,64.5,3.7,mb,25,145.6,,0.79,us,usp000d940,2014-11-07T01:24:04.751Z,"southern Iran",earthquake,,10.7,,2,reviewed,us,us
+2004-11-13T04:35:38.060Z,27.853,55.276,10,4.1,mb,17,98,,0.87,us,usp000d8b9,2014-11-07T01:23:59.925Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2004-11-12T00:30:34.560Z,28.596,56.812,96.1,4.3,mb,22,166.4,,0.89,us,usp000d86f,2014-11-07T01:23:59.332Z,"southern Iran",earthquake,,30.7,,13,reviewed,us,us
+2004-11-11T20:36:44.300Z,28.466,56.963,59.8,4.6,mb,61,99.3,,0.75,us,usp000d85e,2014-11-07T01:23:59.163Z,"southern Iran",earthquake,,15.5,,36,reviewed,us,us
+2004-10-14T02:28:46.690Z,31.695,57.019,35.9,4.5,mb,73,92.6,,0.94,us,usp000d6bv,2014-11-07T01:23:45.103Z,"eastern Iran",earthquake,,5.5,,35,reviewed,us,us
+2004-10-14T01:21:18.490Z,30.769,56.764,4.1,4.2,mb,26,100.7,,1.26,us,usp000d6bq,2014-11-07T01:23:45.094Z,"central Iran",earthquake,,16.4,,5,reviewed,us,us
+2004-10-10T16:27:50.150Z,28.219,57.27,21.4,4.7,mb,23,99.8,,0.77,us,usp000d655,2014-11-07T01:23:44.228Z,"southern Iran",earthquake,,38.2,,10,reviewed,us,us
+2004-10-10T10:28:10.270Z,26.898,57.544,10,4.6,mb,22,101.3,,1.06,us,usp000d64m,2014-11-07T01:23:44.178Z,"southern Iran",earthquake,,,,10,reviewed,us,us
+2004-10-09T06:08:26.430Z,28.303,57.135,63.7,4.5,mb,42,165,,0.56,us,usp000d623,2014-11-07T01:23:43.809Z,"southern Iran",earthquake,,6.2,,19,reviewed,us,us
+2004-10-07T12:55:01.040Z,28.33,57.311,56.5,5,mwc,346,45,,0.92,us,usp000d5y9,2016-11-10T00:48:06.215Z,"southern Iran",earthquake,,4.8,,,reviewed,us,hrv
+2004-10-07T07:17:11.100Z,28.801,57.841,104,4.5,mb,23,94.3,,0.9,us,usp000d5xw,2014-11-07T01:23:43.016Z,"southern Iran",earthquake,,32.8,,11,reviewed,us,us
+2004-10-06T11:14:34.030Z,28.837,57.93,72.1,5.2,mwc,213,33.1,,1.01,us,usp000d5vu,2016-11-10T00:47:58.114Z,"southern Iran",earthquake,,9.5,,,reviewed,us,hrv
+2004-08-28T04:32:10.820Z,31.139,57.4,10,4.2,mb,14,180.2,,1.05,us,usp000d2zm,2014-11-07T01:23:16.480Z,"eastern Iran",earthquake,,,,1,reviewed,us,us
+2004-08-16T06:31:02.290Z,29.134,58.416,50,3.9,mb,15,167.3,,0.87,us,usp000d28s,2014-11-07T01:23:13.329Z,"southeastern Iran",earthquake,,,,3,reviewed,us,us
+2004-08-10T02:31:03.900Z,28.485,57.068,24.9,5,mb,194,87.3,,0.92,us,usp000d1v8,2014-11-07T01:23:10.654Z,"southern Iran",earthquake,,,,90,reviewed,us,us
+2004-08-05T16:25:21.270Z,28.856,57.216,10,4.1,mb,16,99.2,,1.17,us,usp000d1jb,2014-11-07T01:23:09.276Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2004-07-22T04:51:36.010Z,29.115,58.311,10,4.8,mwc,58,95.9,,0.97,us,usp000d0nw,2016-11-10T00:40:57.374Z,"southeastern Iran",earthquake,,,,,reviewed,us,hrv
+2004-07-14T04:42:03.970Z,30.525,57.526,52.8,3.7,mb,11,238,,1.19,us,usp000d04x,2014-11-07T01:22:53.826Z,"eastern Iran",earthquake,,44.1,,1,reviewed,us,us
+2004-07-13T05:50:05.350Z,29.228,57.091,25,4.2,mb,17,128.5,,0.69,us,usp000d02k,2014-11-07T01:22:53.501Z,"southern Iran",earthquake,,,,8,reviewed,us,us
+2004-07-03T22:22:22.160Z,28.38,56.502,90.8,4.2,mb,26,174.4,,1.15,us,usp000czgn,2014-11-07T01:22:49.988Z,"southern Iran",earthquake,,38.3,,10,reviewed,us,us
+2004-06-17T13:57:24.390Z,28.983,58.626,10,3.5,mb,8,264.6,,1.26,us,usp000cy3w,2014-11-07T01:22:38.544Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2004-05-29T05:19:55.590Z,31.277,56.641,40.6,4,mb,13,184.1,,1.31,us,usp000cwgw,2014-11-07T01:22:25.762Z,"central Iran",earthquake,,27.1,,1,reviewed,us,us
+2004-05-29T02:33:48.270Z,29.111,58.35,10,4.2,mb,26,177.4,,1.12,us,usp000cwgk,2014-11-07T01:22:25.683Z,"southeastern Iran",earthquake,,,,5,reviewed,us,us
+2004-04-21T14:45:22.250Z,28.492,57.136,55,4.6,mb,39,186.7,,0.6,us,usp000ct20,2014-11-07T01:22:03.912Z,"southern Iran",earthquake,,,,17,reviewed,us,us
+2004-04-13T03:47:03.960Z,27.076,56.043,45,4.2,mb,14,243.3,,1.17,us,usp000cscm,2014-11-07T01:21:58.253Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2004-04-11T07:27:30.600Z,28.982,57.844,25,4.5,mb,8,219,,0.84,us,usp000cs7w,2014-11-07T01:21:57.647Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2004-04-08T14:23:04.030Z,28.969,58.203,10,4,mb,16,146.5,,0.71,us,usp000cs02,2014-11-07T01:21:55.978Z,"southeastern Iran",earthquake,,,,4,reviewed,us,us
+2004-03-24T18:13:13.920Z,27.592,56.168,65.8,4.6,mb,70,95.8,,0.68,us,usp000cqtd,2014-11-07T01:21:46.692Z,"southern Iran",earthquake,,10.2,,32,reviewed,us,us
+2004-03-20T17:33:47.050Z,27.704,55.192,45,4.3,mb,42,165.2,,0.58,us,usp000cqfh,2014-11-07T01:21:45.176Z,"southern Iran",earthquake,,,,15,reviewed,us,us
+2004-03-20T01:13:41.480Z,28.929,57.48,10,3.6,mb,7,175.8,,0.66,us,usp000cqdu,2014-11-07T01:21:44.985Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2004-03-18T13:21:20.740Z,28.409,56.973,50,4.5,mb,42,162.3,,0.65,us,usp000cq8t,2014-11-07T01:21:44.258Z,"southern Iran",earthquake,,,,21,reviewed,us,us
+2004-02-18T17:36:02.580Z,28.005,55.957,10,3.8,mb,12,163.9,,1.03,us,usp000cmgh,2014-11-07T01:21:22.470Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2004-02-18T00:00:19.420Z,27.152,59.257,58.9,4.1,mb,24,102.7,,0.78,us,usp000cmep,2014-11-07T01:21:22.106Z,"southeastern Iran",earthquake,,,,4,reviewed,us,us
+2004-02-02T02:02:51.200Z,28.34,56.057,48.4,4,mb,24,162.9,,0.95,us,usp000ck79,2014-11-07T01:21:15.827Z,"southern Iran",earthquake,,45.4,,8,reviewed,us,us
+2004-01-31T09:59:12.010Z,28.607,57.805,55,4.1,mb,7,173.4,,1.49,us,usp000ck37,2014-11-07T01:21:10.840Z,"southern Iran",earthquake,,0,,3,reviewed,us,us
+2004-01-28T17:29:31.570Z,29.012,58.325,10.4,4.1,mb,24,100.1,,0.87,us,usp000cjvf,2014-11-07T01:21:09.408Z,"southeastern Iran",earthquake,,44.8,,4,reviewed,us,us
+2004-01-28T09:33:36.610Z,27.046,57.453,38.9,4.3,mb,29,101.1,,0.9,us,usp000cjuh,2014-11-07T01:21:08.696Z,"southern Iran",earthquake,,26.5,,7,reviewed,us,us
+2004-01-28T09:06:48.990Z,26.878,57.513,25.7,5.2,mwc,248,49.1,,0.94,us,usp000cjuf,2016-11-10T00:24:51.891Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2004-01-21T13:23:36.330Z,29.169,58.239,10,4.3,mb,9,141.9,,0.21,us,usp000cjd9,2014-11-07T01:21:06.545Z,"southeastern Iran",earthquake,,0,,1,reviewed,us,us
+2004-01-18T02:02:19.510Z,27.545,56.197,45,4.5,mb,47,99.3,,0.73,us,usp000cj55,2014-11-07T01:21:05.700Z,"southern Iran",earthquake,,,,18,reviewed,us,us
+2004-01-11T05:06:04.750Z,29.187,58.55,10,4.1,mb,18,103.6,,1.53,us,usp000chn0,2014-11-07T01:21:02.431Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2003-12-28T15:02:12.010Z,29.01,58.393,10,4.2,mb,14,103.6,,1.04,us,usp000cgcx,2014-11-07T01:20:50.763Z,"southeastern Iran",earthquake,,,,3,reviewed,us,us
+2003-12-28T09:24:22.920Z,29.206,58.553,10,4.1,mb,6,163,,1.27,us,usp000cgc2,2014-11-07T01:20:50.681Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2003-12-27T04:45:41.670Z,28.992,58.24,10,3.5,ml,11,103.5,,0.76,us,usp000cg6k,2014-11-07T01:20:50.001Z,"southeastern Iran",earthquake,,,,,reviewed,us,thr
+2003-12-26T14:08:16.020Z,29.076,58.2,10,4.6,mb,85,99.9,,0.87,us,usp000cg42,2014-11-07T01:20:49.698Z,"southeastern Iran",earthquake,,,,32,reviewed,us,us
+2003-12-26T09:59:58.980Z,29.007,58.317,10,4,mb,13,168.1,,0.84,us,usp000cg3r,2014-11-07T01:20:49.673Z,"southeastern Iran",earthquake,,,,2,reviewed,us,us
+2003-12-26T09:16:35.340Z,29.007,58.282,10,4,mb,16,100.2,,1.28,us,usp000cg3n,2014-11-07T01:20:49.667Z,"southeastern Iran",earthquake,,,,2,reviewed,us,us
+2003-12-26T03:53:25.180Z,28.787,58.121,10,4.5,mb,57,145.6,,1.36,us,usp000cg2x,2014-11-07T01:20:49.601Z,"southeastern Iran",earthquake,,,,17,reviewed,us,us
+2003-12-26T03:41:40.050Z,28.906,58.351,10,3.8,mb,12,168.4,,0.83,us,usp000cg2t,2014-11-07T01:20:49.595Z,"southeastern Iran",earthquake,,,,1,reviewed,us,us
+2003-12-26T03:37:39.250Z,29.11,58.276,10,3.6,ml,13,167.9,,0.74,us,usp000cg2r,2014-11-07T01:20:49.592Z,"southeastern Iran",earthquake,,,,,reviewed,us,thr
+2003-12-26T03:21:09.160Z,29.016,58.316,10,3.9,ml,16,100.1,,1.16,us,usp000cg2q,2014-11-07T01:20:49.589Z,"southeastern Iran",earthquake,,,,,reviewed,us,thr
+2003-12-26T03:06:13.640Z,28.932,58.325,10,5.1,mb,200,79.6,,1.21,us,usp000cg2p,2014-11-07T01:20:49.575Z,"southeastern Iran",earthquake,,,,70,reviewed,us,us
+2003-12-26T02:34:16.870Z,29.059,58.153,10,3.8,ml,23,100,,1.27,us,usp000cg2g,2014-11-07T01:20:49.567Z,"southeastern Iran",earthquake,,,,,reviewed,us,thr
+2003-12-26T01:56:52.440Z,28.995,58.311,10,6.6,mwc,552,44.8,,1.11,us,usp000cg2d,2018-09-28T19:48:17.502Z,"southeastern Iran",earthquake,,,,,reviewed,us,hrv
+2003-12-09T17:08:54.680Z,26.586,55.494,33,3.9,mb,12,200.1,,0.86,us,usp000cewj,2014-11-07T01:20:43.582Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2003-12-03T07:27:06.780Z,28.08,56.989,33,4.3,mb,25,99.7,,1.15,us,usp000cedg,2014-11-07T01:20:40.068Z,"southern Iran",earthquake,,,,6,reviewed,us,us
+2003-11-24T06:11:18.300Z,31.4,59.336,33,4.8,mb,47,89.7,,1.13,us,usp000cdsu,2014-11-07T01:20:33.023Z,"eastern Iran",earthquake,,,,19,reviewed,us,us
+2003-11-21T10:34:36.980Z,31.401,59.427,33,5,mwc,69,55.6,,0.86,us,usp000cdjw,2016-11-10T00:00:50.493Z,"eastern Iran",earthquake,,,,,reviewed,us,hrv
+2003-11-05T07:58:51.990Z,27.532,56.124,33,4.9,mwc,283,45.2,,0.89,us,usp000cc3t,2016-11-09T23:53:26.173Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2003-11-04T00:50:02.700Z,27.42,56.319,33,4.4,mb,45,102.9,,0.95,us,usp000cc0h,2014-11-07T01:20:24.266Z,"southern Iran",earthquake,,,,20,reviewed,us,us
+2003-10-01T07:14:03.270Z,28.276,57.297,33,4.8,mb,59,162.6,,0.8,us,usp000c97s,2014-11-07T01:20:04.784Z,"southern Iran",earthquake,,,,32,reviewed,us,us
+2003-09-12T07:34:17.930Z,28.377,59.219,33,4.6,mb,11,101.6,,0.78,us,usp000c7ay,2014-11-07T01:19:48.462Z,"southeastern Iran",earthquake,,,,2,reviewed,us,us
+2003-08-21T04:02:09.170Z,29.053,59.773,20.2,5.9,mwb,416,37.1,,1.03,us,usp000c5gh,2017-04-26T18:01:48.191Z,"southeastern Iran",earthquake,,,,,reviewed,us,us
+2003-08-05T20:48:51.760Z,28.291,57.237,33,4.2,mb,33,162.5,,0.98,us,usp000c47m,2014-11-07T01:19:28.005Z,"southern Iran",earthquake,,,,12,reviewed,us,us
+2003-08-04T03:28:19.760Z,29.078,59.745,33,5.6,mwc,374,45.6,,0.95,us,usp000c41b,2016-11-09T23:09:02.662Z,"southeastern Iran",earthquake,,,,,reviewed,us,hrv
+2003-07-06T16:04:20.620Z,28.093,57.739,33,5,mwc,234,62.9,,0.94,us,usp000c1th,2016-11-09T22:55:24.478Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2003-06-13T02:55:44.460Z,27.991,57.852,33,4,mb,13,231.6,,0.87,us,usp000bzrk,2014-11-07T01:18:55.122Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2003-04-30T23:10:55.830Z,28.164,57.053,33,3.7,mb,11,266.9,,1.04,us,usp000bwb5,2014-11-07T01:18:28.144Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2003-04-16T11:06:05.060Z,30.2,57.418,33,4.5,mb,28,96.7,,1.07,us,usp000bvag,2014-11-07T01:18:21.142Z,"eastern Iran",earthquake,,,,11,reviewed,us,us
+2003-03-08T09:28:03.780Z,27.983,56.757,33,4.7,mb,98,163.6,,0.81,us,usp000bs6n,2014-11-07T01:18:01.502Z,"southern Iran",earthquake,,,,61,reviewed,us,us
+2003-03-01T18:45:54.810Z,28.75,57.419,33,4.5,mb,59,102.9,,0.88,us,usp000brrc,2014-11-07T01:17:57.071Z,"southern Iran",earthquake,,,,36,reviewed,us,us
+2003-02-14T10:28:58.930Z,28.046,56.818,37.7,5.6,mwc,269,,,1.01,us,usp000bqnf,2016-11-09T21:52:37.214Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2003-01-16T02:07:41.900Z,28.014,55.261,33,4.6,mb,61,,,1.23,us,usp000bnmb,2014-11-07T01:17:35.638Z,"southern Iran",earthquake,,,,33,reviewed,us,us
+2002-12-13T00:36:20.590Z,28.977,57.446,93.2,4.2,mb,43,,,0.96,us,usp000bkkd,2014-11-07T01:17:20.921Z,"southern Iran",earthquake,,,,14,reviewed,us,us
+2002-11-14T04:07:30.100Z,32.766,59.64,33,4.6,mb,23,,,1.13,us,usp000bhn7,2014-11-07T01:17:07.935Z,"eastern Iran",earthquake,,,,5,reviewed,us,us
+2002-10-16T09:20:49.830Z,31.455,56.469,33,5.3,mwc,49,,,1.18,us,usp000bep0,2016-11-09T23:43:43.855Z,"central Iran",earthquake,,,,,reviewed,us,hrv
+2002-10-16T09:13:37.750Z,31.412,56.49,33,4.8,mb,50,,,0.98,us,usp000benz,2014-11-07T01:16:45.764Z,"central Iran",earthquake,,,,24,reviewed,us,us
+2002-10-13T23:19:31.250Z,30.729,56.876,33,4.6,mb,43,,,1.05,us,usp000beg9,2014-11-07T01:16:45.204Z,"central Iran",earthquake,,,,26,reviewed,us,us
+2002-10-09T19:36:05.680Z,28.367,56.534,33,3.8,mb,21,,,1.28,us,usp000be45,2014-11-07T01:16:43.543Z,"southern Iran",earthquake,,,,5,reviewed,us,us
+2002-10-04T21:13:04.530Z,31.284,57.057,33,4,mb,12,,,0.99,us,usp000bdtj,2014-11-07T01:16:42.126Z,"eastern Iran",earthquake,,,,4,reviewed,us,us
+2002-09-23T06:48:38.390Z,32.387,55.503,33,4,mb,12,,,1.28,us,usp000bcy4,2014-11-07T01:16:34.018Z,"central Iran",earthquake,,,,4,reviewed,us,us
+2002-09-03T05:38:38.810Z,27.213,55.918,33,4.4,mb,9,,,1.08,us,usp000bb5u,2014-11-07T01:16:25.937Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2002-06-02T20:17:25.620Z,27.895,57.734,33,4.4,mb,75,,,0.92,us,usp000b5en,2014-11-07T01:15:45.204Z,"southern Iran",earthquake,,,,40,reviewed,us,us
+2002-06-02T20:08:22.660Z,27.917,57.672,29.7,4.7,mb,136,,,0.84,us,usp000b5em,2014-11-07T01:15:45.162Z,"southern Iran",earthquake,,,,62,reviewed,us,us
+2002-05-28T19:05:32.090Z,27.719,56.743,50.3,4.7,mb,91,,,0.7,us,usp000b54v,2014-11-07T01:15:40.956Z,"southern Iran",earthquake,,14.5,,54,reviewed,us,us
+2002-05-27T01:16:29.160Z,27.787,56.709,33,4.2,mb,16,,,0.74,us,usp000b51g,2014-11-07T01:15:40.545Z,"southern Iran",earthquake,,,,6,reviewed,us,us
+2002-05-22T02:25:33.820Z,27.406,56.629,33,4,mb,16,,,1.16,us,usp000b4ru,2014-11-07T01:15:39.043Z,"southern Iran",earthquake,,,,6,reviewed,us,us
+2002-04-30T17:38:33.320Z,27.943,56.289,33,4.3,mb,39,,,0.94,us,usp000b3f5,2014-11-07T01:15:29.729Z,"southern Iran",earthquake,,,,18,reviewed,us,us
+2002-04-27T21:24:22.180Z,31.035,57.314,33,3.9,mb,11,,,1.33,us,usp000b39r,2014-11-07T01:15:29.089Z,"eastern Iran",earthquake,,,,2,reviewed,us,us
+2002-04-20T09:35:14.980Z,27.484,56.63,33,4.7,mb,91,,,0.95,us,usp000b2tx,2014-11-07T01:15:26.871Z,"southern Iran",earthquake,,,,60,reviewed,us,us
+2002-04-17T12:51:40.360Z,27.619,56.748,33,3.8,mb,10,,,1.27,us,usp000b2kh,2014-11-07T01:15:25.969Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2002-04-17T08:47:22.850Z,27.663,56.752,33,5.3,mwc,274,,,0.82,us,usp000b2k0,2016-11-09T22:19:16.130Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2002-04-11T06:17:52.710Z,27.609,56.678,33,4.4,mb,20,,,1.07,us,usp000b263,2014-11-07T01:15:23.932Z,"southern Iran",earthquake,,,,7,reviewed,us,us
+2002-04-11T06:05:48.630Z,27.697,56.675,33,4.8,mb,74,,,0.98,us,usp000b262,2014-11-07T01:15:23.925Z,"southern Iran",earthquake,,,,43,reviewed,us,us
+2002-04-08T16:52:41.670Z,27.178,55.063,33,3.9,mb,6,,,0.67,us,usp000b1zu,2014-11-07T01:15:22.955Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2002-04-08T16:34:06.910Z,27.106,55.231,59.3,4.8,mb,126,,,0.74,us,usp000b1zt,2014-11-07T01:15:22.933Z,"southern Iran",earthquake,,11.5,,66,reviewed,us,us
+2002-04-05T18:40:19.190Z,32.057,55.973,33,5.2,mwc,205,,,0.91,us,usp000b1t8,2016-11-09T22:14:07.945Z,"central Iran",earthquake,,,,,reviewed,us,hrv
+2002-04-05T07:15:31.170Z,27.048,55.307,33,4.2,mb,11,,,0.79,us,usp000b1rv,2014-11-07T01:15:21.291Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2002-04-04T15:44:32.180Z,27.062,55.244,16.1,4.8,mb,98,,,0.82,us,usp000b1q9,2014-11-07T01:15:20.976Z,"southern Iran",earthquake,,,,62,reviewed,us,us
+2002-03-21T19:59:18.910Z,27.7,56.413,33,3.8,mb,10,,,1.43,us,usp000b0td,2014-11-07T01:15:12.736Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2002-03-21T04:46:10.660Z,27.539,55.504,33,3.6,mb,8,,,0.76,us,usp000b0s6,2014-11-07T01:15:12.631Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2002-03-15T22:46:39.890Z,27.802,57.373,33,3.8,mb,17,,,1.34,us,usp000b0d8,2014-11-07T01:15:09.355Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2002-01-04T09:06:18.320Z,28.405,57.244,33,4,mb,16,,,1.13,us,usp000avtj,2014-11-07T01:14:38.474Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2001-12-15T14:18:38.380Z,28.103,56.374,33,4.6,mb,53,,,0.96,us,usp000aunx,2014-11-07T01:14:29.128Z,"southern Iran",earthquake,,,,21,reviewed,us,us
+2001-11-25T21:30:54.350Z,28.319,57.272,40.2,5,mwc,218,,,0.96,us,usp000atfz,2016-11-10T00:02:52.645Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2001-11-23T17:19:47.890Z,28.352,57.435,33,4.1,mb,18,,,0.96,us,usp000atc3,2014-11-07T01:14:17.733Z,"southern Iran",earthquake,,,,6,reviewed,us,us
+2001-11-22T17:00:02.610Z,27.81,57.522,33,4.4,mb,43,,,0.93,us,usp000atap,2014-11-07T01:14:17.544Z,"southern Iran",earthquake,,,,16,reviewed,us,us
+2001-11-01T19:54:36.980Z,28.236,57.465,33,4.6,mb,40,,,0.85,us,usp000as22,2014-11-07T01:14:09.179Z,"southern Iran",earthquake,,,,18,reviewed,us,us
+2001-10-26T05:57:56.820Z,31.91,55.929,33,4.5,mb,38,,,1.23,us,usp000arnn,2014-11-07T01:14:03.536Z,"central Iran",earthquake,,,,19,reviewed,us,us
+2001-09-06T18:48:58.130Z,28.213,57.302,33,3.6,mb,10,,,0.65,us,usp000anrj,2014-11-07T01:13:45.194Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2001-09-06T15:14:13.240Z,26.689,57.628,33,4.2,mb,13,,,0.97,us,usp000anrc,2014-11-07T01:13:45.165Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2001-08-25T23:29:22.110Z,30.427,57.448,33,4.4,mb,28,,,1.33,us,usp000an1a,2014-11-07T01:13:36.722Z,"eastern Iran",earthquake,,,,11,reviewed,us,us
+2001-08-12T11:03:29.010Z,27.623,57.687,33,4.6,mb,72,,,0.94,us,usp000amaf,2014-11-07T01:13:31.968Z,"southern Iran",earthquake,,,,39,reviewed,us,us
+2001-06-30T00:22:44.170Z,26.78,55.593,33,4.4,mb,30,,,1.1,us,usp000ahqa,2014-11-07T01:13:09.019Z,"southern Iran",earthquake,,,,24,reviewed,us,us
+2001-06-18T05:46:54.420Z,28.195,55.647,33,4.4,mb,30,,,1.06,us,usp000agvj,2014-11-07T01:13:04.807Z,"southern Iran",earthquake,,,,8,reviewed,us,us
+2001-05-09T23:48:15.030Z,27.925,58.212,33,4.2,mb,34,,,1.11,us,usp000aeq5,2014-11-07T01:12:46.924Z,"southeastern Iran",earthquake,,,,15,reviewed,us,us
+2001-04-21T07:01:36.740Z,32.108,56.294,33,4,mb,16,,,1.06,us,usp000adqn,2014-11-07T01:12:37.145Z,"central Iran",earthquake,,,,6,reviewed,us,us
+2001-04-13T06:13:13.700Z,27.999,55.349,33,4.2,mb,13,,,1.36,us,usp000ad50,2014-11-07T01:12:34.444Z,"southern Iran",earthquake,,,,6,reviewed,us,us
+2001-02-13T03:42:40.210Z,28.322,56.343,33,4.6,mb,58,,,0.78,us,usp000a9jd,2014-11-07T01:12:08.143Z,"southern Iran",earthquake,,,,32,reviewed,us,us
+2000-12-26T06:41:19.330Z,28.452,56.186,33,4.2,mb,15,,,0.73,us,usp000a6rj,2014-11-07T01:11:46.460Z,"southern Iran",earthquake,,,,5,reviewed,us,us
+2000-12-25T20:33:41.690Z,27.264,55.46,33,4.3,mb,17,,,1.04,us,usp000a6qx,2014-11-07T01:11:46.396Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2000-12-21T10:39:48.490Z,26.616,55.786,33,4.7,mb,53,,,0.74,us,usp000a6gc,2014-11-07T01:11:45.570Z,"southern Iran",earthquake,,,,22,reviewed,us,us
+2000-11-25T06:35:38.260Z,28.194,57.62,51.7,3.8,mb,17,,,0.99,us,usp000a4wh,2014-11-07T01:11:33.798Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2000-11-24T09:18:20.380Z,28.148,57.636,82.5,4.4,mb,27,,,1.31,us,usp000a4u6,2014-11-07T01:11:33.482Z,"southern Iran",earthquake,,40.2,,3,reviewed,us,us
+2000-11-14T12:40:30.490Z,31.469,59.561,33,3.8,mb,14,,,1.55,us,usp000a3kp,2014-11-07T01:11:28.546Z,"eastern Iran",earthquake,,,,2,reviewed,us,us
+2000-11-11T18:16:02.630Z,28.321,57.633,33,4.5,mb,25,,,1.32,us,usp000a3e9,2014-11-07T01:11:27.866Z,"southern Iran",earthquake,,,,11,reviewed,us,us
+2000-11-07T18:44:26.410Z,28.202,56.933,33,4,mb,14,,,0.61,us,usp000a35n,2014-11-07T01:11:26.591Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2000-11-02T03:39:35.040Z,31.65,59.869,33,4.9,mb,100,,,0.91,us,usp000a2uz,2014-11-07T01:11:24.362Z,"eastern Iran",earthquake,,,,52,reviewed,us,us
+2000-10-23T06:54:49.580Z,31.583,59.847,33,5.3,mwc,218,,,1.01,us,usp000a28r,2016-11-09T23:47:02.661Z,"eastern Iran",earthquake,,,,,reviewed,us,hrv
+2000-09-03T08:26:35.800Z,27.955,56.186,33,4.4,mb,50,,,1.03,us,usp0009zmk,2014-11-07T01:11:01.630Z,"southern Iran",earthquake,,,,20,reviewed,us,us
+2000-08-27T20:44:55.240Z,28.056,57.166,33,4.1,mb,7,,,0.99,us,usp0009z8v,2014-11-07T01:10:55.367Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2000-08-20T22:20:20.080Z,28.086,57.216,33,4.5,mb,30,,,0.87,us,usp0009yuw,2014-11-07T01:10:53.719Z,"southern Iran",earthquake,,,,15,reviewed,us,us
+2000-08-12T05:51:30.630Z,32.66,59.373,33,3.4,mb,7,,,0.45,us,usp0009yad,2014-11-07T01:10:51.094Z,"eastern Iran",earthquake,,,,1,reviewed,us,us
+2000-07-29T18:26:58.700Z,28.44,57.176,70.6,3.8,mb,15,,,1.19,us,usp0009xdm,2014-11-07T01:10:41.653Z,"southern Iran",earthquake,,50,,1,reviewed,us,us
+2000-07-26T22:43:38.040Z,28.101,57.001,33,4.3,mb,26,,,0.54,us,usp0009x86,2014-11-07T01:10:40.850Z,"southern Iran",earthquake,,,,12,reviewed,us,us
+2000-07-18T21:14:04.300Z,27.99,56.289,33,4.1,mb,14,,,0.62,us,usp0009wr9,2014-11-07T01:10:37.581Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2000-07-15T07:53:51.390Z,28.414,57.251,33,3.9,mb,19,,,1.05,us,usp0009wjj,2014-11-07T01:10:36.741Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2000-06-05T14:05:43.430Z,28.289,56.102,33,4.3,mb,6,,,1.06,us,usp0009u29,2014-11-07T01:10:19.244Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2000-06-05T11:43:18.810Z,27.446,56.905,33,3.9,mb,5,,,1.06,us,usp0009u1z,2014-11-07T01:10:19.218Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2000-05-23T13:55:42.740Z,32.45,59.949,33,3.9,mb,,,,0.57,us,usp0009tch,2014-11-07T01:10:11.141Z,"eastern Iran",earthquake,,,,2,reviewed,us,us
+2000-05-21T22:12:43.860Z,32.522,59.333,33,4.2,mb,,,,1.2,us,usp0009t9u,2014-11-07T01:10:10.835Z,"eastern Iran",earthquake,,,,2,reviewed,us,us
+2000-05-21T08:27:37.570Z,27.163,55.4,33,3.7,mb,,,,1.18,us,usp0009t90,2014-11-07T01:10:10.706Z,"southern Iran",earthquake,,,,3,reviewed,us,us
+2000-03-17T09:18:02.050Z,27.813,56.482,33,4.1,mb,,,,0.87,us,usp0009ptj,2014-11-07T01:09:42.617Z,"southern Iran",earthquake,,,,4,reviewed,us,us
+2000-03-05T09:50:54.220Z,27.868,56.459,33,3.9,mb,,,,0.94,us,usp0009p9y,2014-11-07T01:09:39.403Z,"southern Iran",earthquake,,,,2,reviewed,us,us
+2000-03-05T09:40:06.060Z,27.946,56.467,33,5.4,mwc,,,,0.93,us,usp0009p9w,2016-11-09T22:00:42.990Z,"southern Iran",earthquake,,,,,reviewed,us,hrv
+2000-02-29T17:16:07.900Z,28.249,57.138,120.8,4.5,mb,,,,1.29,us,usp0009p40,2014-11-07T01:09:34.711Z,"southern Iran",earthquake,,20,,16,reviewed,us,us
+2000-02-25T04:55:19.390Z,30.447,57.613,33,4,mb,,,,1.08,us,usp0009nxq,2014-11-07T01:09:33.576Z,"eastern Iran",earthquake,,,,1,reviewed,us,us
+2000-02-02T17:19:59.990Z,26.925,55.391,33,4.1,mb,,,,0.68,us,usp0009myu,2014-11-07T01:09:25.691Z,"southern Iran",earthquake,,,,1,reviewed,us,us
+2000-01-26T06:17:05.730Z,26.314,57.425,33,3.7,mb,,,,0.84,us,usp0009mp8,2014-11-07T01:09:22.013Z,"southern Iran",earthquake,,,,3,reviewed,us,us
