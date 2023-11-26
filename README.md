@@ -22,7 +22,12 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
 * Steps to install required Libraries
   ```sh
-  > install.packages("ETAS")
-  > install.packages("etasFLP")
-  > install.packages("dplyr")
+  install.packages("ETAS")
+  install.packages("etasFLP")
+  install.packages("dplyr")
+
+### Reproduce the analysis
+
+The following steps 
+
 
