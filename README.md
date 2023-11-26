@@ -16,18 +16,39 @@ The models have nuances in their mathematic formulation, yet significant differe
 
 The project concludes with the second variation of the ETAS model being more applicable to the data, as the model considers parameters that are deemed to be significant in the model in particular its applications to the aftershock activity.  
 
+## Reproduce the analysis
+
+The following steps through how one can reproduce the data gathering, analysis and presentation. One important note to make is that depending on your version of R, or further updates to the packages that are being used, results may vary slightly due to the nature of the iterative processes used in the analysis.
+
 ### Software Utilised and Prerequisites
 
 This project was run utilising [R](https://cran.r-project.org/bin/windows/base/), with the corresponding IDE [RStudio ](https://posit.co/download/rstudio-desktop/) being used. After downloading and installing these programs, a few library's were installed, one for each of the models ([etas](https://cran.r-project.org/web/packages/ETAS/index.html) and [etasflp](https://cran.r-project.org/web/packages/etasFLP/index.html)) and another for basic data transformation [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
 
-* Steps to install required Libraries
+* Steps to install required Libraries for this exercise
   ```sh
   install.packages("ETAS")
   install.packages("etasFLP")
   install.packages("dplyr")
 
-### Reproduce the analysis
+### Run the analysis for the ETAS Model (Model 1)
 
-The following steps are used
 
+
+* Use the following command line to set the working directory to the relevant repository, load in the necessary files and run load the libraries highlighted above. 
+  ```sh
+  # Set the working directory to this repository
+  setwd("Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology")
+
+  # Load the dplyr package
+  library(dplyr)
+
+  # Load the ETAS package
+  library(ETAS)
+
+  #Load the etasflp package
+  library(etasFLP)
+
+  
+  
+  
 
