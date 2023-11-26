@@ -61,11 +61,28 @@ The necessary R code to run this is summarised below. Note that not the below co
   dat <- dat[, c(1, 2, 4, 3, 6)]
   names(dat) <- c('date', 'time', 'long', 'lat', 'mag')
 
-  # Create the catalog of data, where the threshold of 4.3 is set as highlighted above. This is the value that is
+  # Create the catalog of data, where the threshold of 4.0 is set as highlighted above. This is the value that is
   # set differently for each of the nine models, ranging from 3.0 to 4.5 as shown in the table below.
-  cat7 <- catalog(dat, time.begin = "1970/01/01", study.start = "2004/01/01", lat.range = c(26, 34), long.range=c(55, 60),mag.threshold = 4.3)
-  cat7
+  cat <- catalog(dat, time.begin = "1970/01/01", study.start = "2004/01/01", lat.range = c(26, 34), long.range=c(55, 60),mag.threshold = 4.0)
 
+  # Plot of this catalog allows one to assess the necessary charts, and determine the ideal cutoff using a plot of the logarithm of the
+  # magnitude of frequencies
+  plot(cat)
+
+  # Starting parameters for estimation as per the above table
+  param1 <- c(1.025, 1.18, 0.02, 0.1, 1.08, 0.0018, 1.22, 0.5)
+
+  # Fit the ETAS model and display results
+  fit<- etas(cat, param0=param1)
+  fit
+
+  # Display seismicity rates, clusttering coefficients and heatmaps
+  rates(fit, lat.range = NULL, long.range = NULL,dimyx=NULL, plot.it=TRUE)
+
+  # Residuals from model output to review model assumptions and accuracy
+  resid.etas(fit)
+
+A summary of running each iteration of the models developed is below, with key estimates of each parameter shown below. To obtain the same results, the mag.threshold needs to be set in the data catalog based on the value in the "Threshold" row.
 
 | Model             | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 | Model 6 | Model 7 | Model 8 | Model 9 |
 |-------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -87,8 +104,18 @@ The necessary R code to run this is summarised below. Note that not the below co
 | c1 Estimate      | 0.01    | 0.01    | 0.02    | 0.01    | 0.02    | 0.02    | 0.02    | 0.01    | 0.01    |
 | c1 St Error      | 0.07    | 0.07    | 0.08    | 0.08    | 0.09    | 0.09    | 0.10    | 0.11    | 0.15    |
 | c1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| p1 Estimate      | 
+| p1 Estimate      | 1.09    | 1.09    | 1.09    | 1.09    | 1.09    | 1.08    | 1.08    | 1.07    | 1.03    |
+| p1 St Error      | 0.00    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    |
+| p1 Significant    | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+| γ1 Estimate       | 0.22    | 0.11    | 0.77    | 0.51    | 0.61    | 0.19    | 0.35    | 0.79    | 0.34    |
+| γ1 St Error       | 0.35    | 0.85    | 0.15    | 0.23    | 0.22    | 0.82    | 0.52    | 0.25    | 0.63    |
+| γ1 Significant    | No      | No      | Yes     | Yes     | Yes     | No      | No      | Yes     | No      |
+| D_1 Estimate       | 0.002   | 0.002   | 0.001   | 0.002   | 0.002   | 0.003   | 0.002   | 0.002   | 0.003   |
+| D_1 St Error       | 0.12    | 0.10    | 0.10    | 0.09    | 0.10    | 0.10    | 0.12    | 0.12    | 0.14    |
+| D_1 Significant    | No      | No      | No      | No      | No      | No      | No      | No      | No      |
+| q_1 Estimate       | 1.23    | 1.20    | 1.18    | 1.21    | 1.20    | 1.22    | 1.17    | 1.17    | 1.18    |
+| q_1 St Error       | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.02    |
+| q_1 Significant    | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
 
-  
   
 
