@@ -22,7 +22,7 @@ The following steps through how one can reproduce the data gathering, analysis a
 
 ### Software Utilised and Prerequisites
 
-This project was run utilising [R](https://cran.r-project.org/bin/windows/base/), with the corresponding IDE [RStudio ](https://posit.co/download/rstudio-desktop/) being used. After downloading and installing these programs, a few library's were installed, one for each of the models ([etas](https://cran.r-project.org/web/packages/ETAS/index.html) and [etasflp](https://cran.r-project.org/web/packages/etasFLP/index.html)) and another for basic data transformation [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
+This project was run utilising [R](https://cran.r-project.org/bin/windows/base/), with the corresponding IDE [RStudio ](https://posit.co/download/rstudio-desktop/) being used. After downloading and installing these programs, a few library's were installed, one for each of the models ([etas](https://cran.r-project.org/web/packages/ETAS/index.html) and [etasFLP](https://cran.r-project.org/web/packages/etasFLP/index.html)) and another for basic data transformation [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
 
 * Steps to install required Libraries for this exercise
   ```sh
@@ -47,75 +47,80 @@ The necessary R code to run this is summarised below. Note that not the below co
   ```sh
   # Set the working directory to this repository
   setwd("Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology")
-
   # Load the dplyr package
   library(dplyr)
-
   # Load the ETAS package
   library(ETAS)
 
+* Load the necessary data files and data transformation
+  ```sh
   # Load in the file csv file for this model referenced above 
   dat <- read.csv(file="bametas.csv")
-
   # Renaming of columns so they can be loaded into the model.
   dat <- dat[, c(1, 2, 4, 3, 6)]
   names(dat) <- c('date', 'time', 'long', 'lat', 'mag')
 
+* Create the catalog of data, and run the model and assess results.
+  ```sh
   # Create the catalog of data, where the threshold of 4.0 is set as highlighted above. This is the value that is
   # set differently for each of the nine models, ranging from 3.0 to 4.5 as shown in the table below.
   cat <- catalog(dat, time.begin = "1970/01/01", study.start = "2004/01/01", lat.range = c(26, 34), long.range=c(55, 60),mag.threshold = 4.0)
-
-  # Plot of this catalog allows one to assess the necessary charts, and determine the ideal cutoff using a plot of the logarithm of the
-  # magnitude of frequencies
+  # Plot of this catalog allows one to assess the necessary charts, and determine the ideal cutoff using a plot of the logarithm of the magnitude of frequencies
   plot(cat)
-
   # Starting parameters for estimation as per the above table
   param1 <- c(1.025, 1.18, 0.02, 0.1, 1.08, 0.0018, 1.22, 0.5)
-
   # Fit the ETAS model and display results
   fit<- etas(cat, param0=param1)
   fit
-
   # Display seismicity rates, clusttering coefficients and heatmaps
   rates(fit, lat.range = NULL, long.range = NULL,dimyx=NULL, plot.it=TRUE)
-
   # Residuals from model output to review model assumptions and accuracy
   resid.etas(fit)
 
-A summary of running each iteration of the models developed is below, with key estimates of each parameter shown below. To obtain the same results, the mag.threshold needs to be set in the data catalog based on the value in the "Threshold" row.
 
-| Model             | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 | Model 6 | Model 7 | Model 8 | Model 9 |
-|-------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| Threshold         | 3.0     | 3.5     | 3.9     | 4.0     | 4.1     | 4.2     | 4.3     | 4.4     | 4.5     |
-| Observations      | 1002    | 945     | 924     | 785     | 684     | 582     | 486     | 407     | 323.00  |
-| AIC               | 6969.03 | 6803.62 | 6181.44 | 5991.68 | 5482.55 | 4920.94 | 4328.58 | 3765.28 | 3260.79 |
-| # of Iterations   | 8       | 8       | 8       | 8       | 8       | 8       | 8       | 6       | 7       |
-| Time Taken        | 25 mins | 19 mins | 19 mins | 20 mins | 22 mins | 18 mins | 7 mins  | 5 mins  | 6 mins  |
-| Significant Parameters | 4       | 4       | 5       | 5       | 5       | 4       | 4       | 5       | 4       |
-| μ1 Estimate      | 0.87    | 0.87    | 0.85    | 0.85    | 0.84    | 0.84    | 0.84    | 0.86    | 0.88    |
-| μ1 St Error      | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.03    | 0.03    |
-| μ1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
-| A1 Estimate      | 1.17    | 1.18    | 1.21    | 1.17    | 1.18    | 1.19    | 1.31    | 1.40    | 2.49    |
-| A1 St Error      | 0.04    | 0.04    | 0.04    | 0.05    | 0.05    | 0.06    | 0.07    | 0.09    | 0.26    |
-| A1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
-| α1 Estimate      | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    |
-| α1 St Error      | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     |
-| α1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| c1 Estimate      | 0.01    | 0.01    | 0.02    | 0.01    | 0.02    | 0.02    | 0.02    | 0.01    | 0.01    |
-| c1 St Error      | 0.07    | 0.07    | 0.08    | 0.08    | 0.09    | 0.09    | 0.10    | 0.11    | 0.15    |
-| c1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| p1 Estimate      | 1.09    | 1.09    | 1.09    | 1.09    | 1.09    | 1.08    | 1.08    | 1.07    | 1.03    |
-| p1 St Error      | 0.00    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    |
-| p1 Significant    | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
-| γ1 Estimate       | 0.22    | 0.11    | 0.77    | 0.51    | 0.61    | 0.19    | 0.35    | 0.79    | 0.34    |
-| γ1 St Error       | 0.35    | 0.85    | 0.15    | 0.23    | 0.22    | 0.82    | 0.52    | 0.25    | 0.63    |
-| γ1 Significant    | No      | No      | Yes     | Yes     | Yes     | No      | No      | Yes     | No      |
-| D_1 Estimate       | 0.002   | 0.002   | 0.001   | 0.002   | 0.002   | 0.003   | 0.002   | 0.002   | 0.003   |
-| D_1 St Error       | 0.12    | 0.10    | 0.10    | 0.09    | 0.10    | 0.10    | 0.12    | 0.12    | 0.14    |
-| D_1 Significant    | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| q_1 Estimate       | 1.23    | 1.20    | 1.18    | 1.21    | 1.20    | 1.22    | 1.17    | 1.17    | 1.18    |
-| q_1 St Error       | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.01    | 0.02    |
-| q_1 Significant    | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+### Run the analysis for the etasFLP Model (Model 2)
 
-  
+The data obtained from USGS is transformed prior to loading into R, in that only the headers relating to columns time, latitude, longitude, depth and magnitude are retained, with the rest being removed from the dataset. The next step was slightly different however, in that the date and time are included in the same column, with the format being “yyyy/mm/dd  hh:mm:ss”. The data was then loaded into R 3.6.1, utilising the etasFLP package to develop this version of the model. 
+
+Nine models were devleoped, each with a different threshold for the magnitude of earthquakes to be included within the model as required for this model. In addition to this, starting parameters were also required to be used.
+
+* Use the following command line to set the working directory to the relevant repository, load in the necessary files and run load the libraries highlighted above. 
+  ```sh
+  # Set the working directory to this repository
+  setwd("Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology")
+
+* Load the necessary data files, create dataset for model and data transformation
+```sh
+  # Load the etasFLP package
+  library(etasFLP)
+  # Load the data into the IDE
+  dat1 <- read.csv(file="bametasflp.csv")
+  # Basic data transformation to the it into the right format, and convert time to seconds.
+  dat1$lat <- dat1$latitude
+  dat1$long <- dat1$longitude
+  tsec =timecharunique2seq(dat1$date)[["sec"]]
+  dat1$datetime2 <- tsec
+  dat1 <- dat1[c(8, 7, 6, 4, 5)]
+  # Load the dplyr package for data transformation and renaming of columns. Finalisation of dataset for model.
+  library(dplyr)
+  dat1 <- rename(dat1, time = datetime2)
+  dat1 <- rename(dat1, z = depth)
+  dat1 <- rename(dat1, magn1 = mag)
+  # Plot magnitude of frequencies
+  magn.plot(bamdetas4)
+
+* Run the model and assess results.
+  ```sh
+  # Set starting parameters for the model
+  etas.starting(dat1, m0=3, p.start=1, a.start=1.5, gamma.start=0.5, q.start=2,longlat.to.km=TRUE, sectoday=TRUE)
+  # Set threshold to 3 for the first model tested.
+  magn.threshold = 3
+  # Create model using data provided
+  M1 <- etasclass(dat1, magn.threshold=magn.threshold, magn.threshold.back=magn.threshold+0.5, mu=0.08720895, k0= 0.06239737,c=0.1441001,p=1,a=1.5,gamma=.5,d=37.44874,q=2, params.ind=replicate(8,TRUE), hdef=c(1,1), declustering=TRUE,thinning=FALSE, flp=TRUE, m1=NULL, ndeclust=5, onlytime=FALSE,is.backconstant=FALSE, w=replicate(nrow(dat1[dat1$magn1 >=magn.threshold, ]),1), description="", cat.back=NULL, back.smooth=1.0, sectoday=TRUE,longlat.to.km=TRUE, usenlm=TRUE, method ="BFGS", compsqm=TRUE, epsmax=0.0001, iterlim=100, ntheta=100)
+  # Return results from model run
+  M1
+  summary(M1)
+  # Return plots associated with model 
+  plot(M1,pdf=TRUE,file ="Bam, Iran ETASFLP Plots - Threshold 4", ngrid=201,nclass=10,tfixed=0,flag.3D=FALSE,flag.log=FALSE)
+
 
