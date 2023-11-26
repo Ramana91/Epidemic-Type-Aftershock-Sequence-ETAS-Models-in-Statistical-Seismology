@@ -41,7 +41,7 @@ Nine models were devleoped, each with a different threshold for the magnitude of
 | Initial Estimate| 1.025 | 1.18  | 0.02  | 0.1 | 1.08  | 0.0018 | 1.22  | 0.5 |
 
 
-The necessary R code to run this is summarised below. Note that 
+The necessary R code to run this is summarised below. Note that not the below code does not include the code for each of the nine models built, as that would include irrelevant repetition. 
 
 * Use the following command line to set the working directory to the relevant repository, load in the necessary files and run load the libraries highlighted above. 
   ```sh
@@ -61,7 +61,8 @@ The necessary R code to run this is summarised below. Note that
   dat <- dat[, c(1, 2, 4, 3, 6)]
   names(dat) <- c('date', 'time', 'long', 'lat', 'mag')
 
-
+  # Create the catalog of data, where the threshold of 4.3 is set as highlighted above. This is the value that is
+  # set differently for each of the nine models, ranging from 3.0 to 4.5 as shown in the table below.
   cat7 <- catalog(dat, time.begin = "1970/01/01", study.start = "2004/01/01", lat.range = c(26, 34), long.range=c(55, 60),mag.threshold = 4.3)
   cat7
 
