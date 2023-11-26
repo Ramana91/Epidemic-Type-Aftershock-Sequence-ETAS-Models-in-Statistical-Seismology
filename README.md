@@ -74,19 +74,19 @@ The necessary R code to run this is summarised below. Note that
 | # of Iterations   | 8       | 8       | 8       | 8       | 8       | 8       | 8       | 6       | 7       |
 | Time Taken        | 25 mins | 19 mins | 19 mins | 20 mins | 22 mins | 18 mins | 7 mins  | 5 mins  | 6 mins  |
 | Significant Parameters | 4       | 4       | 5       | 5       | 5       | 4       | 4       | 5       | 4       |
-| μ_1 Estimate      | 0.87    | 0.87    | 0.85    | 0.85    | 0.84    | 0.84    | 0.84    | 0.86    | 0.88    |
-| μ_1 St Error      | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.03    | 0.03    |
-| μ_1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
-| A_1 Estimate      | 1.17    | 1.18    | 1.21    | 1.17    | 1.18    | 1.19    | 1.31    | 1.40    | 2.49    |
-| A_1 St Error      | 0.04    | 0.04    | 0.04    | 0.05    | 0.05    | 0.06    | 0.07    | 0.09    | 0.26    |
-| A_1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
-| α_1 Estimate      | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    |
-| α_1 St Error      | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     |
-| α_1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| c_1 Estimate      | 0.01    | 0.01    | 0.02    | 0.01    | 0.02    | 0.02    | 0.02    | 0.01    | 0.01    |
-| c_1 St Error      | 0.07    | 0.07    | 0.08    | 0.08    | 0.09    | 0.09    | 0.10    | 0.11    | 0.15    |
-| c_1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
-| p_1 Estimate      | 
+| μ1 Estimate      | 0.87    | 0.87    | 0.85    | 0.85    | 0.84    | 0.84    | 0.84    | 0.86    | 0.88    |
+| μ1 St Error      | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.02    | 0.03    | 0.03    |
+| μ1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+| A1 Estimate      | 1.17    | 1.18    | 1.21    | 1.17    | 1.18    | 1.19    | 1.31    | 1.40    | 2.49    |
+| A1 St Error      | 0.04    | 0.04    | 0.04    | 0.05    | 0.05    | 0.06    | 0.07    | 0.09    | 0.26    |
+| A1 Significant   | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     | Yes     |
+| α1 Estimate      | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    |
+| α1 St Error      | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     | N/A     |
+| α1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
+| c1 Estimate      | 0.01    | 0.01    | 0.02    | 0.01    | 0.02    | 0.02    | 0.02    | 0.01    | 0.01    |
+| c1 St Error      | 0.07    | 0.07    | 0.08    | 0.08    | 0.09    | 0.09    | 0.10    | 0.11    | 0.15    |
+| c1 Significant   | No      | No      | No      | No      | No      | No      | No      | No      | No      |
+| p1 Estimate      | 
 
   
   
