@@ -10,7 +10,7 @@ For this approach, the dataset used was obtained from USGS. The data retrieved c
 
 This is a necessary assumption that needs to be fulfilled, as both versions of the ETAS model require the data to be stationary in time, as the results of the output, particularly in the case of the first model, is not reliable if this assumption is violated
 
-The original dataset that was used is included, and is titled ["originaldata.csv"](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/originaldata.csv). The data was then split out into two files, one file ["bametas.csv"](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/bametas.csv) for the ETAS model with semi-Parametic Estimation which was first introduced by [Ogata in 1988](https://www.jstor.org/stable/2288914), and another file [bametasFLP.csv](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/bametasFLP.csv)for the version of ETAS model which utilised the forward likelihood predictive approach to esitmate estimate the non-parametric components of background seismicity, with the triggered seismicity being estimated through maximum likelihood [(Chiodi & Adelfio, 2011)](https://onlinelibrary.wiley.com/doi/10.1002/env.1121). 
+The original dataset that was used is included, and is titled ["originaldata.csv"](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/originaldata.csv). The data was then split out into two files, one file ["bametas.csv"](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/bametas.csv) for the ETAS model with semi-Parametic Estimation which was first introduced by [Ogata in 1988](https://www.jstor.org/stable/2288914), and another file [bametasFLP.csv](https://github.com/Ramana91/Epidemic-Type-Aftershock-Sequence-ETAS-Models-in-Statistical-Seismology/blob/main/bametasFLP.csv)for the version of ETAS model which utilised the forward likelihood predictive approach to estimate the non-parametric components of background seismicity, with the triggered seismicity being estimated through maximum likelihood [(Chiodi & Adelfio, 2011)](https://onlinelibrary.wiley.com/doi/10.1002/env.1121). 
 
 The models have nuances in their mathematic formulation, yet significant differences in the methods that are employed to estimate the background seismicity. Both models employ Maximum Likelihood Estimation (MLE) to estimate the main parameters. However, the difference between the two comes with the estimation of the background seismicity. The first model estimates it through a semiparametric approach, whereas the second variation of the ETAS model, estimates the background seismicity through nonparametric estimation, utilising Forward Likelihood Prediction (FLP). 
 
@@ -18,7 +18,7 @@ The project concludes with the second variation of the ETAS model being more app
 
 ## Reproduce the analysis
 
-The following steps through how one can reproduce the data gathering, analysis and presentation. One important note to make is that depending on your version of R, or further updates to the packages that are being used, results may vary slightly due to the nature of the iterative processes used in the analysis.
+The following steps through how one can reproduce the data gathering, analysis and presentation. One important note to make is that depending on your version of R, or further updates to the packages that are being used after this analysis was conducted, results may vary slightly due to the nature of the iterative processes used in the analysis.
 
 ### Software Utilised and Prerequisites
 
@@ -32,7 +32,7 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
 ### Run the analysis for the ETAS Model (Model 1)
 
-
+Given the two separate models that were run, slight variations in datasets are required. This is for the first ETAS model, that does not utilise the forward likelihood predictive approach for non-parametric estimation.
 
 * Use the following command line to set the working directory to the relevant repository, load in the necessary files and run load the libraries highlighted above. 
   ```sh
@@ -44,9 +44,48 @@ This project was run utilising [R](https://cran.r-project.org/bin/windows/base/)
 
   # Load the ETAS package
   library(ETAS)
+  dat <- read.csv(file="C:/Users/raman/OneDrive/STAT 825 - Research Project/2000 - 2019/bametas.csv")
+  dat <- dat[, c(1, 2, 4, 3, 6)]
+  names(dat) <- c('date', 'time', 'long', 'lat', 'mag')
 
-  #Load the etasflp package
-  library(etasFLP)
+
+  cat7 <- catalog(dat, time.begin = "1970/01/01", study.start = "2004/01/01", lat.range = c(26, 34), long.range=c(55, 60),mag.threshold = 4.3)
+  cat7
+
+
+Table 1 .4 – Method 1 Model Comparisons
+Model	Model 1	Model 2	Model 3	Model 4	Model 5	Model 6	Model 7	Model 8	Model 9
+Threshold	3.0	3.5	3.9	4.0	4.1	4.2	4.3	4.4	4.5
+Observations	1002	945	924	785	684	582	486	407	323.00
+AIC	6969.03	6803.62	6181.44	5991.68	5482.55	4920.94	4328.58	3765.28	3260.79
+# of Iterations	8	8	8	8	8	8	8	6	7
+Time Taken	25 mins	19 mins	19 mins	20 mins	22 mins	18 mins	7 mins	5 mins	6 mins
+Significant Parameters	4	4	5	5	5	4	4	5	4
+μ_1	Estimate	0.87	0.87	0.85	0.85	0.84	0.84	0.84	0.86	0.88
+	St Error	0.02	0.02	0.02	0.02	0.02	0.02	0.02	0.03	0.03
+	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+A_1	Estimate	1.17	1.18	1.21	1.17	1.18	1.19	1.31	1.40	2.49
+	St Error	0.04	0.04	0.04	0.05	0.05	0.06	0.07	0.09	0.26
+	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+α_1	Estimate	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+	St Error	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+	Significant	No	No	No	No	No	No	No	No	No
+c_1	Estimate	0.01	0.01	0.02	0.01	0.02	0.02	0.02	0.01	0.01
+	St Error	0.07	0.07	0.08	0.08	0.09	0.09	0.10	0.11	0.15
+	Significant	No	No	No	No	No	No	No	No	No
+p_1	Estimate	1.09	1.09	1.09	1.09	1.09	1.08	1.08	1.07	1.03
+	St Error	0.00	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01
+	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+γ_1	Estimate	0.22	0.11	0.77	0.51	0.61	0.19	0.35	0.79	0.34
+	St Error	0.35	0.85	0.15	0.23	0.22	0.82	0.52	0.25	0.63
+	Significant	No	No	Yes	Yes	Yes	No	No	Yes	No
+D_1	Estimate	0.002	0.002	0.001	0.002	0.002	0.003	0.002	0.002	0.003
+	St Error	0.12	0.10	0.10	0.09	0.10	0.10	0.12	0.12	0.14
+	Significant	No	No	No	No	No	No	No	No	No
+q_1	Estimate	1.23	1.20	1.18	1.21	1.20	1.22	1.17	1.17	1.18
+	St Error	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.02
+	Significant	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+
 
   
   
